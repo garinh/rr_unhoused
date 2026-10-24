@@ -1,19 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>unhoused project</title>
-  <style>
-    body {
-      background-color: limegreen;
-    }
-    p {
-      font-size: 2rem;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RUC - Rogue Unhoused Count</title>
+    <!-- Tailwind CSS for styling to replicate the clean, modern look -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Inter to mimic clean sans-serif Streamlit typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Streamlit default background color */
+            background-color: #f0f2f6;
+            /* Streamlit default text color */
+            color: #31333F;
+        }
+        /* Custom accent color (Streamlit Red) */
+        .text-streamlit-red {
+            color: #FF4B4B;
+        }
+        .bg-streamlit-red {
+            background-color: #FF4B4B;
+        }
+        .hover-text-streamlit-red:hover {
+            color: #ff3333;
+        }
+    </style>
 </head>
-<body>
-  <p>unhoused project (placeholder)</p>
+<body class="min-h-screen flex flex-col antialiased">
+
+    <!-- Top Navigation / Header (Optional but helps with the app feel) -->
+    <header class="bg-white shadow-sm border-b border-gray-200">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <div class="w-4 h-4 rounded-full bg-streamlit-red"></div>
+                <span class="font-semibold text-lg tracking-tight">RUC Project</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="flex-grow max-w-5xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-10">
+
+        <!-- Page Title -->
+        <div class="mb-8">
+            <h1 class="text-4xl sm:text-5xl font-bold tracking-tight text-gray-900 mb-2">
+                Rogue Unhoused Count
+            </h1>
+            <p class="text-xl text-gray-500 font-light">
+                RUC Project Landing Page
+            </p>
+        </div>
+
+        <!-- Description Panel (Placeholder for your text) -->
+        <section class="bg-white rounded-xl shadow-sm border border-gray-200 p-6 sm:p-8 mb-8">
+            <div class="flex items-center mb-4">
+                <svg class="w-6 h-6 text-gray-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+                <h2 class="text-2xl font-semibold text-gray-800">Project Overview</h2>
+            </div>
+
+            <!-- INSERT YOUR DESCRIPTION HERE -->
+            <div class="prose max-w-none text-gray-600 leading-relaxed">
+                <p class="mb-4 bg-yellow-50 p-4 border-l-4 border-yellow-400 text-yellow-800 rounded-r-md">
+                    <strong>Note to Editor:</strong> Insert your detailed description of the Rogue Unhoused Count (RUC) project here.
+                </p>
+                <p>
+                    [Placeholder text: Describe the goals, methodology, and timeline of the Rogue Unhoused Count. Explain who is involved, what data is being collected, and how the results will be used to support the community. This panel is designed to hold multiple paragraphs, lists, or links as needed.]
+                </p>
+            </div>
+        </section>
+
+        <!-- Link to Cascadia Site Panel -->
+        <section class="bg-white rounded-xl shadow-sm border border-gray-200 p-6 sm:p-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Related Resources</h2>
+            <p class="text-gray-600 mb-6">
+                For additional context, regional data, and related initiatives, please visit the Cascadia project dashboard.
+            </p>
+
+            <a href="https://rr-unhoused.streamlit.app/" target="_blank" rel="noopener noreferrer"
+               class="inline-flex items-center px-5 py-2.5 bg-white border border-gray-300 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 transition-colors shadow-sm group">
+                <svg class="w-5 h-5 mr-2 text-streamlit-red" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path>
+                </svg>
+                Visit the Cascadia Site
+                <svg class="w-4 h-4 ml-2 text-gray-400 group-hover:text-gray-600 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                </svg>
+            </a>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-auto py-6 text-center">
+        <p class="text-sm text-gray-400">
+            &copy; 2026
+        </p>
+    </footer>
+
 </body>
 </html>
