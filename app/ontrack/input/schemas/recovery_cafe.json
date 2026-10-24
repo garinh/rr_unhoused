@@ -1,0 +1,31 @@
+{
+  "label": "Recovery Café",
+  "short_label": "RECOVERY CAFE",
+  "source_system": "RECOVERY_CAFE",
+  "optional": false,
+  "expected_count": 155,
+  "client_file": "recovery_cafe_members.csv",
+  "services_file": "recovery_cafe_services.csv",
+  "columns": {
+    "client_id": "member_number",
+    "first_name": "given_name",
+    "last_name": "surname",
+    "dob": "dob",
+    "ssn": null,
+    "encounter_date": "last_meal_visit"
+  },
+  "ssn_type": "none",
+  "special": "alias_preferred",
+  "special_config": {
+    "alias_col": "preferred_alias",
+    "alias_overrides": "first_name"
+  },
+  "services_columns": {
+    "encounter_id": "visit_id",
+    "client_id": "member_number",
+    "encounter_date": "visit_date",
+    "service_category": "activity_type",
+    "location_info": "attended_meal",
+    "location_info_prefix": "Meal Attended: "
+  }
+}

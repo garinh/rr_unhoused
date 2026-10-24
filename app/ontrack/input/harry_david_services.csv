@@ -1,0 +1,315 @@
+svc_id,hd_client_id,visit_date,program_type,items_provided,site_location
+HD-SVC-00001,HD-0000001,2026-04-19,Moose Munch Community Pack,Moose Munch Popcorn,Salvation Army - Medford
+HD-SVC-00002,HD-0000001,2026-01-25,Pear Harvest Share,"Moose Munch Popcorn, Royal Riviera Pears",Jackson County Fairgrounds - Central Point
+HD-SVC-00003,HD-0000001,2026-07-04,Pear Harvest Share,Holiday Gift Assortment,St. Matthew's Church - Ashland
+HD-SVC-00004,HD-0000001,2026-08-07,Community Meal Voucher,Moose Munch Popcorn,Salvation Army - Medford
+HD-SVC-00005,HD-0000002,2026-03-29,Weekend Food Box,Holiday Gift Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00006,HD-0000002,2026-11-03,Emergency Food Box - Family,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00007,HD-0000002,2026-02-11,Pear Harvest Share,Truffles & Confections,St. Matthew's Church - Ashland
+HD-SVC-00008,HD-0000003,2026-12-25,Pear Harvest Share,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00009,HD-0000003,2026-06-04,Harry & David Pantry Staples Kit,Royal Riviera Pears,HD Distribution Center - Medford
+HD-SVC-00010,HD-0000003,2026-12-29,Truffle & Confections Box,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00011,HD-0000003,2026-06-28,Pear Harvest Share,Holiday Gift Assortment,HD Distribution Center - Medford
+HD-SVC-00012,HD-0000003,2026-11-28,Emergency Food Box - Family,Holiday Gift Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00013,HD-0000004,2026-11-02,Seasonal Fruit Box,Pantry Staples + Pears,Rogue Valley YMCA - Medford
+HD-SVC-00014,HD-0000004,2026-09-25,Truffle & Confections Box,"Pears, Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00015,HD-0000004,2026-11-03,Partner Referral: Meals on Wheels,"Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00016,HD-0000005,2027-01-17,Harry & David Pantry Staples Kit,Pantry Staples + Pears,Rogue Valley YMCA - Medford
+HD-SVC-00017,HD-0000005,2026-05-10,Partner Referral: Meals on Wheels,Truffles,Peace House Drop-In - Ashland
+HD-SVC-00018,HD-0000005,2026-03-15,Senior Nutrition Pack,Pantry Staples + Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00019,HD-0000005,2026-02-22,Truffle & Confections Box,Moose Munch Popcorn,Rogue Valley YMCA - Medford
+HD-SVC-00020,HD-0000005,2026-07-16,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",St. Matthew's Church - Ashland
+HD-SVC-00021,HD-0000006,2026-04-14,Holiday Gift Basket Distribution,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00022,HD-0000006,2026-08-03,Community Meal Voucher,Royal Riviera Pears,Salvation Army - Medford
+HD-SVC-00023,HD-0000006,2026-12-25,Harry & David Pantry Staples Kit,Pantry Staples + Pears,Rogue Valley YMCA - Medford
+HD-SVC-00024,HD-0000006,2026-04-07,Moose Munch Community Pack,Truffles,Rogue Valley YMCA - Medford
+HD-SVC-00025,HD-0000006,2026-06-13,Pear Harvest Share,"Pears, Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00026,HD-0000006,2026-05-07,Weekend Food Box,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00027,HD-0000006,2026-08-28,Holiday Gift Basket Distribution,Holiday Gift Assortment,Peace House Drop-In - Ashland
+HD-SVC-00028,HD-0000007,2026-12-02,Senior Nutrition Pack,"Moose Munch Popcorn, Royal Riviera Pears",Salvation Army - Medford
+HD-SVC-00029,HD-0000007,2026-09-05,Senior Nutrition Pack,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00030,HD-0000007,2026-11-21,Partner Referral: Meals on Wheels,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00031,HD-0000007,2026-06-29,Harry & David Pantry Staples Kit,Truffles & Confections,Salvation Army - Medford
+HD-SVC-00032,HD-0000007,2026-07-23,Holiday Gift Basket Distribution,Truffles,Salvation Army - Medford
+HD-SVC-00033,HD-0000007,2027-02-11,Emergency Food Box - Family,Truffles,HD Distribution Center - Medford
+HD-SVC-00034,HD-0000008,2026-07-03,Weekend Food Box,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00035,HD-0000008,2026-04-14,Weekend Food Box,"Moose Munch Popcorn, Royal Riviera Pears",Salvation Army - Medford
+HD-SVC-00036,HD-0000008,2026-10-01,Truffle & Confections Box,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00037,HD-0000009,2026-10-04,Truffle & Confections Box,Truffles,Rogue Valley YMCA - Medford
+HD-SVC-00038,HD-0000009,2026-10-19,Harry & David Pantry Staples Kit,Holiday Gift Assortment,St. Matthew's Church - Ashland
+HD-SVC-00039,HD-0000009,2026-06-26,Harry & David Pantry Staples Kit,Moose Munch Popcorn,Salvation Army - Medford
+HD-SVC-00040,HD-0000009,2027-01-11,Pear Harvest Share,Truffles & Confections,HD Distribution Center - Medford
+HD-SVC-00041,HD-0000009,2027-02-18,Emergency Food Box - Family,Pantry Staples + Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00042,HD-0000009,2026-11-23,Emergency Food Box - Family,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00043,HD-0000009,2026-06-11,Pear Harvest Share,Moose Munch Popcorn,HD Distribution Center - Medford
+HD-SVC-00044,HD-0000010,2026-07-31,Harry & David Pantry Staples Kit,Moose Munch Popcorn,HD Distribution Center - Medford
+HD-SVC-00045,HD-0000010,2026-07-08,Emergency Food Box - Family,Pantry Staples + Pears,Salvation Army - Medford
+HD-SVC-00046,HD-0000010,2026-07-31,Partner Referral: Meals on Wheels,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00047,HD-0000010,2026-05-27,Truffle & Confections Box,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00048,HD-0000010,2026-07-20,Holiday Gift Basket Distribution,"Moose Munch Popcorn, Royal Riviera Pears",Rogue Valley YMCA - Medford
+HD-SVC-00049,HD-0000010,2026-11-06,Partner Referral: Meals on Wheels,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00050,HD-0000011,2026-11-07,Community Meal Voucher,Truffles,Peace House Drop-In - Ashland
+HD-SVC-00051,HD-0000011,2027-01-27,Senior Nutrition Pack,Holiday Gift Assortment,St. Matthew's Church - Ashland
+HD-SVC-00052,HD-0000011,2026-05-08,Senior Nutrition Pack,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00053,HD-0000011,2026-10-01,Partner Referral: Meals on Wheels,Royal Riviera Pears,HD Distribution Center - Medford
+HD-SVC-00054,HD-0000011,2026-05-08,Pear Harvest Share,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00055,HD-0000011,2026-06-10,Pear Harvest Share,Seasonal Fruit Assortment,Peace House Drop-In - Ashland
+HD-SVC-00056,HD-0000012,2027-01-29,Holiday Gift Basket Distribution,Pantry Staples + Pears,HD Distribution Center - Medford
+HD-SVC-00057,HD-0000012,2026-04-11,Emergency Food Box - Standard,Moose Munch Popcorn,Peace House Drop-In - Ashland
+HD-SVC-00058,HD-0000012,2026-10-15,Partner Referral: Meals on Wheels,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00059,HD-0000013,2026-03-21,Emergency Food Box - Standard,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00060,HD-0000013,2026-07-04,Truffle & Confections Box,"Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00061,HD-0000013,2026-06-07,Truffle & Confections Box,Moose Munch Popcorn,Jackson County Fairgrounds - Central Point
+HD-SVC-00062,HD-0000013,2026-02-04,Harry & David Pantry Staples Kit,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00063,HD-0000014,2027-01-20,Moose Munch Community Pack,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00064,HD-0000014,2026-09-18,Senior Nutrition Pack,Seasonal Fruit Assortment,Salvation Army - Medford
+HD-SVC-00065,HD-0000014,2026-09-16,Moose Munch Community Pack,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00066,HD-0000015,2026-04-18,Seasonal Fruit Box,Seasonal Fruit Assortment,Salvation Army - Medford
+HD-SVC-00067,HD-0000015,2026-10-09,Moose Munch Community Pack,Royal Riviera Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00068,HD-0000015,2026-10-13,Harry & David Pantry Staples Kit,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00069,HD-0000015,2026-06-22,Seasonal Fruit Box,Truffles,Rogue Valley YMCA - Medford
+HD-SVC-00070,HD-0000015,2026-05-27,Community Meal Voucher,Moose Munch Popcorn,Rogue Valley YMCA - Medford
+HD-SVC-00071,HD-0000015,2026-09-30,Harry & David Pantry Staples Kit,Royal Riviera Pears,St. Matthew's Church - Ashland
+HD-SVC-00072,HD-0000016,2027-02-26,Weekend Food Box,Pantry Staples + Pears,Rogue Valley YMCA - Medford
+HD-SVC-00073,HD-0000016,2026-06-06,Harry & David Pantry Staples Kit,"Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00074,HD-0000017,2026-10-12,Seasonal Fruit Box,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00075,HD-0000017,2026-11-22,Holiday Gift Basket Distribution,Seasonal Fruit Assortment,Salvation Army - Medford
+HD-SVC-00076,HD-0000017,2026-11-08,Senior Nutrition Pack,"Moose Munch Popcorn, Royal Riviera Pears",Peace House Drop-In - Ashland
+HD-SVC-00077,HD-0000017,2027-06-18,Senior Nutrition Pack,Royal Riviera Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00078,HD-0000017,2027-01-29,Community Meal Voucher,Pantry Staples + Pears,Salvation Army - Medford
+HD-SVC-00079,HD-0000017,2027-07-19,Community Meal Voucher,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00080,HD-0000018,2027-05-21,Partner Referral: Meals on Wheels,Moose Munch Popcorn,St. Matthew's Church - Ashland
+HD-SVC-00081,HD-0000018,2026-09-12,Moose Munch Community Pack,"Moose Munch Popcorn, Royal Riviera Pears",Salvation Army - Medford
+HD-SVC-00082,HD-0000018,2026-11-08,Harry & David Pantry Staples Kit,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00083,HD-0000018,2027-02-04,Senior Nutrition Pack,"Moose Munch Popcorn, Royal Riviera Pears",Jackson County Fairgrounds - Central Point
+HD-SVC-00084,HD-0000018,2027-03-27,Emergency Food Box - Family,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00085,HD-0000018,2027-03-16,Senior Nutrition Pack,"Moose Munch Popcorn, Royal Riviera Pears",Salvation Army - Medford
+HD-SVC-00086,HD-0000019,2026-01-31,Weekend Food Box,Holiday Gift Assortment,Peace House Drop-In - Ashland
+HD-SVC-00087,HD-0000019,2026-04-11,Emergency Food Box - Family,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00088,HD-0000019,2026-06-13,Seasonal Fruit Box,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00089,HD-0000019,2025-11-17,Truffle & Confections Box,Holiday Gift Assortment,St. Matthew's Church - Ashland
+HD-SVC-00090,HD-0000019,2026-04-18,Community Meal Voucher,Holiday Gift Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00091,HD-0000019,2025-11-11,Truffle & Confections Box,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00092,HD-0000019,2026-03-08,Harry & David Pantry Staples Kit,Royal Riviera Pears,Peace House Drop-In - Ashland
+HD-SVC-00093,HD-0000020,2026-09-26,Holiday Gift Basket Distribution,Truffles & Confections,St. Matthew's Church - Ashland
+HD-SVC-00094,HD-0000020,2026-04-29,Senior Nutrition Pack,Seasonal Fruit Assortment,St. Matthew's Church - Ashland
+HD-SVC-00095,HD-0000020,2026-10-09,Pear Harvest Share,Moose Munch Popcorn,St. Matthew's Church - Ashland
+HD-SVC-00096,HD-0000021,2026-09-11,Harry & David Pantry Staples Kit,"Truffles, Moose Munch",St. Matthew's Church - Ashland
+HD-SVC-00097,HD-0000021,2026-11-29,Weekend Food Box,Royal Riviera Pears,Rogue Valley YMCA - Medford
+HD-SVC-00098,HD-0000021,2026-04-03,Harry & David Pantry Staples Kit,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00099,HD-0000021,2026-10-04,Partner Referral: Meals on Wheels,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00100,HD-0000021,2026-12-30,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00101,HD-0000021,2026-07-23,Pear Harvest Share,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00102,HD-0000022,2026-12-13,Pear Harvest Share,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00103,HD-0000022,2027-03-01,Seasonal Fruit Box,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00104,HD-0000022,2027-02-26,Community Meal Voucher,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00105,HD-0000022,2027-03-01,Holiday Gift Basket Distribution,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00106,HD-0000023,2026-01-18,Partner Referral: Meals on Wheels,Pantry Staples + Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00107,HD-0000024,2027-03-12,Pear Harvest Share,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00108,HD-0000024,2026-12-12,Emergency Food Box - Family,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00109,HD-0000024,2026-09-05,Senior Nutrition Pack,Holiday Gift Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00110,HD-0000024,2027-02-05,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00111,HD-0000024,2027-03-09,Emergency Food Box - Standard,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00112,HD-0000024,2026-09-19,Seasonal Fruit Box,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00113,HD-0000025,2026-03-22,Seasonal Fruit Box,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00114,HD-0000025,2026-06-21,Partner Referral: Meals on Wheels,Pantry Staples + Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00115,HD-0000025,2026-05-08,Truffle & Confections Box,Seasonal Fruit Assortment,Salvation Army - Medford
+HD-SVC-00116,HD-0000026,2027-02-25,Pear Harvest Share,Seasonal Fruit Assortment,Peace House Drop-In - Ashland
+HD-SVC-00117,HD-0000026,2026-12-21,Emergency Food Box - Family,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00118,HD-0000026,2027-02-15,Harry & David Pantry Staples Kit,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00119,HD-0000026,2026-07-07,Harry & David Pantry Staples Kit,Royal Riviera Pears,Peace House Drop-In - Ashland
+HD-SVC-00120,HD-0000026,2027-01-14,Pear Harvest Share,Seasonal Fruit Assortment,Peace House Drop-In - Ashland
+HD-SVC-00121,HD-0000026,2026-08-28,Pear Harvest Share,Holiday Gift Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00122,HD-0000027,2026-04-16,Partner Referral: Meals on Wheels,Holiday Gift Assortment,HD Distribution Center - Medford
+HD-SVC-00123,HD-0000027,2026-05-31,Partner Referral: Meals on Wheels,Royal Riviera Pears,St. Matthew's Church - Ashland
+HD-SVC-00124,HD-0000027,2026-12-29,Holiday Gift Basket Distribution,Seasonal Fruit Assortment,Peace House Drop-In - Ashland
+HD-SVC-00125,HD-0000028,2026-09-16,Truffle & Confections Box,"Pears, Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00126,HD-0000028,2027-02-22,Senior Nutrition Pack,Pantry Staples + Pears,Peace House Drop-In - Ashland
+HD-SVC-00127,HD-0000028,2026-08-17,Seasonal Fruit Box,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00128,HD-0000028,2026-08-21,Emergency Food Box - Family,Pantry Staples + Pears,HD Distribution Center - Medford
+HD-SVC-00129,HD-0000028,2027-01-12,Weekend Food Box,Moose Munch Popcorn,Peace House Drop-In - Ashland
+HD-SVC-00130,HD-0000028,2026-12-31,Seasonal Fruit Box,"Moose Munch Popcorn, Royal Riviera Pears",Jackson County Fairgrounds - Central Point
+HD-SVC-00131,HD-0000028,2027-04-14,Senior Nutrition Pack,Moose Munch Popcorn,Peace House Drop-In - Ashland
+HD-SVC-00132,HD-0000029,2026-08-13,Senior Nutrition Pack,Truffles & Confections,Peace House Drop-In - Ashland
+HD-SVC-00133,HD-0000029,2026-12-25,Emergency Food Box - Family,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00134,HD-0000029,2026-09-30,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00135,HD-0000029,2026-10-06,Senior Nutrition Pack,Moose Munch Popcorn,Salvation Army - Medford
+HD-SVC-00136,HD-0000029,2026-10-28,Weekend Food Box,"Moose Munch Popcorn, Royal Riviera Pears",Rogue Valley YMCA - Medford
+HD-SVC-00137,HD-0000030,2026-07-21,Emergency Food Box - Family,Truffles & Confections,St. Matthew's Church - Ashland
+HD-SVC-00138,HD-0000030,2026-05-01,Partner Referral: Meals on Wheels,Holiday Gift Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00139,HD-0000030,2026-05-23,Holiday Gift Basket Distribution,Moose Munch Popcorn,Peace House Drop-In - Ashland
+HD-SVC-00140,HD-0000031,2027-01-14,Senior Nutrition Pack,Moose Munch Popcorn,HD Distribution Center - Medford
+HD-SVC-00141,HD-0000031,2026-12-22,Senior Nutrition Pack,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00142,HD-0000031,2026-06-09,Emergency Food Box - Family,Royal Riviera Pears,HD Distribution Center - Medford
+HD-SVC-00143,HD-0000032,2026-07-09,Community Meal Voucher,Royal Riviera Pears,HD Distribution Center - Medford
+HD-SVC-00144,HD-0000032,2026-07-12,Holiday Gift Basket Distribution,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00145,HD-0000032,2026-08-13,Pear Harvest Share,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00146,HD-0000033,2026-04-12,Senior Nutrition Pack,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00147,HD-0000034,2026-11-27,Harry & David Pantry Staples Kit,Pantry Staples + Pears,Peace House Drop-In - Ashland
+HD-SVC-00148,HD-0000034,2026-06-19,Holiday Gift Basket Distribution,"Pears, Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00149,HD-0000034,2026-08-18,Emergency Food Box - Family,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00150,HD-0000034,2026-12-26,Emergency Food Box - Standard,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00151,HD-0000035,2027-04-11,Moose Munch Community Pack,Truffles & Confections,Salvation Army - Medford
+HD-SVC-00152,HD-0000035,2027-02-15,Moose Munch Community Pack,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00153,HD-0000035,2026-08-08,Truffle & Confections Box,Pantry Staples + Pears,HD Distribution Center - Medford
+HD-SVC-00154,HD-0000035,2026-09-30,Seasonal Fruit Box,Seasonal Fruit Assortment,Salvation Army - Medford
+HD-SVC-00155,HD-0000035,2027-04-28,Partner Referral: Meals on Wheels,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00156,HD-0000035,2026-08-30,Seasonal Fruit Box,Truffles & Confections,Jackson County Fairgrounds - Central Point
+HD-SVC-00157,HD-0000035,2027-02-13,Moose Munch Community Pack,Truffles,Peace House Drop-In - Ashland
+HD-SVC-00158,HD-0000036,2027-03-04,Seasonal Fruit Box,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00159,HD-0000036,2026-11-14,Emergency Food Box - Family,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00160,HD-0000036,2027-06-29,Moose Munch Community Pack,"Moose Munch Popcorn, Royal Riviera Pears",Peace House Drop-In - Ashland
+HD-SVC-00161,HD-0000036,2027-03-18,Harry & David Pantry Staples Kit,Moose Munch Popcorn,Jackson County Fairgrounds - Central Point
+HD-SVC-00162,HD-0000036,2026-10-28,Weekend Food Box,Pantry Staples + Pears,Rogue Valley YMCA - Medford
+HD-SVC-00163,HD-0000037,2027-06-27,Moose Munch Community Pack,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00164,HD-0000037,2027-02-08,Truffle & Confections Box,Seasonal Fruit Assortment,HD Distribution Center - Medford
+HD-SVC-00165,HD-0000037,2027-01-09,Truffle & Confections Box,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00166,HD-0000038,2026-08-30,Pear Harvest Share,Truffles & Confections,HD Distribution Center - Medford
+HD-SVC-00167,HD-0000038,2026-12-05,Moose Munch Community Pack,"Truffles, Moose Munch",St. Matthew's Church - Ashland
+HD-SVC-00168,HD-0000038,2027-04-13,Emergency Food Box - Family,Seasonal Fruit Assortment,St. Matthew's Church - Ashland
+HD-SVC-00169,HD-0000039,2026-07-30,Holiday Gift Basket Distribution,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00170,HD-0000039,2027-01-26,Pear Harvest Share,Pantry Staples + Pears,Salvation Army - Medford
+HD-SVC-00171,HD-0000040,2026-08-02,Senior Nutrition Pack,Moose Munch Popcorn,HD Distribution Center - Medford
+HD-SVC-00172,HD-0000040,2026-11-21,Senior Nutrition Pack,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00173,HD-0000041,2026-07-11,Weekend Food Box,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00174,HD-0000041,2026-12-31,Seasonal Fruit Box,"Moose Munch Popcorn, Royal Riviera Pears",Salvation Army - Medford
+HD-SVC-00175,HD-0000041,2026-09-23,Harry & David Pantry Staples Kit,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00176,HD-0000041,2026-02-21,Senior Nutrition Pack,Truffles,Rogue Valley YMCA - Medford
+HD-SVC-00177,HD-0000041,2026-09-27,Holiday Gift Basket Distribution,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00178,HD-0000042,2027-02-11,Harry & David Pantry Staples Kit,"Moose Munch Popcorn, Royal Riviera Pears",Peace House Drop-In - Ashland
+HD-SVC-00179,HD-0000043,2026-11-01,Emergency Food Box - Family,Holiday Gift Assortment,HD Distribution Center - Medford
+HD-SVC-00180,HD-0000043,2026-03-20,Moose Munch Community Pack,Royal Riviera Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00181,HD-0000043,2026-06-08,Seasonal Fruit Box,Truffles & Confections,Jackson County Fairgrounds - Central Point
+HD-SVC-00182,HD-0000043,2026-05-18,Moose Munch Community Pack,Moose Munch Popcorn,Salvation Army - Medford
+HD-SVC-00183,HD-0000043,2026-09-27,Weekend Food Box,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00184,HD-0000043,2026-08-24,Seasonal Fruit Box,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00185,HD-0000044,2026-06-17,Pear Harvest Share,Truffles,Salvation Army - Medford
+HD-SVC-00186,HD-0000044,2026-05-11,Emergency Food Box - Standard,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00187,HD-0000045,2026-01-24,Weekend Food Box,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00188,HD-0000045,2026-05-24,Moose Munch Community Pack,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00189,HD-0000046,2027-07-14,Pear Harvest Share,"Pears, Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00190,HD-0000046,2026-12-24,Partner Referral: Meals on Wheels,Holiday Gift Assortment,St. Matthew's Church - Ashland
+HD-SVC-00191,HD-0000046,2027-02-23,Pear Harvest Share,Seasonal Fruit Assortment,Salvation Army - Medford
+HD-SVC-00192,HD-0000046,2027-04-06,Harry & David Pantry Staples Kit,Seasonal Fruit Assortment,St. Matthew's Church - Ashland
+HD-SVC-00193,HD-0000046,2027-04-20,Partner Referral: Meals on Wheels,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00194,HD-0000046,2026-11-22,Seasonal Fruit Box,"Moose Munch Popcorn, Royal Riviera Pears",Rogue Valley YMCA - Medford
+HD-SVC-00195,HD-0000047,2026-08-31,Partner Referral: Meals on Wheels,Moose Munch Popcorn,Peace House Drop-In - Ashland
+HD-SVC-00196,HD-0000047,2026-09-16,Emergency Food Box - Standard,Holiday Gift Assortment,St. Matthew's Church - Ashland
+HD-SVC-00197,HD-0000047,2026-08-02,Community Meal Voucher,"Pears, Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00198,HD-0000047,2027-02-01,Seasonal Fruit Box,Truffles & Confections,HD Distribution Center - Medford
+HD-SVC-00199,HD-0000047,2026-08-08,Senior Nutrition Pack,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00200,HD-0000047,2026-12-29,Pear Harvest Share,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00201,HD-0000048,2026-09-25,Holiday Gift Basket Distribution,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00202,HD-0000049,2026-09-04,Harry & David Pantry Staples Kit,Truffles,Salvation Army - Medford
+HD-SVC-00203,HD-0000049,2026-10-27,Emergency Food Box - Standard,Holiday Gift Assortment,Peace House Drop-In - Ashland
+HD-SVC-00204,HD-0000049,2026-08-21,Holiday Gift Basket Distribution,Truffles & Confections,Jackson County Fairgrounds - Central Point
+HD-SVC-00205,HD-0000049,2026-08-03,Community Meal Voucher,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00206,HD-0000050,2026-07-26,Emergency Food Box - Standard,Pantry Staples + Pears,Rogue Valley YMCA - Medford
+HD-SVC-00207,HD-0000050,2026-07-18,Community Meal Voucher,Pantry Staples + Pears,HD Distribution Center - Medford
+HD-SVC-00208,HD-0000050,2027-04-29,Weekend Food Box,Royal Riviera Pears,Salvation Army - Medford
+HD-SVC-00209,HD-0000050,2026-07-30,Senior Nutrition Pack,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00210,HD-0000050,2026-09-27,Seasonal Fruit Box,"Moose Munch Popcorn, Royal Riviera Pears",Peace House Drop-In - Ashland
+HD-SVC-00211,HD-0000050,2027-01-04,Seasonal Fruit Box,Moose Munch Popcorn,HD Distribution Center - Medford
+HD-SVC-00212,HD-0000050,2026-08-02,Senior Nutrition Pack,Royal Riviera Pears,HD Distribution Center - Medford
+HD-SVC-00213,HD-0000051,2026-01-13,Seasonal Fruit Box,Seasonal Fruit Assortment,Peace House Drop-In - Ashland
+HD-SVC-00214,HD-0000051,2026-06-07,Community Meal Voucher,"Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00215,HD-0000051,2026-07-23,Partner Referral: Meals on Wheels,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00216,HD-0000051,2026-09-11,Emergency Food Box - Standard,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00217,HD-0000051,2026-09-04,Partner Referral: Meals on Wheels,Seasonal Fruit Assortment,Peace House Drop-In - Ashland
+HD-SVC-00218,HD-0000052,2026-08-15,Holiday Gift Basket Distribution,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00219,HD-0000052,2026-09-30,Truffle & Confections Box,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00220,HD-0000053,2026-05-05,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00221,HD-0000053,2026-09-16,Weekend Food Box,Seasonal Fruit Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00222,HD-0000054,2026-08-03,Senior Nutrition Pack,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00223,HD-0000054,2026-10-30,Community Meal Voucher,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00224,HD-0000054,2026-10-29,Pear Harvest Share,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00225,HD-0000054,2026-05-27,Holiday Gift Basket Distribution,Holiday Gift Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00226,HD-0000055,2026-07-31,Truffle & Confections Box,Moose Munch Popcorn,Peace House Drop-In - Ashland
+HD-SVC-00227,HD-0000055,2026-06-03,Holiday Gift Basket Distribution,Moose Munch Popcorn,Jackson County Fairgrounds - Central Point
+HD-SVC-00228,HD-0000055,2026-12-02,Moose Munch Community Pack,"Moose Munch Popcorn, Royal Riviera Pears",HD Distribution Center - Medford
+HD-SVC-00229,HD-0000055,2026-06-14,Senior Nutrition Pack,Pantry Staples + Pears,HD Distribution Center - Medford
+HD-SVC-00230,HD-0000055,2026-04-26,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00231,HD-0000056,2026-10-15,Holiday Gift Basket Distribution,Pantry Staples + Pears,Peace House Drop-In - Ashland
+HD-SVC-00232,HD-0000056,2026-06-11,Harry & David Pantry Staples Kit,Holiday Gift Assortment,HD Distribution Center - Medford
+HD-SVC-00233,HD-0000056,2026-03-02,Moose Munch Community Pack,"Moose Munch Popcorn, Royal Riviera Pears",Peace House Drop-In - Ashland
+HD-SVC-00234,HD-0000056,2026-07-06,Senior Nutrition Pack,Truffles & Confections,HD Distribution Center - Medford
+HD-SVC-00235,HD-0000056,2026-07-07,Harry & David Pantry Staples Kit,Moose Munch Popcorn,Jackson County Fairgrounds - Central Point
+HD-SVC-00236,HD-0000056,2026-03-09,Truffle & Confections Box,"Moose Munch Popcorn, Royal Riviera Pears",Jackson County Fairgrounds - Central Point
+HD-SVC-00237,HD-0000056,2026-10-27,Holiday Gift Basket Distribution,Truffles & Confections,Peace House Drop-In - Ashland
+HD-SVC-00238,HD-0000057,2027-04-08,Partner Referral: Meals on Wheels,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00239,HD-0000057,2027-01-03,Truffle & Confections Box,Truffles,Rogue Valley YMCA - Medford
+HD-SVC-00240,HD-0000057,2026-10-31,Emergency Food Box - Standard,Moose Munch Popcorn,HD Distribution Center - Medford
+HD-SVC-00241,HD-0000057,2027-03-09,Partner Referral: Meals on Wheels,Royal Riviera Pears,Rogue Valley YMCA - Medford
+HD-SVC-00242,HD-0000058,2026-11-09,Partner Referral: Meals on Wheels,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00243,HD-0000058,2026-09-12,Weekend Food Box,Royal Riviera Pears,Rogue Valley YMCA - Medford
+HD-SVC-00244,HD-0000058,2026-12-30,Emergency Food Box - Family,"Pears, Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00245,HD-0000059,2026-06-16,Harry & David Pantry Staples Kit,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00246,HD-0000059,2026-05-26,Harry & David Pantry Staples Kit,"Moose Munch Popcorn, Royal Riviera Pears",Rogue Valley YMCA - Medford
+HD-SVC-00247,HD-0000059,2026-05-15,Holiday Gift Basket Distribution,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00248,HD-0000059,2026-04-17,Moose Munch Community Pack,Royal Riviera Pears,Salvation Army - Medford
+HD-SVC-00249,HD-0000059,2026-07-17,Holiday Gift Basket Distribution,"Moose Munch Popcorn, Royal Riviera Pears",Jackson County Fairgrounds - Central Point
+HD-SVC-00250,HD-0000060,2026-08-07,Harry & David Pantry Staples Kit,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00251,HD-0000060,2026-12-07,Senior Nutrition Pack,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00252,HD-0000061,2026-07-07,Holiday Gift Basket Distribution,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00253,HD-0000061,2026-03-31,Senior Nutrition Pack,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00254,HD-0000061,2026-09-11,Senior Nutrition Pack,Truffles & Confections,St. Matthew's Church - Ashland
+HD-SVC-00255,HD-0000061,2026-09-01,Moose Munch Community Pack,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00256,HD-0000061,2026-04-15,Seasonal Fruit Box,Holiday Gift Assortment,Peace House Drop-In - Ashland
+HD-SVC-00257,HD-0000062,2026-06-06,Partner Referral: Meals on Wheels,Pantry Staples + Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00258,HD-0000062,2027-03-11,Moose Munch Community Pack,Royal Riviera Pears,Peace House Drop-In - Ashland
+HD-SVC-00259,HD-0000062,2027-04-15,Harry & David Pantry Staples Kit,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00260,HD-0000063,2026-02-16,Pear Harvest Share,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00261,HD-0000063,2026-04-28,Pear Harvest Share,"Moose Munch Popcorn, Royal Riviera Pears",Rogue Valley YMCA - Medford
+HD-SVC-00262,HD-0000063,2025-10-14,Harry & David Pantry Staples Kit,Holiday Gift Assortment,Jackson County Fairgrounds - Central Point
+HD-SVC-00263,HD-0000063,2026-05-07,Weekend Food Box,"Pears, Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00264,HD-0000063,2025-12-08,Seasonal Fruit Box,Truffles & Confections,Salvation Army - Medford
+HD-SVC-00265,HD-0000063,2026-02-09,Community Meal Voucher,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00266,HD-0000063,2026-01-24,Emergency Food Box - Standard,Truffles,Rogue Valley YMCA - Medford
+HD-SVC-00267,HD-0000064,2026-01-17,Community Meal Voucher,"Pears, Truffles, Moose Munch",St. Matthew's Church - Ashland
+HD-SVC-00268,HD-0000064,2026-08-05,Seasonal Fruit Box,Pantry Staples + Pears,St. Matthew's Church - Ashland
+HD-SVC-00269,HD-0000064,2026-08-24,Pear Harvest Share,"Truffles, Moose Munch",Salvation Army - Medford
+HD-SVC-00270,HD-0000065,2026-08-21,Moose Munch Community Pack,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00271,HD-0000065,2026-09-09,Emergency Food Box - Family,"Truffles, Moose Munch",Jackson County Fairgrounds - Central Point
+HD-SVC-00272,HD-0000065,2027-01-23,Community Meal Voucher,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00273,HD-0000065,2027-02-13,Emergency Food Box - Standard,Royal Riviera Pears,Salvation Army - Medford
+HD-SVC-00274,HD-0000065,2027-03-29,Emergency Food Box - Family,Moose Munch Popcorn,St. Matthew's Church - Ashland
+HD-SVC-00275,HD-0000065,2026-12-27,Seasonal Fruit Box,"Moose Munch Popcorn, Royal Riviera Pears",Rogue Valley YMCA - Medford
+HD-SVC-00276,HD-0000066,2026-08-17,Senior Nutrition Pack,Moose Munch Popcorn,St. Matthew's Church - Ashland
+HD-SVC-00277,HD-0000066,2026-09-23,Community Meal Voucher,"Truffles, Moose Munch",Peace House Drop-In - Ashland
+HD-SVC-00278,HD-0000067,2027-04-30,Senior Nutrition Pack,Royal Riviera Pears,Rogue Valley YMCA - Medford
+HD-SVC-00279,HD-0000067,2027-04-09,Holiday Gift Basket Distribution,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00280,HD-0000067,2026-10-18,Holiday Gift Basket Distribution,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00281,HD-0000067,2027-03-15,Truffle & Confections Box,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00282,HD-0000067,2026-08-15,Senior Nutrition Pack,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00283,HD-0000067,2026-10-03,Weekend Food Box,Holiday Gift Assortment,Peace House Drop-In - Ashland
+HD-SVC-00284,HD-0000068,2026-11-24,Emergency Food Box - Standard,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00285,HD-0000069,2026-03-05,Holiday Gift Basket Distribution,Truffles,Peace House Drop-In - Ashland
+HD-SVC-00286,HD-0000069,2026-12-03,Moose Munch Community Pack,"Pears, Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00287,HD-0000069,2026-03-17,Emergency Food Box - Family,Truffles & Confections,Jackson County Fairgrounds - Central Point
+HD-SVC-00288,HD-0000069,2026-11-16,Seasonal Fruit Box,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00289,HD-0000069,2026-11-14,Emergency Food Box - Family,"Pears, Truffles, Moose Munch",St. Matthew's Church - Ashland
+HD-SVC-00290,HD-0000069,2026-04-01,Weekend Food Box,Royal Riviera Pears,Salvation Army - Medford
+HD-SVC-00291,HD-0000069,2026-11-12,Weekend Food Box,Truffles,Salvation Army - Medford
+HD-SVC-00292,HD-0000070,2026-06-15,Seasonal Fruit Box,Pantry Staples + Pears,Jackson County Fairgrounds - Central Point
+HD-SVC-00293,HD-0000070,2026-11-22,Harry & David Pantry Staples Kit,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00294,HD-0000070,2026-12-11,Community Meal Voucher,Holiday Gift Assortment,Salvation Army - Medford
+HD-SVC-00295,HD-0000070,2027-02-14,Partner Referral: Meals on Wheels,"Moose Munch Popcorn, Royal Riviera Pears",Peace House Drop-In - Ashland
+HD-SVC-00296,HD-0000070,2026-09-18,Pear Harvest Share,Seasonal Fruit Assortment,HD Distribution Center - Medford
+HD-SVC-00297,HD-0000071,2026-08-15,Community Meal Voucher,Truffles & Confections,Rogue Valley YMCA - Medford
+HD-SVC-00298,HD-0000071,2026-03-26,Moose Munch Community Pack,Seasonal Fruit Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00299,HD-0000072,2027-02-17,Weekend Food Box,"Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00300,HD-0000072,2026-04-28,Weekend Food Box,Truffles & Confections,Peace House Drop-In - Ashland
+HD-SVC-00301,HD-0000073,2026-08-23,Partner Referral: Meals on Wheels,Seasonal Fruit Assortment,St. Matthew's Church - Ashland
+HD-SVC-00302,HD-0000073,2026-04-06,Harry & David Pantry Staples Kit,Holiday Gift Assortment,Peace House Drop-In - Ashland
+HD-SVC-00303,HD-0000073,2026-03-20,Weekend Food Box,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00304,HD-0000073,2026-12-07,Community Meal Voucher,"Moose Munch Popcorn, Royal Riviera Pears",Salvation Army - Medford
+HD-SVC-00305,HD-0000073,2026-09-06,Harry & David Pantry Staples Kit,Truffles,St. Matthew's Church - Ashland
+HD-SVC-00306,HD-0000073,2026-03-24,Partner Referral: Meals on Wheels,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00307,HD-0000074,2027-03-21,Weekend Food Box,"Moose Munch Popcorn, Royal Riviera Pears",St. Matthew's Church - Ashland
+HD-SVC-00308,HD-0000074,2026-07-16,Holiday Gift Basket Distribution,"Pears, Truffles, Moose Munch",Rogue Valley YMCA - Medford
+HD-SVC-00309,HD-0000075,2026-07-25,Community Meal Voucher,Truffles,Jackson County Fairgrounds - Central Point
+HD-SVC-00310,HD-0000075,2026-11-29,Truffle & Confections Box,Truffles & Confections,HD Distribution Center - Medford
+HD-SVC-00311,HD-0000075,2027-02-02,Holiday Gift Basket Distribution,Holiday Gift Assortment,HD Distribution Center - Medford
+HD-SVC-00312,HD-0000075,2027-03-14,Seasonal Fruit Box,Holiday Gift Assortment,Rogue Valley YMCA - Medford
+HD-SVC-00313,HD-0000075,2027-02-24,Harry & David Pantry Staples Kit,"Truffles, Moose Munch",HD Distribution Center - Medford
+HD-SVC-00314,HD-0000075,2026-11-02,Emergency Food Box - Family,Truffles & Confections,St. Matthew's Church - Ashland

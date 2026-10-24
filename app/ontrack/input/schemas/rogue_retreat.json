@@ -1,0 +1,28 @@
+{
+  "label": "Rogue Retreat",
+  "short_label": "ROGUE RETREAT",
+  "source_system": "ROGUE_RETREAT",
+  "optional": false,
+  "expected_count": 155,
+  "client_file": "rogue_retreat_clients.csv",
+  "services_file": "rogue_retreat_services.csv",
+  "columns": {
+    "client_id": "client_id",
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "dob": "date_of_birth",
+    "ssn": "ssn_last_4",
+    "encounter_date": "intake_date"
+  },
+  "ssn_type": "last4",
+  "special": null,
+  "services_columns": {
+    "encounter_id": "entry_id",
+    "client_id": "client_id",
+    "encounter_date": "start_date",
+    "service_category": "program_name",
+    "service_category_prefix": "Shelter Entry: ",
+    "location_info": "case_manager",
+    "location_info_prefix": "Case Mgr: "
+  }
+}

@@ -1,0 +1,305 @@
+entry_id,client_id,program_name,start_date,exit_date,case_manager
+RR-ENT-0001,RR-001,Heartside Navigation Center,2026-06-09,2026-07-09,Sarah M.
+RR-ENT-0002,RR-002,Urban Campground Space,2026-06-18,2026-06-03,Marcus T.
+RR-ENT-0003,RR-002,Urban Campground Space,2026-05-10,2026-07-14,Elena R.
+RR-ENT-0004,RR-003,Urban Campground Space,2026-02-13,2026-03-04,David K.
+RR-ENT-0005,RR-003,Heartside Navigation Center,2026-05-12,2026-07-10,Elena R.
+RR-ENT-0006,RR-004,Heartside Navigation Center,2026-03-01,2026-05-28,Sarah M.
+RR-ENT-0007,RR-005,Heartside Navigation Center,2026-03-25,2026-03-20,Elena R.
+RR-ENT-0008,RR-005,Kelly Shelter Bed,2026-06-07,2026-08-09,David K.
+RR-ENT-0009,RR-005,Hope Village Pallet Shelter,2026-06-21,2026-06-10,Marcus T.
+RR-ENT-0010,RR-006,Transitional Housing Unit,2026-03-24,2026-03-03,Elena R.
+RR-ENT-0011,RR-007,Heartside Navigation Center,2026-02-07,2026-02-26,Unassigned
+RR-ENT-0012,RR-007,Urban Campground Space,2026-05-17,2026-06-27,David K.
+RR-ENT-0013,RR-008,Heartside Navigation Center,2026-03-24,2026-04-26,Sarah M.
+RR-ENT-0014,RR-008,Heartside Navigation Center,2026-01-05,2026-01-28,Marcus T.
+RR-ENT-0015,RR-009,Urban Campground Space,2026-01-26,2026-02-01,Elena R.
+RR-ENT-0016,RR-009,Transitional Housing Unit,2026-01-15,2026-02-22,Elena R.
+RR-ENT-0017,RR-009,Transitional Housing Unit,2026-04-27,2026-06-12,Sarah M.
+RR-ENT-0018,RR-010,Kelly Shelter Bed,2026-04-01,2026-06-18,Elena R.
+RR-ENT-0019,RR-010,Transitional Housing Unit,2026-02-21,2026-02-21,Marcus T.
+RR-ENT-0020,RR-010,Urban Campground Space,2026-06-14,2026-06-05,Sarah M.
+RR-ENT-0021,RR-011,Urban Campground Space,2026-04-04,2026-04-08,Unassigned
+RR-ENT-0022,RR-012,Heartside Navigation Center,2026-04-12,2026-06-24,Unassigned
+RR-ENT-0023,RR-013,Transitional Housing Unit,2026-06-24,2026-06-14,Sarah M.
+RR-ENT-0024,RR-013,Heartside Navigation Center,2026-05-14,2026-06-02,Elena R.
+RR-ENT-0025,RR-014,Heartside Navigation Center,2026-04-08,2026-05-04,Elena R.
+RR-ENT-0026,RR-015,Urban Campground Space,2026-01-13,2026-02-07,Sarah M.
+RR-ENT-0027,RR-015,Heartside Navigation Center,2026-01-22,2026-01-21,Unassigned
+RR-ENT-0028,RR-015,Hope Village Pallet Shelter,2026-01-26,2026-02-08,David K.
+RR-ENT-0029,RR-016,Kelly Shelter Bed,2026-01-27,2026-03-07,Unassigned
+RR-ENT-0030,RR-016,Kelly Shelter Bed,2026-02-11,2026-02-26,Unassigned
+RR-ENT-0031,RR-016,Hope Village Pallet Shelter,2026-03-28,2026-03-05,Unassigned
+RR-ENT-0032,RR-017,Kelly Shelter Bed,2026-01-22,2026-01-05,Sarah M.
+RR-ENT-0033,RR-017,Urban Campground Space,2026-02-19,2026-03-01,David K.
+RR-ENT-0034,RR-018,Hope Village Pallet Shelter,2026-02-24,2026-03-17,Sarah M.
+RR-ENT-0035,RR-018,Hope Village Pallet Shelter,2026-04-15,2026-05-17,Unassigned
+RR-ENT-0036,RR-019,Heartside Navigation Center,2026-05-08,2026-07-02,Unassigned
+RR-ENT-0037,RR-020,Heartside Navigation Center,2026-06-01,2026-06-16,Marcus T.
+RR-ENT-0038,RR-020,Heartside Navigation Center,2026-06-04,2026-07-23,Marcus T.
+RR-ENT-0039,RR-021,Hope Village Pallet Shelter,2026-03-20,2026-03-03,David K.
+RR-ENT-0040,RR-022,Transitional Housing Unit,2026-06-19,2026-08-23,Elena R.
+RR-ENT-0041,RR-022,Heartside Navigation Center,2026-05-17,2026-06-15,Unassigned
+RR-ENT-0042,RR-023,Heartside Navigation Center,2026-01-26,2026-03-04,Unassigned
+RR-ENT-0043,RR-023,Kelly Shelter Bed,2026-04-15,2026-04-14,Elena R.
+RR-ENT-0044,RR-023,Heartside Navigation Center,2026-04-14,2026-06-04,Elena R.
+RR-ENT-0045,RR-024,Urban Campground Space,2026-06-09,2026-07-05,Marcus T.
+RR-ENT-0046,RR-024,Hope Village Pallet Shelter,2026-01-27,2026-01-03,Marcus T.
+RR-ENT-0047,RR-025,Urban Campground Space,2026-02-18,2026-02-19,Unassigned
+RR-ENT-0048,RR-026,Urban Campground Space,2026-06-04,2026-07-12,Marcus T.
+RR-ENT-0049,RR-026,Hope Village Pallet Shelter,2026-03-20,2026-04-12,Sarah M.
+RR-ENT-0050,RR-026,Transitional Housing Unit,2026-05-07,2026-05-22,Marcus T.
+RR-ENT-0051,RR-027,Hope Village Pallet Shelter,2026-03-28,2026-05-12,Sarah M.
+RR-ENT-0052,RR-028,Transitional Housing Unit,2026-02-26,2026-03-28,Unassigned
+RR-ENT-0053,RR-028,Transitional Housing Unit,2026-05-22,2026-07-18,Sarah M.
+RR-ENT-0054,RR-029,Urban Campground Space,2026-01-06,2026-02-23,Elena R.
+RR-ENT-0055,RR-029,Urban Campground Space,2026-03-01,2026-03-28,David K.
+RR-ENT-0056,RR-029,Transitional Housing Unit,2026-06-13,2026-06-05,Sarah M.
+RR-ENT-0057,RR-030,Transitional Housing Unit,2026-02-13,2026-03-15,Elena R.
+RR-ENT-0058,RR-031,Urban Campground Space,2026-03-24,2026-04-25,Unassigned
+RR-ENT-0059,RR-032,Hope Village Pallet Shelter,2026-01-05,2026-01-25,Unassigned
+RR-ENT-0060,RR-032,Hope Village Pallet Shelter,2026-06-03,2026-07-15,Marcus T.
+RR-ENT-0061,RR-032,Heartside Navigation Center,2026-05-15,2026-06-09,David K.
+RR-ENT-0062,RR-033,Hope Village Pallet Shelter,2026-03-14,2026-03-10,Unassigned
+RR-ENT-0063,RR-033,Heartside Navigation Center,2026-05-22,2026-06-02,David K.
+RR-ENT-0064,RR-033,Heartside Navigation Center,2026-05-02,2026-05-07,Elena R.
+RR-ENT-0065,RR-034,Kelly Shelter Bed,2026-03-10,2026-04-04,Sarah M.
+RR-ENT-0066,RR-035,Heartside Navigation Center,2026-02-05,2026-03-18,David K.
+RR-ENT-0067,RR-035,Transitional Housing Unit,2026-05-27,2026-07-26,Elena R.
+RR-ENT-0068,RR-036,Heartside Navigation Center,2026-06-02,2026-07-01,Marcus T.
+RR-ENT-0069,RR-037,Urban Campground Space,2026-05-14,2026-07-13,Marcus T.
+RR-ENT-0070,RR-038,Hope Village Pallet Shelter,2026-04-01,2026-05-06,Unassigned
+RR-ENT-0071,RR-038,Heartside Navigation Center,2026-06-12,2026-06-14,Sarah M.
+RR-ENT-0072,RR-039,Heartside Navigation Center,2026-05-13,2026-07-03,Marcus T.
+RR-ENT-0073,RR-040,Urban Campground Space,2026-02-11,2026-02-03,Unassigned
+RR-ENT-0074,RR-040,Hope Village Pallet Shelter,2026-05-17,2026-05-25,Elena R.
+RR-ENT-0075,RR-041,Kelly Shelter Bed,2026-02-04,2026-02-09,David K.
+RR-ENT-0076,RR-041,Kelly Shelter Bed,2026-05-05,2026-07-03,David K.
+RR-ENT-0077,RR-042,Heartside Navigation Center,2026-04-25,2026-06-25,Unassigned
+RR-ENT-0078,RR-042,Heartside Navigation Center,2026-06-19,2026-08-21,Unassigned
+RR-ENT-0079,RR-042,Urban Campground Space,2026-06-11,2026-06-15,Sarah M.
+RR-ENT-0080,RR-043,Heartside Navigation Center,2026-06-10,2026-07-19,Sarah M.
+RR-ENT-0081,RR-043,Urban Campground Space,2026-05-03,2026-06-15,Marcus T.
+RR-ENT-0082,RR-044,Hope Village Pallet Shelter,2026-03-27,2026-04-03,Sarah M.
+RR-ENT-0083,RR-045,Transitional Housing Unit,2026-05-13,2026-06-19,Unassigned
+RR-ENT-0084,RR-045,Hope Village Pallet Shelter,2026-04-26,2026-06-21,David K.
+RR-ENT-0085,RR-045,Urban Campground Space,2026-05-16,2026-07-05,Sarah M.
+RR-ENT-0086,RR-046,Hope Village Pallet Shelter,2026-03-23,2026-03-17,David K.
+RR-ENT-0087,RR-046,Hope Village Pallet Shelter,2026-02-23,2026-03-15,Unassigned
+RR-ENT-0088,RR-047,Transitional Housing Unit,2026-02-12,2026-03-10,Marcus T.
+RR-ENT-0089,RR-047,Heartside Navigation Center,2026-03-22,2026-05-02,Elena R.
+RR-ENT-0090,RR-047,Hope Village Pallet Shelter,2026-03-04,2026-05-22,Marcus T.
+RR-ENT-0091,RR-048,Urban Campground Space,2026-06-28,2026-08-20,David K.
+RR-ENT-0092,RR-048,Urban Campground Space,2026-01-19,2026-03-05,Elena R.
+RR-ENT-0093,RR-049,Heartside Navigation Center,2026-02-20,2026-04-03,Elena R.
+RR-ENT-0094,RR-049,Transitional Housing Unit,2026-04-21,2026-05-27,David K.
+RR-ENT-0095,RR-050,Transitional Housing Unit,2026-01-21,2026-03-14,Unassigned
+RR-ENT-0096,RR-050,Urban Campground Space,2026-01-12,2026-02-06,David K.
+RR-ENT-0097,RR-050,Urban Campground Space,2026-04-07,2026-04-05,David K.
+RR-ENT-0098,RR-051,Urban Campground Space,2026-01-17,2026-03-27,Unassigned
+RR-ENT-0099,RR-052,Urban Campground Space,2026-05-05,2026-07-13,David K.
+RR-ENT-0100,RR-053,Kelly Shelter Bed,2026-06-25,2026-08-26,David K.
+RR-ENT-0101,RR-054,Heartside Navigation Center,2026-01-14,2026-02-22,David K.
+RR-ENT-0102,RR-054,Heartside Navigation Center,2026-05-10,2026-07-26,Marcus T.
+RR-ENT-0103,RR-054,Kelly Shelter Bed,2026-05-08,2026-06-26,Marcus T.
+RR-ENT-0104,RR-055,Urban Campground Space,2026-06-19,2026-07-15,Elena R.
+RR-ENT-0105,RR-056,Transitional Housing Unit,2026-05-14,2026-05-27,David K.
+RR-ENT-0106,RR-056,Transitional Housing Unit,2026-02-28,2026-03-02,Marcus T.
+RR-ENT-0107,RR-057,Transitional Housing Unit,2026-01-23,2026-03-28,Sarah M.
+RR-ENT-0108,RR-057,Urban Campground Space,2026-01-25,2026-01-09,Marcus T.
+RR-ENT-0109,RR-058,Kelly Shelter Bed,2026-04-03,2026-04-27,Marcus T.
+RR-ENT-0110,RR-058,Urban Campground Space,2026-01-14,2026-01-13,Unassigned
+RR-ENT-0111,RR-058,Urban Campground Space,2026-02-13,2026-02-12,David K.
+RR-ENT-0112,RR-059,Urban Campground Space,2026-01-27,2026-03-21,Elena R.
+RR-ENT-0113,RR-060,Kelly Shelter Bed,2026-01-10,2026-02-23,David K.
+RR-ENT-0114,RR-061,Heartside Navigation Center,2026-04-20,2026-04-03,Sarah M.
+RR-ENT-0115,RR-061,Urban Campground Space,2026-02-27,2026-02-18,Unassigned
+RR-ENT-0116,RR-061,Transitional Housing Unit,2026-04-04,2026-05-08,Elena R.
+RR-ENT-0117,RR-062,Hope Village Pallet Shelter,2026-02-14,2026-04-26,Unassigned
+RR-ENT-0118,RR-063,Hope Village Pallet Shelter,2026-01-27,2026-02-20,Unassigned
+RR-ENT-0119,RR-063,Hope Village Pallet Shelter,2026-06-17,2026-08-08,David K.
+RR-ENT-0120,RR-064,Heartside Navigation Center,2026-01-20,2026-02-08,Unassigned
+RR-ENT-0121,RR-064,Heartside Navigation Center,2026-02-22,2026-04-03,Unassigned
+RR-ENT-0122,RR-065,Hope Village Pallet Shelter,2026-05-18,2026-07-26,Unassigned
+RR-ENT-0123,RR-065,Transitional Housing Unit,2026-01-13,2026-02-02,Marcus T.
+RR-ENT-0124,RR-066,Urban Campground Space,2026-06-01,2026-07-26,Sarah M.
+RR-ENT-0125,RR-066,Urban Campground Space,2026-02-24,2026-04-21,Sarah M.
+RR-ENT-0126,RR-067,Urban Campground Space,2026-02-02,2026-03-18,Elena R.
+RR-ENT-0127,RR-067,Kelly Shelter Bed,2026-06-15,2026-08-16,David K.
+RR-ENT-0128,RR-067,Kelly Shelter Bed,2026-01-23,2026-02-02,Elena R.
+RR-ENT-0129,RR-068,Hope Village Pallet Shelter,2026-02-02,2026-03-10,Unassigned
+RR-ENT-0130,RR-069,Transitional Housing Unit,2026-04-09,2026-04-25,David K.
+RR-ENT-0131,RR-069,Urban Campground Space,2026-03-28,2026-03-28,Elena R.
+RR-ENT-0132,RR-070,Hope Village Pallet Shelter,2026-03-14,2026-04-24,Marcus T.
+RR-ENT-0133,RR-070,Heartside Navigation Center,2026-03-06,2026-04-23,Marcus T.
+RR-ENT-0134,RR-071,Transitional Housing Unit,2026-03-26,2026-03-24,Marcus T.
+RR-ENT-0135,RR-071,Hope Village Pallet Shelter,2026-04-20,2026-04-18,Elena R.
+RR-ENT-0136,RR-072,Hope Village Pallet Shelter,2026-01-11,2026-03-10,Elena R.
+RR-ENT-0137,RR-072,Heartside Navigation Center,2026-05-23,2026-06-06,Marcus T.
+RR-ENT-0138,RR-073,Heartside Navigation Center,2026-01-24,2026-02-20,Marcus T.
+RR-ENT-0139,RR-073,Urban Campground Space,2026-06-26,2026-06-03,Marcus T.
+RR-ENT-0140,RR-074,Transitional Housing Unit,2026-06-22,2026-06-01,David K.
+RR-ENT-0141,RR-074,Transitional Housing Unit,2026-06-26,2026-07-02,David K.
+RR-ENT-0142,RR-075,Kelly Shelter Bed,2026-06-12,2026-07-13,Unassigned
+RR-ENT-0143,RR-076,Transitional Housing Unit,2026-02-22,2026-03-12,Elena R.
+RR-ENT-0144,RR-077,Hope Village Pallet Shelter,2026-05-05,2026-07-12,Marcus T.
+RR-ENT-0145,RR-077,Urban Campground Space,2026-06-09,2026-06-04,Sarah M.
+RR-ENT-0146,RR-078,Kelly Shelter Bed,2026-04-17,2026-05-18,Sarah M.
+RR-ENT-0147,RR-078,Urban Campground Space,2026-03-23,2026-04-07,Unassigned
+RR-ENT-0148,RR-078,Urban Campground Space,2026-06-16,2026-06-04,David K.
+RR-ENT-0149,RR-079,Heartside Navigation Center,2026-02-23,2026-03-03,Elena R.
+RR-ENT-0150,RR-080,Urban Campground Space,2026-06-03,2026-08-18,Elena R.
+RR-ENT-0151,RR-080,Urban Campground Space,2026-02-23,2026-04-23,David K.
+RR-ENT-0152,RR-080,Urban Campground Space,2026-05-08,2026-05-07,David K.
+RR-ENT-0153,RR-081,Heartside Navigation Center,2026-01-12,2026-03-19,Elena R.
+RR-ENT-0154,RR-082,Transitional Housing Unit,2026-02-20,2026-02-03,Elena R.
+RR-ENT-0155,RR-082,Heartside Navigation Center,2026-06-24,2026-07-17,Marcus T.
+RR-ENT-0156,RR-083,Transitional Housing Unit,2026-01-05,2026-02-21,Sarah M.
+RR-ENT-0157,RR-083,Heartside Navigation Center,2026-04-22,2026-06-12,David K.
+RR-ENT-0158,RR-084,Transitional Housing Unit,2026-02-25,2026-02-14,Unassigned
+RR-ENT-0159,RR-084,Hope Village Pallet Shelter,2026-01-17,2026-01-10,David K.
+RR-ENT-0160,RR-084,Kelly Shelter Bed,2026-03-23,2026-03-12,Unassigned
+RR-ENT-0161,RR-085,Hope Village Pallet Shelter,2026-03-07,2026-05-18,Elena R.
+RR-ENT-0162,RR-085,Kelly Shelter Bed,2026-06-10,2026-08-18,Sarah M.
+RR-ENT-0163,RR-086,Kelly Shelter Bed,2026-05-19,2026-05-06,Unassigned
+RR-ENT-0164,RR-086,Transitional Housing Unit,2026-03-27,2026-05-02,Sarah M.
+RR-ENT-0165,RR-086,Hope Village Pallet Shelter,2026-01-21,2026-03-09,David K.
+RR-ENT-0166,RR-087,Heartside Navigation Center,2026-05-21,2026-05-16,Unassigned
+RR-ENT-0167,RR-087,Urban Campground Space,2026-06-10,2026-07-08,Marcus T.
+RR-ENT-0168,RR-087,Urban Campground Space,2026-04-03,2026-06-02,David K.
+RR-ENT-0169,RR-088,Heartside Navigation Center,2026-04-15,2026-04-11,Unassigned
+RR-ENT-0170,RR-088,Kelly Shelter Bed,2026-03-28,2026-05-11,Elena R.
+RR-ENT-0171,RR-089,Kelly Shelter Bed,2026-03-17,2026-05-04,Elena R.
+RR-ENT-0172,RR-089,Kelly Shelter Bed,2026-04-04,2026-05-15,David K.
+RR-ENT-0173,RR-090,Hope Village Pallet Shelter,2026-01-10,2026-02-28,Unassigned
+RR-ENT-0174,RR-091,Kelly Shelter Bed,2026-02-27,2026-03-19,Elena R.
+RR-ENT-0175,RR-091,Kelly Shelter Bed,2026-02-16,2026-04-15,Marcus T.
+RR-ENT-0176,RR-092,Heartside Navigation Center,2026-01-03,2026-02-17,Marcus T.
+RR-ENT-0177,RR-092,Kelly Shelter Bed,2026-02-19,2026-03-02,Sarah M.
+RR-ENT-0178,RR-093,Heartside Navigation Center,2026-05-27,2026-07-22,Marcus T.
+RR-ENT-0179,RR-093,Urban Campground Space,2026-05-01,2026-05-14,David K.
+RR-ENT-0180,RR-094,Urban Campground Space,2026-04-12,2026-04-13,Sarah M.
+RR-ENT-0181,RR-094,Transitional Housing Unit,2026-05-07,2026-06-18,Elena R.
+RR-ENT-0182,RR-095,Heartside Navigation Center,2026-05-15,2026-07-09,Unassigned
+RR-ENT-0183,RR-096,Transitional Housing Unit,2026-01-05,2026-01-13,Elena R.
+RR-ENT-0184,RR-096,Urban Campground Space,2026-05-12,2026-05-07,Unassigned
+RR-ENT-0185,RR-096,Transitional Housing Unit,2026-04-17,2026-04-02,Sarah M.
+RR-ENT-0186,RR-097,Urban Campground Space,2026-04-17,2026-05-05,Unassigned
+RR-ENT-0187,RR-098,Kelly Shelter Bed,2026-03-20,2026-04-06,Marcus T.
+RR-ENT-0188,RR-098,Transitional Housing Unit,2026-06-27,2026-07-19,Elena R.
+RR-ENT-0189,RR-098,Transitional Housing Unit,2026-05-18,2026-06-23,Unassigned
+RR-ENT-0190,RR-099,Heartside Navigation Center,2026-01-12,2026-02-22,Sarah M.
+RR-ENT-0191,RR-099,Heartside Navigation Center,2026-05-10,2026-07-28,Sarah M.
+RR-ENT-0192,RR-100,Heartside Navigation Center,2026-03-21,2026-05-19,David K.
+RR-ENT-0193,RR-100,Hope Village Pallet Shelter,2026-05-16,2026-05-17,Unassigned
+RR-ENT-0194,RR-100,Heartside Navigation Center,2026-02-27,2026-04-08,Sarah M.
+RR-ENT-0195,RR-101,Safe Parking Program,2026-09-05,2026-12-11,Luis R.
+RR-ENT-0196,RR-101,Urban Campground Space,2025-09-24,2025-12-19,Priya N.
+RR-ENT-0197,RR-102,Safe Parking Program,2025-07-17,2025-10-25,Diane K.
+RR-ENT-0198,RR-103,Heartside Navigation Center,2025-11-27,2026-04-09,Diane K.
+RR-ENT-0199,RR-103,Heartside Navigation Center,2026-09-08,2027-03-01,Priya N.
+RR-ENT-0200,RR-103,Safe Parking Program,2025-12-25,2026-05-02,Luis R.
+RR-ENT-0201,RR-104,Transitional Housing — Medford,2026-02-04,2026-03-30,Marcus T.
+RR-ENT-0202,RR-105,Heartside Navigation Center,2025-06-04,2025-06-29,Diane K.
+RR-ENT-0203,RR-105,Safe Parking Program,2026-07-26,2026-11-19,Tom A.
+RR-ENT-0204,RR-105,Urban Campground Space,2025-10-19,2026-03-23,Sarah M.
+RR-ENT-0205,RR-106,Transitional Housing — Medford,2026-08-04,2027-01-05,Sarah M.
+RR-ENT-0206,RR-106,Safe Parking Program,2025-12-20,2026-02-22,Priya N.
+RR-ENT-0207,RR-106,Heartside Navigation Center,2026-04-19,2026-08-15,Sarah M.
+RR-ENT-0208,RR-107,Transitional Housing — Medford,2025-11-07,2026-03-31,Tom A.
+RR-ENT-0209,RR-108,Safe Parking Program,2026-08-14,2027-01-16,Sarah M.
+RR-ENT-0210,RR-108,Urban Campground Space,2026-08-29,2026-11-04,Sarah M.
+RR-ENT-0211,RR-109,Heartside Navigation Center,2025-12-20,2026-03-12,Diane K.
+RR-ENT-0212,RR-109,Heartside Navigation Center,2026-01-31,2026-05-15,Tom A.
+RR-ENT-0213,RR-110,Motel Voucher Program,2026-07-11,2026-12-15,Diane K.
+RR-ENT-0214,RR-111,Motel Voucher Program,2025-11-20,2026-04-20,Diane K.
+RR-ENT-0215,RR-112,Safe Parking Program,2026-01-26,2026-05-08,Luis R.
+RR-ENT-0216,RR-112,Safe Parking Program,2026-09-06,2026-12-03,Marcus T.
+RR-ENT-0217,RR-113,Urban Campground Space,2026-01-30,2026-07-29,Sarah M.
+RR-ENT-0218,RR-113,Safe Parking Program,2026-04-17,2026-06-30,Luis R.
+RR-ENT-0219,RR-114,Motel Voucher Program,2026-07-12,2026-11-13,Luis R.
+RR-ENT-0220,RR-115,Urban Campground Space,2026-09-07,2026-10-21,Luis R.
+RR-ENT-0221,RR-116,Safe Parking Program,2025-08-26,2025-10-17,Sarah M.
+RR-ENT-0222,RR-116,Transitional Housing — Medford,2026-02-25,2026-05-05,Tom A.
+RR-ENT-0223,RR-116,Heartside Navigation Center,2026-09-08,2027-01-12,Priya N.
+RR-ENT-0224,RR-117,Motel Voucher Program,2026-06-12,2026-08-01,Marcus T.
+RR-ENT-0225,RR-118,Urban Campground Space,2026-09-11,2026-11-18,Sarah M.
+RR-ENT-0226,RR-118,Urban Campground Space,2026-06-28,2026-10-24,Luis R.
+RR-ENT-0227,RR-119,Safe Parking Program,2026-07-28,2026-08-16,Tom A.
+RR-ENT-0228,RR-119,Safe Parking Program,2026-06-16,2026-07-07,Tom A.
+RR-ENT-0229,RR-119,Safe Parking Program,2026-08-27,2026-10-23,Diane K.
+RR-ENT-0230,RR-120,Transitional Housing — Medford,2026-01-27,2026-04-26,Diane K.
+RR-ENT-0231,RR-120,Heartside Navigation Center,2026-09-10,2027-01-03,Tom A.
+RR-ENT-0232,RR-121,Transitional Housing — Medford,2026-02-05,2026-03-29,Priya N.
+RR-ENT-0233,RR-122,Heartside Navigation Center,2026-08-13,2026-11-07,Priya N.
+RR-ENT-0234,RR-123,Safe Parking Program,2025-11-14,2026-04-08,Luis R.
+RR-ENT-0235,RR-123,Safe Parking Program,2026-06-29,2026-10-21,Luis R.
+RR-ENT-0236,RR-124,Heartside Navigation Center,2026-09-17,2026-12-05,Diane K.
+RR-ENT-0237,RR-124,Heartside Navigation Center,2025-10-30,2025-11-23,Sarah M.
+RR-ENT-0238,RR-125,Urban Campground Space,2025-02-05,2025-03-24,Priya N.
+RR-ENT-0239,RR-126,Safe Parking Program,2025-05-07,2025-10-31,Diane K.
+RR-ENT-0240,RR-126,Safe Parking Program,2025-04-15,2025-06-12,Diane K.
+RR-ENT-0241,RR-126,Safe Parking Program,2025-08-16,2025-10-27,Marcus T.
+RR-ENT-0242,RR-127,Heartside Navigation Center,2026-06-08,2026-09-24,Sarah M.
+RR-ENT-0243,RR-127,Safe Parking Program,2026-09-04,2026-09-18,Diane K.
+RR-ENT-0244,RR-127,Urban Campground Space,2026-09-24,2027-03-02,Sarah M.
+RR-ENT-0245,RR-128,Transitional Housing — Medford,2026-04-26,2026-09-26,Marcus T.
+RR-ENT-0246,RR-128,Urban Campground Space,2026-02-10,2026-03-15,Marcus T.
+RR-ENT-0247,RR-129,Motel Voucher Program,2025-04-04,2025-08-10,Luis R.
+RR-ENT-0248,RR-130,Transitional Housing — Medford,2026-05-12,2026-09-18,Tom A.
+RR-ENT-0249,RR-130,Transitional Housing — Medford,2026-09-10,2027-02-09,Marcus T.
+RR-ENT-0250,RR-130,Heartside Navigation Center,2026-04-28,2026-07-25,Diane K.
+RR-ENT-0251,RR-131,Motel Voucher Program,2026-05-07,2026-09-21,Tom A.
+RR-ENT-0252,RR-131,Transitional Housing — Medford,2026-02-03,2026-04-22,Diane K.
+RR-ENT-0253,RR-131,Urban Campground Space,2026-08-29,2026-12-23,Diane K.
+RR-ENT-0254,RR-132,Safe Parking Program,2026-01-11,2026-06-21,Priya N.
+RR-ENT-0255,RR-132,Transitional Housing — Medford,2025-12-03,2026-05-31,Sarah M.
+RR-ENT-0256,RR-132,Urban Campground Space,2025-05-18,2025-08-07,Sarah M.
+RR-ENT-0257,RR-133,Motel Voucher Program,2026-07-12,2026-09-01,Diane K.
+RR-ENT-0258,RR-134,Urban Campground Space,2025-03-31,2025-04-22,Luis R.
+RR-ENT-0259,RR-134,Heartside Navigation Center,2026-02-07,2026-03-17,Luis R.
+RR-ENT-0260,RR-134,Motel Voucher Program,2026-09-17,2027-02-20,Tom A.
+RR-ENT-0261,RR-135,Transitional Housing — Medford,2026-02-16,2026-03-12,Priya N.
+RR-ENT-0262,RR-136,Transitional Housing — Medford,2026-02-17,2026-04-27,Sarah M.
+RR-ENT-0263,RR-136,Urban Campground Space,2025-03-17,2025-05-22,Luis R.
+RR-ENT-0264,RR-136,Motel Voucher Program,2025-05-28,2025-10-11,Marcus T.
+RR-ENT-0265,RR-137,Heartside Navigation Center,2026-01-24,2026-04-01,Sarah M.
+RR-ENT-0266,RR-137,Transitional Housing — Medford,2026-08-22,2027-01-19,Marcus T.
+RR-ENT-0267,RR-137,Heartside Navigation Center,2026-07-02,2026-07-19,Luis R.
+RR-ENT-0268,RR-138,Transitional Housing — Medford,2026-09-09,2027-03-08,Diane K.
+RR-ENT-0269,RR-139,Safe Parking Program,2025-11-30,2026-04-16,Sarah M.
+RR-ENT-0270,RR-140,Transitional Housing — Medford,2026-08-14,2027-02-09,Tom A.
+RR-ENT-0271,RR-140,Transitional Housing — Medford,2025-03-31,2025-07-28,Tom A.
+RR-ENT-0272,RR-141,Motel Voucher Program,2026-03-19,2026-07-24,Luis R.
+RR-ENT-0273,RR-141,Urban Campground Space,2026-04-15,2026-09-30,Diane K.
+RR-ENT-0274,RR-141,Safe Parking Program,2026-09-01,2026-11-02,Diane K.
+RR-ENT-0275,RR-142,Motel Voucher Program,2025-09-26,2025-11-27,Sarah M.
+RR-ENT-0276,RR-142,Heartside Navigation Center,2025-05-21,2025-06-08,Marcus T.
+RR-ENT-0277,RR-142,Urban Campground Space,2026-02-10,2026-06-06,Diane K.
+RR-ENT-0278,RR-143,Motel Voucher Program,2025-06-24,2025-11-27,Priya N.
+RR-ENT-0279,RR-143,Heartside Navigation Center,2025-11-09,2025-11-27,Marcus T.
+RR-ENT-0280,RR-144,Heartside Navigation Center,2025-10-04,2025-11-26,Sarah M.
+RR-ENT-0281,RR-144,Transitional Housing — Medford,2026-09-03,2027-02-02,Sarah M.
+RR-ENT-0282,RR-145,Transitional Housing — Medford,2026-07-14,2026-08-03,Marcus T.
+RR-ENT-0283,RR-145,Heartside Navigation Center,2026-05-26,2026-07-24,Sarah M.
+RR-ENT-0284,RR-146,Motel Voucher Program,2025-11-19,2026-03-25,Diane K.
+RR-ENT-0285,RR-146,Urban Campground Space,2025-05-30,2025-09-08,Marcus T.
+RR-ENT-0286,RR-146,Heartside Navigation Center,2024-12-01,2025-02-12,Sarah M.
+RR-ENT-0287,RR-147,Urban Campground Space,2026-08-17,2026-11-03,Sarah M.
+RR-ENT-0288,RR-148,Motel Voucher Program,2026-07-30,2026-12-24,Diane K.
+RR-ENT-0289,RR-149,Heartside Navigation Center,2025-08-24,2025-11-23,Tom A.
+RR-ENT-0290,RR-149,Motel Voucher Program,2026-03-22,2026-05-14,Tom A.
+RR-ENT-0291,RR-149,Transitional Housing — Medford,2026-01-25,2026-04-24,Tom A.
+RR-ENT-0292,RR-150,Safe Parking Program,2025-08-01,2025-09-30,Tom A.
+RR-ENT-0293,RR-150,Heartside Navigation Center,2025-09-08,2025-11-23,Luis R.
+RR-ENT-0294,RR-150,Safe Parking Program,2026-02-23,2026-07-28,Sarah M.
+RR-ENT-0295,RR-151,Motel Voucher Program,2026-09-12,2026-12-24,Marcus T.
+RR-ENT-0296,RR-151,Urban Campground Space,2026-08-31,2026-11-29,Luis R.
+RR-ENT-0297,RR-152,Safe Parking Program,2026-06-17,2026-10-28,Luis R.
+RR-ENT-0298,RR-152,Heartside Navigation Center,2025-10-08,2025-11-16,Priya N.
+RR-ENT-0299,RR-152,Motel Voucher Program,2026-07-25,2026-11-10,Tom A.
+RR-ENT-0300,RR-153,Motel Voucher Program,2026-02-25,2026-03-25,Tom A.
+RR-ENT-0301,RR-153,Motel Voucher Program,2026-01-31,2026-03-03,Diane K.
+RR-ENT-0302,RR-154,Heartside Navigation Center,2025-12-25,2026-06-11,Marcus T.
+RR-ENT-0303,RR-155,Transitional Housing — Medford,2026-09-27,2027-03-08,Luis R.
+RR-ENT-0304,RR-155,Heartside Navigation Center,2026-06-18,2026-07-20,Diane K.

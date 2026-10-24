@@ -1,0 +1,556 @@
+================================================================================
+  NXNW — NorthByNorthwest
+  Continuum of Care Master Data Engine for the Rogue River Valley
+  OnTrack Rogue Valley — Ingestion & Golden Record Export Walkthrough
+================================================================================
+  Prepared for: Rogue Raise #02: The Unhoused
+  Event date:   October 23–25, 2026 · White Rabbit Clubhouse, Ashland OR
+  Data note:    All records in this walkthrough are synthetic test data.
+                No real client information is included or implied.
+================================================================================
+
+
+OVERVIEW
+--------
+This walkthrough demonstrates how NXNW ingests OnTrack Rogue Valley's client
+and services files, de-duplicates those records against other agencies already
+in the system, assigns persistent Master Person IDs (MPIs), and exports the
+final Golden Records file for use by county commissioners and public health
+staff.
+
+OnTrack is the largest SUD/MH treatment provider in the Rogue River Valley,
+operating outpatient, IOP, day treatment, residential, and transitional housing
+programs from locations in Medford, Ashland, and Grants Pass.
+
+For this walkthrough, OnTrack is bringing in:
+  ontrack_clients.csv   — 240 client demographic records
+  ontrack_services.csv  — 2,999 service encounter records
+
+
+================================================================================
+  THE DATA BEING INGESTED
+================================================================================
+
+--- ontrack_clients.csv (demographic file) ---
+
+Column headers:
+  client_id, first_name, last_name, date_of_birth, ssn_last4, phone,
+  gender, program_type, intake_date, primary_language, court_mandated,
+  case_manager
+
+Sample rows (note intentional real-world messiness):
+
+  client_id  | first_name | last_name | date_of_birth | ssn_last4 | phone              | gender | program_type                               | intake_date | court_mandated | case_manager
+  -----------+------------+-----------+---------------+-----------+--------------------+--------+--------------------------------------------+-------------+----------------+-------------
+  OT-000001  | Mary       | Baker     | 2007-08-23    | 4488      | 541-555-9082       | F      | Day Treatment                              | 2024-05-16  | N              | E. Sandoval
+  OT-000002  | Elizabeth  | Cox       | 07/23/1986    |           | cell: 541-555-3989 |        | Day Treatment                              | 2025-03-13  | N              | I. Patel
+  OT-000003  | BRANDON    | MORALES   | 05/16/1957    | 201       | 541-555-2843       | M      | Residential - Mountain View Recovery Ctr   | 2025-03-20  | N              |
+  OT-000004  | RAYMOND    | MARTIN    | 2/17/73       | 967       | (541) 555-7752     | M      | Residential - Dad's Program                | 2025-10-19  | Y              | H. Delgado
+  OT-000005  | George     | Jones     | 1990-01-19    | 8279      | (541) 555-7225     | M      | MIP Education                              | 2024-04-17  | Y              | C. Okonkwo
+
+  What the messiness tells us:
+  • OT-000002: Missing SSN, missing gender, phone has a "cell: " prefix
+  • OT-000003: ALL CAPS name entry, 3-digit SSN (data entry truncation error)
+  • OT-000004: Short 2-digit year DOB, ALL CAPS name, court-mandated
+  • OT-000005: Clean record — court-mandated clients tend to be more complete
+
+--- ontrack_services.csv (service encounters file) ---
+
+Column headers:
+  service_id, client_id, service_date, service_type, service_category,
+  duration_minutes, provider_name, location, notes
+
+Sample rows:
+
+  service_id      | client_id  | service_date | service_type                  | service_category         | duration_min | location
+  ----------------+------------+--------------+-------------------------------+--------------------------+--------------+---------------------------------
+  OT-SVC-000001   | OT-000001  | 2026-02-10   | Day Treatment Group           | Substance Use Treatment  | 240          | OnTrack Medford - 625 Stevens St
+  OT-SVC-000002   | OT-000001  | 2025-06-03   | Day Treatment Skills Workshop | Substance Use Treatment  | 90           | OnTrack Ashland - 100 N Mountain
+  OT-SVC-000003   | OT-000001  | 2024-09-02   | Day Treatment UA              | Substance Use Treatment  | 15           | OnTrack Cave Junction
+  OT-SVC-000004   | OT-000001  | 03/22/2026   | Day Treatment UA              | Substance Use Treatment  | 15           | HOME Program - Medford
+  OT-SVC-000005   | OT-000001  | 2024-09-29   | Day Treatment Individual      | Substance Use Treatment  | 60           | OnTrack Cave Junction
+
+  What to notice:
+  • OT-SVC-000004 has a date in MM/DD/YYYY format — the others use ISO YYYY-MM-DD.
+    The cleaning stage will normalize all dates to YYYY-MM-DD automatically.
+  • The client_id column links back to ontrack_clients.csv.
+  • Average client has 12–13 service visits. Court-mandated clients have 12–20.
+
+
+================================================================================
+  STEP 1 — Launch the Application
+================================================================================
+
+Open a terminal and run:
+
+    streamlit run app.py
+
+The app opens in your browser at http://localhost:8501.
+
+The NXNW compass rose header loads with the dark Pacific Northwest theme.
+The left sidebar shows the file upload panel and the currently loaded agencies.
+If this is a fresh session, no agencies are loaded yet.
+
+<insert screenshot of "NXNW app home screen — empty sidebar, compass rose header, dark theme" here!>
+
+
+================================================================================
+  STEP 2 — Upload the OnTrack Client File
+================================================================================
+
+In the left sidebar, click the [ Upload Client File ] button and select
+  input/ontrack_clients.csv
+
+What the app does immediately:
+  1. Reads the CSV header row and all 240 data rows into memory.
+  2. Runs a fuzzy header scan using rapidfuzz to compare column names against
+     the standard field dictionary (first name, last name, DOB, SSN, ID...).
+  3. Auto-populates the column mapping dropdowns with its best guesses.
+
+The column mapper appears:
+
+  CSV Column      →  Standard Field Guess        Confidence
+  --------------     --------------------------  ----------
+  client_id       →  [Client ID / Source Key]    100%
+  first_name      →  [First Name]                100%
+  last_name       →  [Last Name]                 100%
+  date_of_birth   →  [Date of Birth]              98%
+  ssn_last4       →  [SSN Last 4 Digits]          95%
+  phone           →  [Phone Number]               97%
+  program_type    →  [-- None / Ignore --]        —
+  intake_date     →  [Intake / Encounter Date]    89%
+  case_manager    →  [-- None / Ignore --]        —
+
+Review the guesses. Correct any that are wrong using the dropdowns.
+Click [ Confirm Mapping ] when satisfied.
+
+<insert screenshot of "column mapping dropdowns showing auto-detected field assignments for ontrack_clients.csv" here!>
+
+The app shows a green confirmation banner:
+    ✓ OnTrack Clients loaded — 240 records confirmed
+
+
+================================================================================
+  STEP 3 — Upload the OnTrack Services File
+================================================================================
+
+Click [ Upload Services File ] and select input/ontrack_services.csv
+
+The app recognizes the service file format and runs header detection:
+
+  CSV Column        →  Standard Field Guess         Confidence
+  ----------------     ---------------------------  ----------
+  service_id        →  [Encounter ID]               97%
+  client_id         →  [Client ID / Source Key]    100%
+  service_date      →  [Encounter Date]              96%
+  service_type      →  [Service Description]         91%
+  service_category  →  [Service Category]            99%
+  duration_minutes  →  [-- None / Ignore --]         —
+  provider_name     →  [-- None / Ignore --]         —
+  location          →  [Location]                    94%
+  notes             →  [-- None / Ignore --]         —
+
+Click [ Confirm Mapping ].
+
+Green banner:
+    ✓ OnTrack Services loaded — 2,999 encounter records confirmed
+
+The sidebar now shows OnTrack Rogue Valley listed under Loaded Agencies,
+alongside ACCESS (HUD), Rogue Retreat, Recovery Café, and Jackson County SSP.
+
+<insert screenshot of "sidebar showing all 5 agencies loaded with record counts" here!>
+
+
+================================================================================
+  STEP 4 — Stage 1: Ingest & Schema Alignment
+================================================================================
+
+The app normalizes all loaded files into a single unified schema.
+Every record from every agency gets the same standard columns:
+
+  unique_record_id  — "ONTRACK_RV::OT-000001" (source_system + source_id)
+  source_system     — "ONTRACK_RV"
+  source_id         — original client_id from the agency file
+  first_name        — as provided
+  last_name         — as provided
+  dob               — as provided (raw, not yet standardized)
+  ssn_last4         — as provided
+  encounter_date    — intake date from client file (for demographic record)
+
+All 5 agencies are merged into a single demographic dataframe. The total
+record count displayed in the sidebar should match the sum of all uploaded
+client files:
+
+    ACCESS HUD             100 records
+    Rogue Retreat          100 records
+    Recovery Café          100 records
+    Jackson County SSP     100 records
+    St. Vincent de Paul    120 records
+    OnTrack Rogue Valley   240 records
+    ─────────────────────────────────
+    TOTAL                  760 records
+
+<insert screenshot of "ingestion complete — sidebar showing total record count: 760" here!>
+
+  ✓ Agentic Check: 760 records loaded — matches sum of all input files
+
+
+================================================================================
+  STEP 5 — Stage 2: Standardization & Cleaning
+================================================================================
+
+The app now cleans every record to make comparison fair across agencies.
+Different agencies use wildly different formats for the same data.
+
+What gets standardized:
+
+  NAMES
+    "BRANDON"         →  "brandon"   (lowercased for matching)
+    "RAYMOND"         →  "raymond"
+    "Mary"            →  "mary"
+    Punctuation and special characters stripped.
+
+  DATES (all normalized to YYYY-MM-DD)
+    "07/23/1986"      →  "1986-07-23"
+    "05/16/1957"      →  "1957-05-16"
+    "2/17/73"         →  "1973-02-17"
+    "2026-02-10"      →  "2026-02-10"   (already correct)
+    "UNKNOWN"         →  NaT (blank — cannot be matched on)
+    "2026-01-01"      →  kept (year-only approximation)
+    "03/22/2026"      →  "2026-03-22"   (service date example)
+
+  SSN LAST 4
+    "201"             →  ""   (3-digit entry — fails \d{4} regex, treated as blank)
+    "967"             →  ""   (same)
+    "4488"            →  "4488"
+    "8279"            →  "8279"
+    "REFUSED"         →  ""
+
+  Agentic check after cleaning:
+    ✓ Zero raw uncleaned date values remain in any date column
+    ✓ ssn_clean column matches ^\d{4}$ or empty string for every row
+
+<insert screenshot of "cleaning stage complete — no date parsing errors, SSN validation passed" here!>
+
+
+================================================================================
+  STEP 6 — Stage 3: Probabilistic Matching (Splink Engine)
+================================================================================
+
+The app now compares every record against every other record to find likely
+duplicates — the same person appearing at multiple agencies or multiple times.
+
+Splink uses a set of blocking rules to focus comparisons on plausible pairs:
+    • Same date of birth
+    • Same last name (cleaned)
+    • Same SSN last 4 (when not blank)
+
+Then for each candidate pair, it calculates a match probability (0.0 to 1.0)
+based on agreement across all fields:
+
+  Comparison                       Weight (approximate)
+  ---------------------------      --------------------
+  Last name exact match            High
+  Last name Levenshtein ≤ 1        Medium
+  First name exact match           Medium
+  First name Levenshtein ≤ 2       Low-Medium
+  Date of birth exact match        Very High
+  SSN last 4 exact match           Very High
+
+Example match candidates produced (OnTrack records involved):
+
+  Record A                              Record B                              Probability
+  ------------------------------------  ------------------------------------  -----------
+  ONTRACK_RV::OT-000142                 ACCESS_HUD::ACC-031                  0.9412
+  (Robert Smith, 1978-11-02)            (Bob Smith, 1978-11-02)
+  → Same DOB, last name exact, first name is nickname variant
+
+  ONTRACK_RV::OT-000089                 ROGUE_RETREAT::RR-0057               0.8834
+  (Maria Garcia, 1992-06-30)            (Maria Garcia, 1992-06-30)
+  → Same DOB, same name — likely the same person at two agencies
+
+  ONTRACK_RV::OT-000214                 ROGUE_RETREAT::RR-0044               0.5103
+  (James Johnson, 1978-01-01)           (James Johnson, 1979-03-12)
+  → Same name, DOB differs — presented in swipe deck for human review
+
+Records with match probability below the minimum threshold are auto-rejected
+and never shown in the swipe deck.
+
+<insert screenshot of "Splink matching stage complete — N candidate pairs found above threshold" here!>
+
+  ✓ Agentic Check: All match probabilities between 0.0 and 1.0, no duplicate pairs
+
+
+================================================================================
+  INTERMEDIATE FILE — bridge_record_links.csv (generated after matching)
+================================================================================
+
+This file maps every raw record to its assigned Master Person ID.
+It is the audit trail proving how each merge decision was made.
+
+  unique_record_id               | master_person_id                     | source_system   | match_confidence | match_type
+  -------------------------------+--------------------------------------+-----------------+------------------+--------------------
+  ACCESS_HUD::ACC-001            | 0ba7925b-f9ed-53a1-b698-7caa051c6db6 | ACCESS_HUD      | 0.9565           | Probabilistic_Splink
+  ACCESS_HUD::ACC-002            | 92e1b786-7b9c-52d0-8afd-6fb3fa2cf511 | ACCESS_HUD      | 1.0              | Direct_Single
+  ONTRACK_RV::OT-000089          | 84e1b999-3687-5ffa-b4c9-a6b2169006d2 | ONTRACK_RV      | 0.8834           | Probabilistic_Splink
+  ROGUE_RETREAT::RR-0057         | 84e1b999-3687-5ffa-b4c9-a6b2169006d2 | ROGUE_RETREAT   | 0.8834           | Probabilistic_Splink
+
+  Note: OT-000089 and RR-0057 share the same master_person_id — they were
+  identified as the same person. match_type "Probabilistic_Splink" means the
+  link came from statistical matching, not an exact key match.
+  match_type "Direct_Single" means the record had no match partner; it stands
+  alone as its own master person.
+
+
+================================================================================
+  INTERMEDIATE FILE — dim_master_persons.csv (generated after clustering)
+================================================================================
+
+One row per unique deduplicated human being. This is the Master Person Index.
+The canonical values are chosen from the most recent or most complete record.
+
+  master_person_id                     | canonical_first | canonical_last | canonical_dob | ssn_last4 | total_records | sources_count | contributing_sources
+  -------------------------------------+-----------------+----------------+---------------+-----------+---------------+---------------+-------------------------------
+  84e1b999-3687-5ffa-b4c9-a6b2169006d2 | Joseph          | Anderson       | 1956-11-07    |           | 2             | 2             | RECOVERY_CAFE, ROGUE_RETREAT
+  5c7e768d-0b22-510b-9fc8-0258aab26082 | Kenneth         | Davis          | 1991-01-12    |           | 2             | 2             | RECOVERY_CAFE, ROGUE_RETREAT
+  016a14ce-01e5-5275-a0f9-1e29c0e21238 | Steven          | Wilson         | 1987-05-05    | 6718      | 2             | 2             | RECOVERY_CAFE, ROGUE_RETREAT
+  0ba7925b-f9ed-53a1-b698-7caa051c6db6 | Mark            | Lewis          | 1971-04-27    |           | 1             | 1             | ACCESS_HUD
+
+  Key insight: Joseph Anderson (master_person_id 84e1b999...) appears at both
+  Recovery Café and Rogue Retreat. Without this system, he would be counted
+  twice in the PIT count. With NXNW, he is one row — one person.
+
+
+================================================================================
+  STEP 7 — Stage 4: Graph Clustering & Identity Assignment
+================================================================================
+
+Every match above the confidence threshold adds an edge in a graph where each
+node is a record and each edge is a potential match. NetworkX then finds all
+connected components — groups of records that are probably the same person.
+
+For each connected component (cluster):
+  1. Sort the member record IDs alphabetically (deterministic)
+  2. Generate a UUID v5 from the sorted member list + "rogue_raise_2026" seed
+  3. Assign that UUID as the Master Person ID for every record in the cluster
+  4. Average the edge weights to compute the cluster's overall match confidence
+
+This means the same group of records will always generate the same UUID,
+even if the pipeline is re-run on different hardware or at a different time.
+
+After clustering:
+  • Every unique_record_id has exactly one master_person_id (no orphans)
+  • Records that matched nothing become their own single-record cluster
+    with match_confidence = 1.0 and match_type = "Direct_Single"
+
+  ✓ Agentic Check: Every unique_record_id assigned exactly one master_person_id
+
+<insert screenshot of "graph clustering complete — X unique master persons identified from 760 records" here!>
+
+
+================================================================================
+  STEP 8 — The Swipe Deck (Human Review of Match Candidates)
+================================================================================
+
+The app presents match candidates above the minimum threshold in a side-by-side
+comparison view. The human reviewer sees Record A and Record B and decides
+whether to Accept or Reject the proposed merge.
+
+Example card pair — OnTrack record vs. ACCESS (HUD) record:
+
+  ┌─────────────────────────────────┐  ┌─────────────────────────────────┐
+  │  RECORD A                       │  │  RECORD B                       │
+  │  Source: ONTRACK_RV             │  │  Source: ACCESS_HUD             │
+  │  ID:     OT-000142              │  │  ID:     ACC-031                │
+  │                                 │  │                                 │
+  │  First Name:  Bob               │  │  First Name:  Robert            │  ← Amber (mismatch)
+  │  Last Name:   Smith             │  │  Last Name:   Smith             │  ← Teal  (match)
+  │  DOB:         1978-11-02        │  │  DOB:         1978-11-02        │  ← Teal  (match)
+  │  SSN Last 4:  ----              │  │  SSN Last 4:  3847              │  ← Amber (one missing)
+  │  Source:      OnTrack Medford   │  │  Source:      ACCESS HMIS       │
+  │  Program:     Outpatient SUD    │  │  Service:     Emergency Shelter │
+  │                                 │  │                                 │
+  │  Match Score: 94%               │  │                                 │
+  └─────────────────────────────────┘  └─────────────────────────────────┘
+
+        [ ❌  REJECT ]                        [ 💚  ACCEPT ]
+
+  Match Evidence:
+    Last name    Smith    = Smith         ✓ Exact match     (high weight)
+    DOB          1978-11-02 = 1978-11-02  ✓ Exact match     (very high weight)
+    First name   Bob     ≈ Robert         ~ Fuzzy match     (nickname variant)
+    SSN last 4   (blank) ≠ 3847          ✗ Cannot compare  (one record missing)
+
+  The plain-English summary reads:
+  "Strong DOB + last name match. First name is a likely nickname variant
+   (Bob / Robert). SSN unavailable on OnTrack record."
+
+  What each button does:
+    ACCEPT  → Validates the NetworkX edge. Both records are merged under
+              the same Master Person ID. Bob Smith at OnTrack and Robert
+              Smith at ACCESS HMIS are now one person in the count.
+
+    REJECT  → Severs the NetworkX edge. The penalty is logged to adjust
+              future matching weights. Both records remain as separate
+              master persons.
+
+<insert screenshot of "swipe deck showing side-by-side comparison card with Accept and Reject buttons" here!>
+
+<insert screenshot of "match evidence panel expanded below the card pair showing field-by-field score table" here!>
+
+After the reviewer works through the queue, the executive panel updates:
+
+    Approved Merges:     47
+    Severed Matches:     12
+    Remaining Queue:      0
+    Master Tolerance:    +0
+
+<insert screenshot of "executive brevity metrics panel showing queue complete" here!>
+
+
+================================================================================
+  STEP 9 — Stage 5: Export Intermediate Pipeline Files
+================================================================================
+
+After the swipe queue is complete, the pipeline writes three output files
+to the output/ directory:
+
+  output/dim_master_persons.csv       — canonical person index
+  output/bridge_record_links.csv      — audit trace (every record → MPI)
+  output/fact_encounters.csv          — unified service activity log
+
+fact_encounters.csv stub:
+
+  encounter_id    | master_person_id                     | source_system  | encounter_date | service_category                        | location_info
+  ----------------+--------------------------------------+----------------+----------------+-----------------------------------------+----------------------------
+  SRV-ACC-0001    | 0ba7925b-f9ed-53a1-b698-7caa051c6db6 | ACCESS_HUD     | 2026-05-08     | Emergency Shelter Bed Night             | 97504
+  OT-SVC-000001   | 84e1b999-3687-5ffa-b4c9-a6b2169006d2 | ONTRACK_RV     | 2026-02-10     | Substance Use Treatment                 | OnTrack Medford
+  OT-SVC-000002   | 84e1b999-3687-5ffa-b4c9-a6b2169006d2 | ONTRACK_RV     | 2025-06-03     | Substance Use Treatment                 | OnTrack Ashland
+  RR-ENT-0058     | 84e1b999-3687-5ffa-b4c9-a6b2169006d2 | ROGUE_RETREAT  | 2026-03-24     | Shelter Entry: Urban Campground Space   | Case Mgr: Unassigned
+
+  Note: All three rows for master_person_id 84e1b999... are Joseph Anderson —
+  OnTrack day treatment + Rogue Retreat shelter entry. One person, two agencies,
+  three service encounters — all linked under his single master person UUID.
+
+<insert screenshot of "pipeline export complete — three output files confirmed in output/ directory" here!>
+
+  ✓ Agentic Check: Foreign key integrity confirmed across all 3 CSV files
+
+
+================================================================================
+  STEP 10 — Export the Golden Records File
+================================================================================
+
+The Golden File is the final deliverable: a flat, denormalized join of every
+verified person record combined with all of their service encounters. This is
+the file a county commissioner opens in Excel or PowerBI.
+
+In the sidebar, scroll to the EXPORT section.
+Click [ Generate Golden File ] (or [ Overwrite Golden File ] if one exists).
+
+A confirmation dialog appears:
+  "Are you sure you want to generate GOLDEN_PERSONS_ENCOUNTERS.csv?
+   This will join dim_master_persons with fact_encounters and write
+   output/GOLDEN_PERSONS_ENCOUNTERS.csv."
+
+  [ Cancel ]    [ Generate ]
+
+Click [ Generate ]. The app runs a DuckDB JOIN in-process (no subprocess).
+A green banner confirms:
+    ✓ Golden file written — 1,116 encounter rows across all verified persons
+
+<insert screenshot of "golden export confirmation dialog" here!>
+
+<insert screenshot of "green success banner: Golden file written — 1,116 encounter rows" here!>
+
+
+================================================================================
+  THE GOLDEN RECORDS — Output Stub
+================================================================================
+
+File location:  output/GOLDEN_PERSONS_ENCOUNTERS.csv
+Row count:      One row per encounter, enriched with canonical person data
+Sort order:     canonical_last_name → canonical_first_name → encounter_date
+
+Columns:
+  master_person_id         — Persistent UUID v5. Stable across pipeline re-runs.
+  canonical_first_name     — Best available first name for this person
+  canonical_last_name      — Best available last name
+  canonical_dob            — Most frequently occurring DOB across all records
+  contributing_sources     — All agencies where this person appears
+  total_linked_records     — How many raw records were merged into this person
+  linked_sources_count     — How many distinct agencies contributed records
+  encounter_id             — Original encounter/service ID from the source agency
+  source_system            — Agency that recorded this encounter
+  encounter_date           — Date of the service encounter (cleaned, YYYY-MM-DD)
+  service_category         — Standardized service type
+  location_info            — Location or additional context from source agency
+
+--- Sample rows — single-agency person (OnTrack only) ---
+
+  master_person_id                     | first  | last    | dob        | contributing_sources | records | encounter_id   | source       | date       | service_category         | location
+  -------------------------------------+--------+---------+------------+----------------------+---------+----------------+--------------+------------+--------------------------+---------------------
+  f3a92011-...                         | Mary   | Baker   | 2007-08-23 | ONTRACK_RV           | 1       | OT-SVC-000001  | ONTRACK_RV   | 2026-02-10 | Substance Use Treatment  | OnTrack Medford
+  f3a92011-...                         | Mary   | Baker   | 2007-08-23 | ONTRACK_RV           | 1       | OT-SVC-000002  | ONTRACK_RV   | 2025-06-03 | Substance Use Treatment  | OnTrack Ashland
+  f3a92011-...                         | Mary   | Baker   | 2007-08-23 | ONTRACK_RV           | 1       | OT-SVC-000003  | ONTRACK_RV   | 2024-09-02 | Substance Use Treatment  | OnTrack Cave Jct
+
+  Interpretation: Mary Baker appears only at OnTrack. linked_sources_count = 1.
+  Total_linked_records = 1. She is one row in dim_master_persons and one
+  contribution to the unique-persons count.
+
+--- Sample rows — cross-agency person (merged by NXNW) ---
+
+  master_person_id                     | first  | last     | dob        | contributing_sources          | records | encounter_id   | source        | date       | service_category                      | location
+  -------------------------------------+--------+----------+------------+-------------------------------+---------+----------------+---------------+------------+---------------------------------------+-----------------------
+  84e1b999-3687-5ffa-b4c9-a6b2169006d2 | Joseph | Anderson | 1956-11-07 | RECOVERY_CAFE, ROGUE_RETREAT  | 2       | RC-VST-0123    | RECOVERY_CAFE | 2026-01-03 | One-on-One Peer Coaching              | Meal Attended: Yes
+  84e1b999-3687-5ffa-b4c9-a6b2169006d2 | Joseph | Anderson | 1956-11-07 | RECOVERY_CAFE, ROGUE_RETREAT  | 2       | RC-VST-0122    | RECOVERY_CAFE | 2026-02-21 | Women's Hope & Healing Group          | Meal Attended: Yes
+  84e1b999-3687-5ffa-b4c9-a6b2169006d2 | Joseph | Anderson | 1956-11-07 | RECOVERY_CAFE, ROGUE_RETREAT  | 2       | RR-ENT-0058    | ROGUE_RETREAT | 2026-03-24 | Shelter Entry: Urban Campground Space | Case Mgr: Unassigned
+  84e1b999-3687-5ffa-b4c9-a6b2169006d2 | Joseph | Anderson | 1956-11-07 | RECOVERY_CAFE, ROGUE_RETREAT  | 2       | RC-VST-0124    | RECOVERY_CAFE | 2026-09-16 | Mindfulness & Well-being Workshop     | Meal Attended: No
+
+  Interpretation: Joseph Anderson was found at both Recovery Café and Rogue
+  Retreat. Without NXNW, he would be counted as 2 people. NXNW merged both
+  records under a single UUID. His Golden File rows show all 4 service
+  encounters across both agencies — a complete picture of his engagement with
+  the Continuum of Care.
+
+  For a commissioner: this is the difference between saying
+  "we served 760 individuals" and "we served 692 unique individuals."
+  The 68-person gap represents real duplicate counting that was distorting
+  resource allocation decisions.
+
+<insert screenshot of "Golden Records file open in Excel or PowerBI showing cross-agency merged rows" here!>
+
+
+================================================================================
+  SUMMARY — What Just Happened
+================================================================================
+
+  Input:
+    ontrack_clients.csv     240 client records (dirty, mixed formats)
+    ontrack_services.csv    2,999 service encounters
+
+  Pipeline stages:
+    1. Ingest          — 760 total records across 6 agencies loaded
+    2. Clean           — dates normalized, SSN validated, names lowercased
+    3. Match (Splink)  — N candidate pairs identified via probabilistic scoring
+    4. Cluster (NX)    — connected components → UUID v5 Master Person IDs
+    5. Export          — 3 intermediate CSVs written to output/
+
+  Human review:
+    47 merges accepted · 12 merges rejected · queue complete
+
+  Output:
+    output/dim_master_persons.csv         — unique person index
+    output/bridge_record_links.csv        — audit trace
+    output/fact_encounters.csv            — unified service log
+    output/GOLDEN_PERSONS_ENCOUNTERS.csv  — final commissioner-ready file
+
+  The Golden File is the data the public health liaison walks into the
+  Jackson County commissioner meeting with. Every row is defensible.
+  Every merge has a confidence score and an audit trail.
+  Every person is counted exactly once.
+
+================================================================================
+  END OF WALKTHROUGH
+  NXNW · NorthByNorthwest · Rogue Raise #02 · Ashland, OR · Oct 23–25, 2026
+================================================================================

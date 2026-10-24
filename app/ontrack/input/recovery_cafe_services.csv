@@ -1,0 +1,610 @@
+visit_id,member_number,activity_type,visit_date,attended_meal
+RC-VST-0001,RC-001,One-on-One Peer Coaching,2026-02-07,No
+RC-VST-0002,RC-001,Women's Hope & Healing Group,2026-07-05,Yes
+RC-VST-0003,RC-001,Men's Peer Recovery Circle,2026-07-17,Yes
+RC-VST-0004,RC-001,Mindfulness & Well-being Workshop,2026-01-23,No
+RC-VST-0005,RC-001,Men's Peer Recovery Circle,2026-09-11,Yes
+RC-VST-0006,RC-001,Mindfulness & Well-being Workshop,2026-09-13,Yes
+RC-VST-0007,RC-002,Mindfulness & Well-being Workshop,2026-09-11,Yes
+RC-VST-0008,RC-002,One-on-One Peer Coaching,2026-05-20,Yes
+RC-VST-0009,RC-002,Men's Peer Recovery Circle,2026-05-18,Yes
+RC-VST-0010,RC-003,Women's Hope & Healing Group,2026-04-23,Yes
+RC-VST-0011,RC-003,Women's Hope & Healing Group,2026-08-12,Yes
+RC-VST-0012,RC-003,One-on-One Peer Coaching,2026-05-10,No
+RC-VST-0013,RC-003,One-on-One Peer Coaching,2026-09-13,Yes
+RC-VST-0014,RC-004,Women's Hope & Healing Group,2026-03-10,No
+RC-VST-0015,RC-004,One-on-One Peer Coaching,2026-02-12,Yes
+RC-VST-0016,RC-004,One-on-One Peer Coaching,2026-05-24,Yes
+RC-VST-0017,RC-004,Men's Peer Recovery Circle,2026-09-09,Yes
+RC-VST-0018,RC-004,One-on-One Peer Coaching,2026-05-05,No
+RC-VST-0019,RC-005,Men's Peer Recovery Circle,2026-04-02,Yes
+RC-VST-0020,RC-005,Café Hot Meal Service,2026-04-21,Yes
+RC-VST-0021,RC-005,Serenity Tuesdays Support Circle,2026-07-11,Yes
+RC-VST-0022,RC-005,Serenity Tuesdays Support Circle,2026-03-01,Yes
+RC-VST-0023,RC-005,Men's Peer Recovery Circle,2026-07-21,Yes
+RC-VST-0024,RC-005,Mindfulness & Well-being Workshop,2026-08-21,No
+RC-VST-0025,RC-006,Women's Hope & Healing Group,2026-05-21,No
+RC-VST-0026,RC-006,Serenity Tuesdays Support Circle,2026-04-18,Yes
+RC-VST-0027,RC-006,Serenity Tuesdays Support Circle,2026-03-14,Yes
+RC-VST-0028,RC-006,Men's Peer Recovery Circle,2026-01-27,Yes
+RC-VST-0029,RC-007,Men's Peer Recovery Circle,2026-05-02,No
+RC-VST-0030,RC-007,Café Hot Meal Service,2026-02-11,Yes
+RC-VST-0031,RC-007,One-on-One Peer Coaching,2026-09-17,Yes
+RC-VST-0032,RC-007,Men's Peer Recovery Circle,2026-09-15,Yes
+RC-VST-0033,RC-007,Serenity Tuesdays Support Circle,2026-06-06,Yes
+RC-VST-0034,RC-008,One-on-One Peer Coaching,2026-03-01,Yes
+RC-VST-0035,RC-008,Women's Hope & Healing Group,2026-04-06,Yes
+RC-VST-0036,RC-008,One-on-One Peer Coaching,2026-07-27,Yes
+RC-VST-0037,RC-008,Women's Hope & Healing Group,2026-02-13,Yes
+RC-VST-0038,RC-009,Men's Peer Recovery Circle,2026-08-11,Yes
+RC-VST-0039,RC-009,Serenity Tuesdays Support Circle,2026-05-13,Yes
+RC-VST-0040,RC-009,Women's Hope & Healing Group,2026-06-10,Yes
+RC-VST-0041,RC-010,Serenity Tuesdays Support Circle,2026-05-21,Yes
+RC-VST-0042,RC-010,Men's Peer Recovery Circle,2026-01-22,No
+RC-VST-0043,RC-010,Women's Hope & Healing Group,2026-03-13,Yes
+RC-VST-0044,RC-010,One-on-One Peer Coaching,2026-05-23,No
+RC-VST-0045,RC-010,Women's Hope & Healing Group,2026-06-20,Yes
+RC-VST-0046,RC-010,Men's Peer Recovery Circle,2026-08-05,Yes
+RC-VST-0047,RC-011,Women's Hope & Healing Group,2026-07-23,Yes
+RC-VST-0048,RC-011,Mindfulness & Well-being Workshop,2026-09-26,Yes
+RC-VST-0049,RC-011,Men's Peer Recovery Circle,2026-04-22,Yes
+RC-VST-0050,RC-011,Serenity Tuesdays Support Circle,2026-09-15,Yes
+RC-VST-0051,RC-011,Women's Hope & Healing Group,2026-02-19,No
+RC-VST-0052,RC-011,Café Hot Meal Service,2026-09-07,Yes
+RC-VST-0053,RC-012,Men's Peer Recovery Circle,2026-06-28,Yes
+RC-VST-0054,RC-012,Serenity Tuesdays Support Circle,2026-04-23,Yes
+RC-VST-0055,RC-012,Serenity Tuesdays Support Circle,2026-09-15,Yes
+RC-VST-0056,RC-013,Men's Peer Recovery Circle,2026-09-14,Yes
+RC-VST-0057,RC-013,Serenity Tuesdays Support Circle,2026-09-15,Yes
+RC-VST-0058,RC-013,Women's Hope & Healing Group,2026-01-13,Yes
+RC-VST-0059,RC-013,Serenity Tuesdays Support Circle,2026-04-19,No
+RC-VST-0060,RC-013,Mindfulness & Well-being Workshop,2026-06-23,No
+RC-VST-0061,RC-014,Serenity Tuesdays Support Circle,2026-08-02,Yes
+RC-VST-0062,RC-014,Men's Peer Recovery Circle,2026-03-25,Yes
+RC-VST-0063,RC-015,Women's Hope & Healing Group,2026-07-15,Yes
+RC-VST-0064,RC-015,Mindfulness & Well-being Workshop,2026-07-03,Yes
+RC-VST-0065,RC-015,One-on-One Peer Coaching,2026-09-05,Yes
+RC-VST-0066,RC-015,Women's Hope & Healing Group,2026-02-06,Yes
+RC-VST-0067,RC-015,Mindfulness & Well-being Workshop,2026-09-05,Yes
+RC-VST-0068,RC-016,Serenity Tuesdays Support Circle,2026-01-10,Yes
+RC-VST-0069,RC-016,One-on-One Peer Coaching,2026-09-14,Yes
+RC-VST-0070,RC-016,Men's Peer Recovery Circle,2026-04-15,Yes
+RC-VST-0071,RC-017,Men's Peer Recovery Circle,2026-02-02,Yes
+RC-VST-0072,RC-017,Mindfulness & Well-being Workshop,2026-01-08,Yes
+RC-VST-0073,RC-017,Serenity Tuesdays Support Circle,2026-01-15,Yes
+RC-VST-0074,RC-017,One-on-One Peer Coaching,2026-01-08,Yes
+RC-VST-0075,RC-018,Mindfulness & Well-being Workshop,2026-04-18,Yes
+RC-VST-0076,RC-018,Serenity Tuesdays Support Circle,2026-03-17,Yes
+RC-VST-0077,RC-018,Men's Peer Recovery Circle,2026-06-19,Yes
+RC-VST-0078,RC-018,One-on-One Peer Coaching,2026-06-08,Yes
+RC-VST-0079,RC-018,Men's Peer Recovery Circle,2026-09-08,Yes
+RC-VST-0080,RC-019,Serenity Tuesdays Support Circle,2026-09-19,Yes
+RC-VST-0081,RC-019,Men's Peer Recovery Circle,2026-07-18,Yes
+RC-VST-0082,RC-019,Women's Hope & Healing Group,2026-07-26,Yes
+RC-VST-0083,RC-019,One-on-One Peer Coaching,2026-07-14,No
+RC-VST-0084,RC-020,Men's Peer Recovery Circle,2026-09-16,Yes
+RC-VST-0085,RC-020,Men's Peer Recovery Circle,2026-05-28,Yes
+RC-VST-0086,RC-020,Mindfulness & Well-being Workshop,2026-01-18,Yes
+RC-VST-0087,RC-020,Mindfulness & Well-being Workshop,2026-09-17,No
+RC-VST-0088,RC-020,Men's Peer Recovery Circle,2026-05-07,Yes
+RC-VST-0089,RC-021,Mindfulness & Well-being Workshop,2026-06-03,Yes
+RC-VST-0090,RC-021,Men's Peer Recovery Circle,2026-01-09,Yes
+RC-VST-0091,RC-022,Café Hot Meal Service,2026-01-28,No
+RC-VST-0092,RC-022,Café Hot Meal Service,2026-09-07,Yes
+RC-VST-0093,RC-022,Women's Hope & Healing Group,2026-05-01,Yes
+RC-VST-0094,RC-022,Men's Peer Recovery Circle,2026-02-24,Yes
+RC-VST-0095,RC-022,Mindfulness & Well-being Workshop,2026-04-23,Yes
+RC-VST-0096,RC-022,Men's Peer Recovery Circle,2026-07-08,Yes
+RC-VST-0097,RC-023,Mindfulness & Well-being Workshop,2026-08-18,Yes
+RC-VST-0098,RC-023,Women's Hope & Healing Group,2026-05-12,Yes
+RC-VST-0099,RC-023,Mindfulness & Well-being Workshop,2026-08-04,Yes
+RC-VST-0100,RC-023,One-on-One Peer Coaching,2026-08-25,Yes
+RC-VST-0101,RC-024,Women's Hope & Healing Group,2026-06-14,No
+RC-VST-0102,RC-024,Men's Peer Recovery Circle,2026-03-01,Yes
+RC-VST-0103,RC-024,Café Hot Meal Service,2026-07-10,No
+RC-VST-0104,RC-025,Men's Peer Recovery Circle,2026-07-19,Yes
+RC-VST-0105,RC-025,Mindfulness & Well-being Workshop,2026-09-21,Yes
+RC-VST-0106,RC-025,Women's Hope & Healing Group,2026-05-25,Yes
+RC-VST-0107,RC-025,One-on-One Peer Coaching,2026-08-15,No
+RC-VST-0108,RC-026,Men's Peer Recovery Circle,2026-03-24,Yes
+RC-VST-0109,RC-026,Men's Peer Recovery Circle,2026-09-21,Yes
+RC-VST-0110,RC-026,Café Hot Meal Service,2026-01-27,Yes
+RC-VST-0111,RC-026,One-on-One Peer Coaching,2026-01-25,No
+RC-VST-0112,RC-027,One-on-One Peer Coaching,2026-04-03,Yes
+RC-VST-0113,RC-027,Serenity Tuesdays Support Circle,2026-04-17,Yes
+RC-VST-0114,RC-027,Serenity Tuesdays Support Circle,2026-08-22,Yes
+RC-VST-0115,RC-028,Café Hot Meal Service,2026-09-14,No
+RC-VST-0116,RC-028,Café Hot Meal Service,2026-05-18,Yes
+RC-VST-0117,RC-029,Café Hot Meal Service,2026-07-26,Yes
+RC-VST-0118,RC-029,Men's Peer Recovery Circle,2026-02-04,Yes
+RC-VST-0119,RC-030,Men's Peer Recovery Circle,2026-09-09,Yes
+RC-VST-0120,RC-030,Women's Hope & Healing Group,2026-07-03,Yes
+RC-VST-0121,RC-030,Mindfulness & Well-being Workshop,2026-08-19,Yes
+RC-VST-0122,RC-031,Women's Hope & Healing Group,2026-02-21,Yes
+RC-VST-0123,RC-031,One-on-One Peer Coaching,2026-01-03,Yes
+RC-VST-0124,RC-031,Mindfulness & Well-being Workshop,2026-09-16,No
+RC-VST-0125,RC-032,One-on-One Peer Coaching,2026-03-03,Yes
+RC-VST-0126,RC-032,Mindfulness & Well-being Workshop,2026-06-19,Yes
+RC-VST-0127,RC-033,Café Hot Meal Service,2026-01-08,Yes
+RC-VST-0128,RC-033,One-on-One Peer Coaching,2026-08-09,No
+RC-VST-0129,RC-034,One-on-One Peer Coaching,2026-05-18,Yes
+RC-VST-0130,RC-034,Serenity Tuesdays Support Circle,2026-03-28,Yes
+RC-VST-0131,RC-035,Café Hot Meal Service,2026-03-25,Yes
+RC-VST-0132,RC-035,Mindfulness & Well-being Workshop,2026-02-10,No
+RC-VST-0133,RC-035,Men's Peer Recovery Circle,2026-07-22,Yes
+RC-VST-0134,RC-036,Mindfulness & Well-being Workshop,2026-03-26,Yes
+RC-VST-0135,RC-036,One-on-One Peer Coaching,2026-02-17,Yes
+RC-VST-0136,RC-036,Women's Hope & Healing Group,2026-01-04,Yes
+RC-VST-0137,RC-036,Serenity Tuesdays Support Circle,2026-06-20,Yes
+RC-VST-0138,RC-037,Mindfulness & Well-being Workshop,2026-06-01,Yes
+RC-VST-0139,RC-037,Mindfulness & Well-being Workshop,2026-08-08,Yes
+RC-VST-0140,RC-037,Mindfulness & Well-being Workshop,2026-07-06,Yes
+RC-VST-0141,RC-037,One-on-One Peer Coaching,2026-07-03,Yes
+RC-VST-0142,RC-037,Women's Hope & Healing Group,2026-04-23,No
+RC-VST-0143,RC-037,Women's Hope & Healing Group,2026-03-13,Yes
+RC-VST-0144,RC-038,One-on-One Peer Coaching,2026-07-11,Yes
+RC-VST-0145,RC-038,Serenity Tuesdays Support Circle,2026-01-10,Yes
+RC-VST-0146,RC-038,Women's Hope & Healing Group,2026-02-05,No
+RC-VST-0147,RC-039,Mindfulness & Well-being Workshop,2026-09-18,Yes
+RC-VST-0148,RC-039,Serenity Tuesdays Support Circle,2026-01-03,Yes
+RC-VST-0149,RC-039,Serenity Tuesdays Support Circle,2026-06-28,Yes
+RC-VST-0150,RC-039,Women's Hope & Healing Group,2026-07-13,Yes
+RC-VST-0151,RC-039,One-on-One Peer Coaching,2026-09-08,Yes
+RC-VST-0152,RC-040,One-on-One Peer Coaching,2026-07-06,No
+RC-VST-0153,RC-040,Women's Hope & Healing Group,2026-05-16,No
+RC-VST-0154,RC-040,Men's Peer Recovery Circle,2026-07-09,Yes
+RC-VST-0155,RC-041,Serenity Tuesdays Support Circle,2026-06-09,Yes
+RC-VST-0156,RC-041,One-on-One Peer Coaching,2026-08-20,Yes
+RC-VST-0157,RC-041,Mindfulness & Well-being Workshop,2026-02-05,Yes
+RC-VST-0158,RC-041,Mindfulness & Well-being Workshop,2026-06-27,Yes
+RC-VST-0159,RC-041,Women's Hope & Healing Group,2026-08-11,Yes
+RC-VST-0160,RC-042,Men's Peer Recovery Circle,2026-05-11,Yes
+RC-VST-0161,RC-042,One-on-One Peer Coaching,2026-04-16,Yes
+RC-VST-0162,RC-042,Mindfulness & Well-being Workshop,2026-06-10,Yes
+RC-VST-0163,RC-042,One-on-One Peer Coaching,2026-08-19,Yes
+RC-VST-0164,RC-042,Women's Hope & Healing Group,2026-07-09,Yes
+RC-VST-0165,RC-042,Mindfulness & Well-being Workshop,2026-06-04,Yes
+RC-VST-0166,RC-043,Café Hot Meal Service,2026-09-06,Yes
+RC-VST-0167,RC-043,Café Hot Meal Service,2026-01-24,Yes
+RC-VST-0168,RC-043,One-on-One Peer Coaching,2026-04-15,Yes
+RC-VST-0169,RC-044,Mindfulness & Well-being Workshop,2026-08-05,Yes
+RC-VST-0170,RC-044,Men's Peer Recovery Circle,2026-05-22,No
+RC-VST-0171,RC-045,Mindfulness & Well-being Workshop,2026-02-15,Yes
+RC-VST-0172,RC-045,Mindfulness & Well-being Workshop,2026-07-18,Yes
+RC-VST-0173,RC-045,One-on-One Peer Coaching,2026-07-18,No
+RC-VST-0174,RC-045,Women's Hope & Healing Group,2026-09-20,Yes
+RC-VST-0175,RC-045,Serenity Tuesdays Support Circle,2026-02-25,Yes
+RC-VST-0176,RC-046,Men's Peer Recovery Circle,2026-01-19,Yes
+RC-VST-0177,RC-046,One-on-One Peer Coaching,2026-07-25,Yes
+RC-VST-0178,RC-046,Mindfulness & Well-being Workshop,2026-02-01,No
+RC-VST-0179,RC-046,Men's Peer Recovery Circle,2026-09-24,Yes
+RC-VST-0180,RC-047,One-on-One Peer Coaching,2026-04-15,Yes
+RC-VST-0181,RC-047,Mindfulness & Well-being Workshop,2026-09-05,Yes
+RC-VST-0182,RC-047,Serenity Tuesdays Support Circle,2026-08-04,Yes
+RC-VST-0183,RC-047,Serenity Tuesdays Support Circle,2026-02-27,Yes
+RC-VST-0184,RC-047,Men's Peer Recovery Circle,2026-06-10,Yes
+RC-VST-0185,RC-047,Men's Peer Recovery Circle,2026-09-16,Yes
+RC-VST-0186,RC-048,Mindfulness & Well-being Workshop,2026-08-11,No
+RC-VST-0187,RC-048,Serenity Tuesdays Support Circle,2026-02-01,Yes
+RC-VST-0188,RC-049,One-on-One Peer Coaching,2026-03-24,Yes
+RC-VST-0189,RC-049,Men's Peer Recovery Circle,2026-09-06,Yes
+RC-VST-0190,RC-050,Mindfulness & Well-being Workshop,2026-04-26,Yes
+RC-VST-0191,RC-050,Men's Peer Recovery Circle,2026-03-21,Yes
+RC-VST-0192,RC-050,Mindfulness & Well-being Workshop,2026-01-24,Yes
+RC-VST-0193,RC-050,Men's Peer Recovery Circle,2026-08-19,Yes
+RC-VST-0194,RC-050,Serenity Tuesdays Support Circle,2026-04-07,Yes
+RC-VST-0195,RC-051,Café Hot Meal Service,2026-02-26,Yes
+RC-VST-0196,RC-051,Men's Peer Recovery Circle,2026-06-11,No
+RC-VST-0197,RC-052,Women's Hope & Healing Group,2026-08-17,Yes
+RC-VST-0198,RC-052,Women's Hope & Healing Group,2026-07-20,Yes
+RC-VST-0199,RC-053,Women's Hope & Healing Group,2026-06-28,Yes
+RC-VST-0200,RC-053,Men's Peer Recovery Circle,2026-05-20,Yes
+RC-VST-0201,RC-054,Women's Hope & Healing Group,2026-02-08,Yes
+RC-VST-0202,RC-054,Men's Peer Recovery Circle,2026-06-23,No
+RC-VST-0203,RC-054,Mindfulness & Well-being Workshop,2026-07-20,No
+RC-VST-0204,RC-055,Mindfulness & Well-being Workshop,2026-03-16,Yes
+RC-VST-0205,RC-055,One-on-One Peer Coaching,2026-03-18,No
+RC-VST-0206,RC-055,Women's Hope & Healing Group,2026-03-06,Yes
+RC-VST-0207,RC-055,Mindfulness & Well-being Workshop,2026-01-28,Yes
+RC-VST-0208,RC-055,Serenity Tuesdays Support Circle,2026-08-05,No
+RC-VST-0209,RC-056,Café Hot Meal Service,2026-09-21,Yes
+RC-VST-0210,RC-056,One-on-One Peer Coaching,2026-08-14,Yes
+RC-VST-0211,RC-056,Mindfulness & Well-being Workshop,2026-08-06,No
+RC-VST-0212,RC-056,Serenity Tuesdays Support Circle,2026-04-10,No
+RC-VST-0213,RC-056,Men's Peer Recovery Circle,2026-09-10,No
+RC-VST-0214,RC-057,Café Hot Meal Service,2026-08-18,Yes
+RC-VST-0215,RC-057,Café Hot Meal Service,2026-02-09,Yes
+RC-VST-0216,RC-057,Women's Hope & Healing Group,2026-09-27,Yes
+RC-VST-0217,RC-057,One-on-One Peer Coaching,2026-08-18,Yes
+RC-VST-0218,RC-057,Mindfulness & Well-being Workshop,2026-02-24,Yes
+RC-VST-0219,RC-058,Women's Hope & Healing Group,2026-01-15,Yes
+RC-VST-0220,RC-058,Serenity Tuesdays Support Circle,2026-08-28,Yes
+RC-VST-0221,RC-058,Men's Peer Recovery Circle,2026-04-26,Yes
+RC-VST-0222,RC-059,One-on-One Peer Coaching,2026-07-06,Yes
+RC-VST-0223,RC-059,Men's Peer Recovery Circle,2026-04-26,No
+RC-VST-0224,RC-059,Women's Hope & Healing Group,2026-09-09,Yes
+RC-VST-0225,RC-059,Men's Peer Recovery Circle,2026-06-23,Yes
+RC-VST-0226,RC-060,Women's Hope & Healing Group,2026-09-22,Yes
+RC-VST-0227,RC-060,Men's Peer Recovery Circle,2026-07-02,Yes
+RC-VST-0228,RC-060,One-on-One Peer Coaching,2026-03-23,Yes
+RC-VST-0229,RC-060,Men's Peer Recovery Circle,2026-03-23,Yes
+RC-VST-0230,RC-060,Men's Peer Recovery Circle,2026-07-16,No
+RC-VST-0231,RC-060,One-on-One Peer Coaching,2026-05-21,Yes
+RC-VST-0232,RC-061,Serenity Tuesdays Support Circle,2026-02-13,Yes
+RC-VST-0233,RC-061,Women's Hope & Healing Group,2026-06-15,Yes
+RC-VST-0234,RC-061,Women's Hope & Healing Group,2026-01-28,Yes
+RC-VST-0235,RC-061,One-on-One Peer Coaching,2026-02-24,Yes
+RC-VST-0236,RC-061,One-on-One Peer Coaching,2026-06-28,No
+RC-VST-0237,RC-062,Mindfulness & Well-being Workshop,2026-04-14,Yes
+RC-VST-0238,RC-062,Mindfulness & Well-being Workshop,2026-05-11,Yes
+RC-VST-0239,RC-062,Women's Hope & Healing Group,2026-09-19,No
+RC-VST-0240,RC-062,Mindfulness & Well-being Workshop,2026-06-22,Yes
+RC-VST-0241,RC-062,Serenity Tuesdays Support Circle,2026-02-21,Yes
+RC-VST-0242,RC-062,Mindfulness & Well-being Workshop,2026-01-04,Yes
+RC-VST-0243,RC-063,Mindfulness & Well-being Workshop,2026-08-01,Yes
+RC-VST-0244,RC-063,Mindfulness & Well-being Workshop,2026-04-23,Yes
+RC-VST-0245,RC-063,One-on-One Peer Coaching,2026-05-06,Yes
+RC-VST-0246,RC-064,Serenity Tuesdays Support Circle,2026-06-09,No
+RC-VST-0247,RC-064,One-on-One Peer Coaching,2026-03-02,Yes
+RC-VST-0248,RC-064,Women's Hope & Healing Group,2026-04-14,Yes
+RC-VST-0249,RC-064,One-on-One Peer Coaching,2026-02-01,Yes
+RC-VST-0250,RC-065,Men's Peer Recovery Circle,2026-04-17,Yes
+RC-VST-0251,RC-065,Serenity Tuesdays Support Circle,2026-01-23,Yes
+RC-VST-0252,RC-066,Mindfulness & Well-being Workshop,2026-03-16,No
+RC-VST-0253,RC-066,Mindfulness & Well-being Workshop,2026-02-24,Yes
+RC-VST-0254,RC-067,Women's Hope & Healing Group,2026-06-10,No
+RC-VST-0255,RC-067,Men's Peer Recovery Circle,2026-03-03,Yes
+RC-VST-0256,RC-068,Café Hot Meal Service,2026-03-15,Yes
+RC-VST-0257,RC-068,Men's Peer Recovery Circle,2026-03-14,Yes
+RC-VST-0258,RC-069,Men's Peer Recovery Circle,2026-02-04,No
+RC-VST-0259,RC-069,Serenity Tuesdays Support Circle,2026-07-12,Yes
+RC-VST-0260,RC-069,Women's Hope & Healing Group,2026-03-08,Yes
+RC-VST-0261,RC-069,Serenity Tuesdays Support Circle,2026-04-18,Yes
+RC-VST-0262,RC-069,One-on-One Peer Coaching,2026-05-25,Yes
+RC-VST-0263,RC-070,One-on-One Peer Coaching,2026-05-07,Yes
+RC-VST-0264,RC-070,Café Hot Meal Service,2026-04-24,Yes
+RC-VST-0265,RC-071,Men's Peer Recovery Circle,2026-08-13,No
+RC-VST-0266,RC-071,Mindfulness & Well-being Workshop,2026-02-17,Yes
+RC-VST-0267,RC-072,Women's Hope & Healing Group,2026-06-05,Yes
+RC-VST-0268,RC-072,Café Hot Meal Service,2026-07-12,Yes
+RC-VST-0269,RC-073,Mindfulness & Well-being Workshop,2026-02-01,Yes
+RC-VST-0270,RC-073,Serenity Tuesdays Support Circle,2026-05-07,No
+RC-VST-0271,RC-073,Serenity Tuesdays Support Circle,2026-07-17,Yes
+RC-VST-0272,RC-074,Mindfulness & Well-being Workshop,2026-07-23,Yes
+RC-VST-0273,RC-074,One-on-One Peer Coaching,2026-09-18,Yes
+RC-VST-0274,RC-074,Women's Hope & Healing Group,2026-02-10,No
+RC-VST-0275,RC-074,Men's Peer Recovery Circle,2026-03-18,Yes
+RC-VST-0276,RC-074,Café Hot Meal Service,2026-02-10,Yes
+RC-VST-0277,RC-074,One-on-One Peer Coaching,2026-04-02,Yes
+RC-VST-0278,RC-075,Serenity Tuesdays Support Circle,2026-08-20,Yes
+RC-VST-0279,RC-075,Women's Hope & Healing Group,2026-03-04,No
+RC-VST-0280,RC-075,Men's Peer Recovery Circle,2026-01-06,Yes
+RC-VST-0281,RC-075,Women's Hope & Healing Group,2026-09-17,Yes
+RC-VST-0282,RC-075,One-on-One Peer Coaching,2026-05-06,Yes
+RC-VST-0283,RC-076,One-on-One Peer Coaching,2026-02-25,Yes
+RC-VST-0284,RC-076,Women's Hope & Healing Group,2026-07-09,Yes
+RC-VST-0285,RC-076,Women's Hope & Healing Group,2026-02-16,Yes
+RC-VST-0286,RC-076,Women's Hope & Healing Group,2026-01-16,Yes
+RC-VST-0287,RC-077,Women's Hope & Healing Group,2026-03-09,Yes
+RC-VST-0288,RC-077,Café Hot Meal Service,2026-02-08,Yes
+RC-VST-0289,RC-077,Serenity Tuesdays Support Circle,2026-01-28,Yes
+RC-VST-0290,RC-078,Serenity Tuesdays Support Circle,2026-08-12,Yes
+RC-VST-0291,RC-078,Men's Peer Recovery Circle,2026-03-28,No
+RC-VST-0292,RC-078,One-on-One Peer Coaching,2026-07-08,Yes
+RC-VST-0293,RC-079,One-on-One Peer Coaching,2026-06-09,Yes
+RC-VST-0294,RC-079,Café Hot Meal Service,2026-06-04,Yes
+RC-VST-0295,RC-079,Serenity Tuesdays Support Circle,2026-03-08,Yes
+RC-VST-0296,RC-079,Serenity Tuesdays Support Circle,2026-07-03,Yes
+RC-VST-0297,RC-079,Women's Hope & Healing Group,2026-05-11,No
+RC-VST-0298,RC-080,Serenity Tuesdays Support Circle,2026-06-07,Yes
+RC-VST-0299,RC-080,Women's Hope & Healing Group,2026-04-15,Yes
+RC-VST-0300,RC-080,Mindfulness & Well-being Workshop,2026-04-24,Yes
+RC-VST-0301,RC-080,Men's Peer Recovery Circle,2026-03-01,Yes
+RC-VST-0302,RC-080,Serenity Tuesdays Support Circle,2026-04-18,Yes
+RC-VST-0303,RC-081,Women's Hope & Healing Group,2026-01-25,Yes
+RC-VST-0304,RC-081,One-on-One Peer Coaching,2026-05-04,Yes
+RC-VST-0305,RC-082,Mindfulness & Well-being Workshop,2026-08-02,Yes
+RC-VST-0306,RC-082,Men's Peer Recovery Circle,2026-05-03,No
+RC-VST-0307,RC-082,Men's Peer Recovery Circle,2026-09-14,Yes
+RC-VST-0308,RC-083,Mindfulness & Well-being Workshop,2026-02-19,No
+RC-VST-0309,RC-083,Men's Peer Recovery Circle,2026-07-03,Yes
+RC-VST-0310,RC-083,Serenity Tuesdays Support Circle,2026-07-22,Yes
+RC-VST-0311,RC-083,Men's Peer Recovery Circle,2026-05-09,Yes
+RC-VST-0312,RC-084,One-on-One Peer Coaching,2026-06-11,Yes
+RC-VST-0313,RC-084,Men's Peer Recovery Circle,2026-02-07,No
+RC-VST-0314,RC-084,Café Hot Meal Service,2026-02-05,No
+RC-VST-0315,RC-084,Mindfulness & Well-being Workshop,2026-08-11,Yes
+RC-VST-0316,RC-084,Café Hot Meal Service,2026-06-25,Yes
+RC-VST-0317,RC-085,Mindfulness & Well-being Workshop,2026-05-28,No
+RC-VST-0318,RC-085,Men's Peer Recovery Circle,2026-05-27,Yes
+RC-VST-0319,RC-085,Café Hot Meal Service,2026-01-07,Yes
+RC-VST-0320,RC-085,Women's Hope & Healing Group,2026-03-03,Yes
+RC-VST-0321,RC-086,Mindfulness & Well-being Workshop,2026-09-02,Yes
+RC-VST-0322,RC-086,Women's Hope & Healing Group,2026-03-01,Yes
+RC-VST-0323,RC-086,Mindfulness & Well-being Workshop,2026-09-24,Yes
+RC-VST-0324,RC-086,Serenity Tuesdays Support Circle,2026-08-04,Yes
+RC-VST-0325,RC-087,Serenity Tuesdays Support Circle,2026-01-02,Yes
+RC-VST-0326,RC-087,Men's Peer Recovery Circle,2026-03-07,Yes
+RC-VST-0327,RC-087,Women's Hope & Healing Group,2026-02-19,Yes
+RC-VST-0328,RC-088,Serenity Tuesdays Support Circle,2026-02-07,Yes
+RC-VST-0329,RC-088,Mindfulness & Well-being Workshop,2026-03-03,Yes
+RC-VST-0330,RC-089,Serenity Tuesdays Support Circle,2026-01-15,No
+RC-VST-0331,RC-089,Café Hot Meal Service,2026-07-27,Yes
+RC-VST-0332,RC-089,Mindfulness & Well-being Workshop,2026-01-13,Yes
+RC-VST-0333,RC-089,Men's Peer Recovery Circle,2026-06-07,Yes
+RC-VST-0334,RC-090,Women's Hope & Healing Group,2026-08-05,No
+RC-VST-0335,RC-090,Café Hot Meal Service,2026-04-21,Yes
+RC-VST-0336,RC-090,Mindfulness & Well-being Workshop,2026-09-16,No
+RC-VST-0337,RC-090,Women's Hope & Healing Group,2026-07-05,Yes
+RC-VST-0338,RC-091,Men's Peer Recovery Circle,2026-09-26,No
+RC-VST-0339,RC-091,Mindfulness & Well-being Workshop,2026-06-16,Yes
+RC-VST-0340,RC-091,Mindfulness & Well-being Workshop,2026-06-19,Yes
+RC-VST-0341,RC-091,Mindfulness & Well-being Workshop,2026-05-06,No
+RC-VST-0342,RC-091,Café Hot Meal Service,2026-04-01,Yes
+RC-VST-0343,RC-091,Women's Hope & Healing Group,2026-01-26,Yes
+RC-VST-0344,RC-092,Women's Hope & Healing Group,2026-04-06,No
+RC-VST-0345,RC-092,One-on-One Peer Coaching,2026-04-09,Yes
+RC-VST-0346,RC-092,One-on-One Peer Coaching,2026-01-25,Yes
+RC-VST-0347,RC-092,Men's Peer Recovery Circle,2026-07-12,Yes
+RC-VST-0348,RC-092,Men's Peer Recovery Circle,2026-03-08,Yes
+RC-VST-0349,RC-092,One-on-One Peer Coaching,2026-06-19,No
+RC-VST-0350,RC-093,Café Hot Meal Service,2026-03-19,Yes
+RC-VST-0351,RC-093,Mindfulness & Well-being Workshop,2026-09-10,No
+RC-VST-0352,RC-093,Serenity Tuesdays Support Circle,2026-02-02,Yes
+RC-VST-0353,RC-093,Men's Peer Recovery Circle,2026-01-17,Yes
+RC-VST-0354,RC-094,Café Hot Meal Service,2026-04-26,No
+RC-VST-0355,RC-094,One-on-One Peer Coaching,2026-03-26,Yes
+RC-VST-0356,RC-094,Women's Hope & Healing Group,2026-01-01,No
+RC-VST-0357,RC-094,One-on-One Peer Coaching,2026-03-25,No
+RC-VST-0358,RC-095,Women's Hope & Healing Group,2026-02-12,Yes
+RC-VST-0359,RC-095,One-on-One Peer Coaching,2026-07-19,No
+RC-VST-0360,RC-095,Women's Hope & Healing Group,2026-06-05,Yes
+RC-VST-0361,RC-095,One-on-One Peer Coaching,2026-07-26,Yes
+RC-VST-0362,RC-095,Mindfulness & Well-being Workshop,2026-06-06,Yes
+RC-VST-0363,RC-095,Café Hot Meal Service,2026-06-08,Yes
+RC-VST-0364,RC-096,Mindfulness & Well-being Workshop,2026-05-24,Yes
+RC-VST-0365,RC-096,Men's Peer Recovery Circle,2026-03-24,No
+RC-VST-0366,RC-096,One-on-One Peer Coaching,2026-07-28,Yes
+RC-VST-0367,RC-097,Serenity Tuesdays Support Circle,2026-03-20,Yes
+RC-VST-0368,RC-097,Café Hot Meal Service,2026-04-21,Yes
+RC-VST-0369,RC-097,Mindfulness & Well-being Workshop,2026-03-11,Yes
+RC-VST-0370,RC-097,Men's Peer Recovery Circle,2026-06-11,No
+RC-VST-0371,RC-097,Serenity Tuesdays Support Circle,2026-06-15,No
+RC-VST-0372,RC-097,Men's Peer Recovery Circle,2026-04-23,No
+RC-VST-0373,RC-098,Serenity Tuesdays Support Circle,2026-01-02,Yes
+RC-VST-0374,RC-098,One-on-One Peer Coaching,2026-07-06,Yes
+RC-VST-0375,RC-098,Mindfulness & Well-being Workshop,2026-07-12,Yes
+RC-VST-0376,RC-098,Serenity Tuesdays Support Circle,2026-08-26,Yes
+RC-VST-0377,RC-099,Men's Peer Recovery Circle,2026-08-03,Yes
+RC-VST-0378,RC-099,Serenity Tuesdays Support Circle,2026-05-01,Yes
+RC-VST-0379,RC-099,Serenity Tuesdays Support Circle,2026-02-11,No
+RC-VST-0380,RC-100,Men's Peer Recovery Circle,2026-02-18,Yes
+RC-VST-0381,RC-100,Serenity Tuesdays Support Circle,2026-06-20,Yes
+RC-VST-0382,RC-100,Mindfulness & Well-being Workshop,2026-01-14,Yes
+RC-VST-0383,RC-100,Men's Peer Recovery Circle,2026-07-06,No
+RC-VST-0384,RC-100,Women's Hope & Healing Group,2026-04-07,Yes
+RC-VST-0385,RC-101,Employment Readiness Workshop,2025-09-28,Yes
+RC-VST-0386,RC-101,New Member Orientation,2026-04-09,Yes
+RC-VST-0387,RC-102,Yoga & Mindfulness,2026-01-31,Yes
+RC-VST-0388,RC-102,Step Work Group,2026-04-09,Yes
+RC-VST-0389,RC-103,One-on-One Peer Coaching,2026-03-26,Yes
+RC-VST-0390,RC-103,Yoga & Mindfulness,2025-10-14,Yes
+RC-VST-0391,RC-103,New Member Orientation,2026-09-14,Yes
+RC-VST-0392,RC-103,Yoga & Mindfulness,2025-06-22,No
+RC-VST-0393,RC-103,Step Work Group,2025-08-05,Yes
+RC-VST-0394,RC-104,One-on-One Peer Coaching,2025-01-11,Yes
+RC-VST-0395,RC-104,One-on-One Peer Coaching,2026-05-13,No
+RC-VST-0396,RC-105,Community Meal,2025-08-02,Yes
+RC-VST-0397,RC-105,Step Work Group,2026-02-20,No
+RC-VST-0398,RC-105,Step Work Group,2026-01-25,Yes
+RC-VST-0399,RC-105,Community Meal,2025-12-11,Yes
+RC-VST-0400,RC-105,Community Meal,2025-06-02,Yes
+RC-VST-0401,RC-105,One-on-One Peer Coaching,2026-02-03,Yes
+RC-VST-0402,RC-106,Community Meal,2025-12-06,Yes
+RC-VST-0403,RC-106,Community Meal,2026-04-20,Yes
+RC-VST-0404,RC-106,Community Meal,2026-03-29,Yes
+RC-VST-0405,RC-107,New Member Orientation,2026-08-17,No
+RC-VST-0406,RC-107,Yoga & Mindfulness,2026-01-31,Yes
+RC-VST-0407,RC-107,Community Meal,2026-08-04,Yes
+RC-VST-0408,RC-107,One-on-One Peer Coaching,2026-05-07,Yes
+RC-VST-0409,RC-107,Community Meal,2026-07-04,Yes
+RC-VST-0410,RC-108,Step Work Group,2025-11-28,No
+RC-VST-0411,RC-108,Community Meal,2025-06-27,Yes
+RC-VST-0412,RC-108,Yoga & Mindfulness,2025-11-26,Yes
+RC-VST-0413,RC-108,New Member Orientation,2026-09-24,Yes
+RC-VST-0414,RC-108,One-on-One Peer Coaching,2025-04-03,Yes
+RC-VST-0415,RC-108,Step Work Group,2025-11-23,Yes
+RC-VST-0416,RC-109,Employment Readiness Workshop,2026-01-15,No
+RC-VST-0417,RC-109,Yoga & Mindfulness,2026-01-17,Yes
+RC-VST-0418,RC-109,Community Meal,2025-11-29,Yes
+RC-VST-0419,RC-109,Community Meal,2026-02-18,Yes
+RC-VST-0420,RC-109,One-on-One Peer Coaching,2026-09-07,Yes
+RC-VST-0421,RC-109,Yoga & Mindfulness,2026-02-18,Yes
+RC-VST-0422,RC-110,Community Meal,2026-09-14,Yes
+RC-VST-0423,RC-110,Community Meal,2026-03-26,Yes
+RC-VST-0424,RC-110,Yoga & Mindfulness,2026-09-14,Yes
+RC-VST-0425,RC-110,Employment Readiness Workshop,2026-05-14,Yes
+RC-VST-0426,RC-110,New Member Orientation,2026-03-21,Yes
+RC-VST-0427,RC-111,New Member Orientation,2025-09-25,Yes
+RC-VST-0428,RC-111,Step Work Group,2025-09-05,No
+RC-VST-0429,RC-111,Employment Readiness Workshop,2025-12-15,No
+RC-VST-0430,RC-111,New Member Orientation,2025-10-31,Yes
+RC-VST-0431,RC-112,Step Work Group,2025-10-14,Yes
+RC-VST-0432,RC-112,Community Meal,2025-05-19,Yes
+RC-VST-0433,RC-113,Community Meal,2026-08-31,Yes
+RC-VST-0434,RC-113,Community Meal,2026-02-17,Yes
+RC-VST-0435,RC-113,One-on-One Peer Coaching,2026-03-24,No
+RC-VST-0436,RC-113,Yoga & Mindfulness,2026-04-12,Yes
+RC-VST-0437,RC-113,Yoga & Mindfulness,2026-01-12,No
+RC-VST-0438,RC-113,Community Meal,2025-07-23,Yes
+RC-VST-0439,RC-114,Community Meal,2026-04-08,Yes
+RC-VST-0440,RC-114,Community Meal,2026-06-25,No
+RC-VST-0441,RC-114,Yoga & Mindfulness,2026-02-17,No
+RC-VST-0442,RC-114,Community Meal,2026-01-31,Yes
+RC-VST-0443,RC-114,Community Meal,2026-08-26,Yes
+RC-VST-0444,RC-114,One-on-One Peer Coaching,2026-08-05,Yes
+RC-VST-0445,RC-115,Community Meal,2026-06-14,Yes
+RC-VST-0446,RC-115,Community Meal,2026-05-08,No
+RC-VST-0447,RC-115,Community Meal,2026-08-11,Yes
+RC-VST-0448,RC-116,One-on-One Peer Coaching,2026-07-11,Yes
+RC-VST-0449,RC-116,Community Meal,2026-03-11,No
+RC-VST-0450,RC-116,Step Work Group,2025-11-03,No
+RC-VST-0451,RC-117,Community Meal,2026-04-05,No
+RC-VST-0452,RC-117,New Member Orientation,2026-06-01,Yes
+RC-VST-0453,RC-118,New Member Orientation,2026-01-31,No
+RC-VST-0454,RC-118,Yoga & Mindfulness,2026-01-10,No
+RC-VST-0455,RC-118,New Member Orientation,2026-04-24,Yes
+RC-VST-0456,RC-118,Yoga & Mindfulness,2026-06-16,Yes
+RC-VST-0457,RC-119,One-on-One Peer Coaching,2026-07-08,No
+RC-VST-0458,RC-119,New Member Orientation,2026-04-29,Yes
+RC-VST-0459,RC-119,Community Meal,2025-06-10,No
+RC-VST-0460,RC-119,Community Meal,2026-03-29,Yes
+RC-VST-0461,RC-120,Employment Readiness Workshop,2026-07-28,No
+RC-VST-0462,RC-120,Step Work Group,2025-10-05,No
+RC-VST-0463,RC-120,Employment Readiness Workshop,2026-08-31,No
+RC-VST-0464,RC-120,Employment Readiness Workshop,2026-08-28,No
+RC-VST-0465,RC-121,Community Meal,2025-05-29,No
+RC-VST-0466,RC-121,Community Meal,2026-06-14,No
+RC-VST-0467,RC-121,Yoga & Mindfulness,2025-04-02,Yes
+RC-VST-0468,RC-122,One-on-One Peer Coaching,2026-03-24,No
+RC-VST-0469,RC-122,Employment Readiness Workshop,2026-08-28,Yes
+RC-VST-0470,RC-123,Yoga & Mindfulness,2026-01-31,Yes
+RC-VST-0471,RC-123,One-on-One Peer Coaching,2026-06-11,Yes
+RC-VST-0472,RC-123,Step Work Group,2026-01-31,No
+RC-VST-0473,RC-123,Step Work Group,2026-03-15,Yes
+RC-VST-0474,RC-123,Step Work Group,2024-11-05,Yes
+RC-VST-0475,RC-123,Step Work Group,2026-01-07,Yes
+RC-VST-0476,RC-124,Step Work Group,2026-07-23,No
+RC-VST-0477,RC-124,Step Work Group,2025-05-09,Yes
+RC-VST-0478,RC-125,Employment Readiness Workshop,2025-11-03,No
+RC-VST-0479,RC-125,Community Meal,2026-08-01,Yes
+RC-VST-0480,RC-125,Step Work Group,2026-07-07,No
+RC-VST-0481,RC-125,Step Work Group,2026-05-13,Yes
+RC-VST-0482,RC-125,Community Meal,2026-08-24,Yes
+RC-VST-0483,RC-125,One-on-One Peer Coaching,2026-01-12,Yes
+RC-VST-0484,RC-126,One-on-One Peer Coaching,2026-06-05,Yes
+RC-VST-0485,RC-126,One-on-One Peer Coaching,2024-12-06,Yes
+RC-VST-0486,RC-126,Community Meal,2025-05-05,Yes
+RC-VST-0487,RC-126,Community Meal,2025-11-06,Yes
+RC-VST-0488,RC-127,Step Work Group,2026-03-08,No
+RC-VST-0489,RC-127,New Member Orientation,2026-02-18,No
+RC-VST-0490,RC-127,Step Work Group,2026-04-20,Yes
+RC-VST-0491,RC-127,Community Meal,2026-03-24,Yes
+RC-VST-0492,RC-127,Community Meal,2026-07-18,No
+RC-VST-0493,RC-127,Community Meal,2026-04-08,Yes
+RC-VST-0494,RC-128,Community Meal,2026-09-14,Yes
+RC-VST-0495,RC-128,Community Meal,2025-02-06,No
+RC-VST-0496,RC-128,Community Meal,2026-01-16,Yes
+RC-VST-0497,RC-128,Yoga & Mindfulness,2026-07-29,Yes
+RC-VST-0498,RC-128,New Member Orientation,2026-03-07,Yes
+RC-VST-0499,RC-129,One-on-One Peer Coaching,2026-03-27,Yes
+RC-VST-0500,RC-129,Community Meal,2026-07-25,Yes
+RC-VST-0501,RC-129,Community Meal,2026-06-18,No
+RC-VST-0502,RC-129,Community Meal,2026-03-16,No
+RC-VST-0503,RC-129,One-on-One Peer Coaching,2026-08-10,No
+RC-VST-0504,RC-130,Step Work Group,2026-06-04,Yes
+RC-VST-0505,RC-130,Community Meal,2025-07-22,Yes
+RC-VST-0506,RC-130,Step Work Group,2026-06-12,Yes
+RC-VST-0507,RC-130,New Member Orientation,2026-08-05,Yes
+RC-VST-0508,RC-130,One-on-One Peer Coaching,2025-12-14,No
+RC-VST-0509,RC-130,Community Meal,2026-02-03,No
+RC-VST-0510,RC-131,Step Work Group,2026-07-14,Yes
+RC-VST-0511,RC-131,Community Meal,2026-05-16,No
+RC-VST-0512,RC-131,New Member Orientation,2026-08-01,Yes
+RC-VST-0513,RC-132,Step Work Group,2026-09-22,Yes
+RC-VST-0514,RC-132,Yoga & Mindfulness,2026-05-22,Yes
+RC-VST-0515,RC-132,New Member Orientation,2026-05-10,No
+RC-VST-0516,RC-132,Community Meal,2026-04-07,Yes
+RC-VST-0517,RC-132,One-on-One Peer Coaching,2026-07-26,Yes
+RC-VST-0518,RC-132,Community Meal,2026-04-12,No
+RC-VST-0519,RC-133,Employment Readiness Workshop,2026-09-02,Yes
+RC-VST-0520,RC-133,Step Work Group,2025-11-29,No
+RC-VST-0521,RC-133,One-on-One Peer Coaching,2026-07-15,Yes
+RC-VST-0522,RC-134,Yoga & Mindfulness,2025-09-03,No
+RC-VST-0523,RC-134,Step Work Group,2025-08-22,Yes
+RC-VST-0524,RC-134,Employment Readiness Workshop,2024-12-16,Yes
+RC-VST-0525,RC-134,One-on-One Peer Coaching,2025-06-16,Yes
+RC-VST-0526,RC-134,Employment Readiness Workshop,2025-12-31,No
+RC-VST-0527,RC-134,Community Meal,2025-10-23,No
+RC-VST-0528,RC-135,Community Meal,2025-12-09,No
+RC-VST-0529,RC-135,Community Meal,2026-06-03,No
+RC-VST-0530,RC-135,Step Work Group,2026-07-15,Yes
+RC-VST-0531,RC-135,Yoga & Mindfulness,2026-06-29,Yes
+RC-VST-0532,RC-135,Step Work Group,2025-12-19,Yes
+RC-VST-0533,RC-135,Step Work Group,2026-09-09,No
+RC-VST-0534,RC-136,One-on-One Peer Coaching,2026-02-27,Yes
+RC-VST-0535,RC-136,New Member Orientation,2025-12-01,Yes
+RC-VST-0536,RC-136,Community Meal,2026-05-26,Yes
+RC-VST-0537,RC-136,Employment Readiness Workshop,2026-04-09,No
+RC-VST-0538,RC-136,Step Work Group,2026-08-16,Yes
+RC-VST-0539,RC-137,New Member Orientation,2025-04-24,Yes
+RC-VST-0540,RC-137,Community Meal,2025-11-06,Yes
+RC-VST-0541,RC-137,Community Meal,2026-02-03,Yes
+RC-VST-0542,RC-138,One-on-One Peer Coaching,2025-06-20,No
+RC-VST-0543,RC-138,Step Work Group,2025-10-14,No
+RC-VST-0544,RC-138,Employment Readiness Workshop,2025-10-11,Yes
+RC-VST-0545,RC-138,Yoga & Mindfulness,2025-12-05,Yes
+RC-VST-0546,RC-138,Community Meal,2026-09-08,Yes
+RC-VST-0547,RC-138,Community Meal,2026-07-09,No
+RC-VST-0548,RC-139,Employment Readiness Workshop,2026-09-29,Yes
+RC-VST-0549,RC-139,Step Work Group,2024-12-05,No
+RC-VST-0550,RC-139,Step Work Group,2026-08-01,Yes
+RC-VST-0551,RC-139,Yoga & Mindfulness,2026-07-12,No
+RC-VST-0552,RC-140,Community Meal,2025-12-23,No
+RC-VST-0553,RC-140,Yoga & Mindfulness,2026-07-13,Yes
+RC-VST-0554,RC-141,Community Meal,2026-07-01,No
+RC-VST-0555,RC-141,Community Meal,2025-12-25,Yes
+RC-VST-0556,RC-142,Step Work Group,2026-07-03,No
+RC-VST-0557,RC-142,Community Meal,2026-04-22,No
+RC-VST-0558,RC-142,Step Work Group,2026-08-16,Yes
+RC-VST-0559,RC-142,One-on-One Peer Coaching,2026-02-26,Yes
+RC-VST-0560,RC-143,Step Work Group,2026-08-05,Yes
+RC-VST-0561,RC-143,Employment Readiness Workshop,2025-10-01,Yes
+RC-VST-0562,RC-143,Community Meal,2026-02-05,Yes
+RC-VST-0563,RC-143,Community Meal,2026-03-05,Yes
+RC-VST-0564,RC-144,New Member Orientation,2026-01-29,Yes
+RC-VST-0565,RC-144,Community Meal,2026-09-30,Yes
+RC-VST-0566,RC-144,Community Meal,2026-08-06,Yes
+RC-VST-0567,RC-144,One-on-One Peer Coaching,2026-02-01,Yes
+RC-VST-0568,RC-144,One-on-One Peer Coaching,2026-09-23,Yes
+RC-VST-0569,RC-144,Employment Readiness Workshop,2026-08-08,No
+RC-VST-0570,RC-145,Community Meal,2026-05-12,Yes
+RC-VST-0571,RC-145,Employment Readiness Workshop,2026-07-13,Yes
+RC-VST-0572,RC-145,One-on-One Peer Coaching,2026-06-29,Yes
+RC-VST-0573,RC-145,Community Meal,2026-03-24,No
+RC-VST-0574,RC-145,Community Meal,2026-08-08,No
+RC-VST-0575,RC-146,Yoga & Mindfulness,2025-10-21,No
+RC-VST-0576,RC-146,Employment Readiness Workshop,2025-06-30,No
+RC-VST-0577,RC-146,Yoga & Mindfulness,2025-07-18,No
+RC-VST-0578,RC-146,Employment Readiness Workshop,2026-08-25,Yes
+RC-VST-0579,RC-146,Step Work Group,2026-08-03,Yes
+RC-VST-0580,RC-147,Community Meal,2025-11-10,Yes
+RC-VST-0581,RC-147,Employment Readiness Workshop,2025-06-30,Yes
+RC-VST-0582,RC-147,Community Meal,2025-10-26,Yes
+RC-VST-0583,RC-147,Community Meal,2025-07-01,Yes
+RC-VST-0584,RC-148,Community Meal,2026-08-16,No
+RC-VST-0585,RC-148,Employment Readiness Workshop,2026-09-08,Yes
+RC-VST-0586,RC-148,New Member Orientation,2026-09-27,Yes
+RC-VST-0587,RC-148,One-on-One Peer Coaching,2026-07-19,Yes
+RC-VST-0588,RC-149,New Member Orientation,2026-05-22,Yes
+RC-VST-0589,RC-149,One-on-One Peer Coaching,2026-08-12,Yes
+RC-VST-0590,RC-150,Community Meal,2025-12-20,No
+RC-VST-0591,RC-150,Community Meal,2025-07-30,Yes
+RC-VST-0592,RC-150,Employment Readiness Workshop,2026-05-12,No
+RC-VST-0593,RC-151,Yoga & Mindfulness,2025-05-24,Yes
+RC-VST-0594,RC-151,Community Meal,2026-04-13,Yes
+RC-VST-0595,RC-151,Community Meal,2025-02-05,Yes
+RC-VST-0596,RC-152,Step Work Group,2026-01-07,Yes
+RC-VST-0597,RC-152,One-on-One Peer Coaching,2026-07-20,No
+RC-VST-0598,RC-152,Step Work Group,2026-01-02,Yes
+RC-VST-0599,RC-153,Community Meal,2026-08-10,Yes
+RC-VST-0600,RC-153,Employment Readiness Workshop,2026-03-14,No
+RC-VST-0601,RC-153,New Member Orientation,2025-12-28,No
+RC-VST-0602,RC-154,Employment Readiness Workshop,2026-06-06,Yes
+RC-VST-0603,RC-154,Step Work Group,2025-09-18,No
+RC-VST-0604,RC-155,New Member Orientation,2025-12-04,Yes
+RC-VST-0605,RC-155,Community Meal,2026-04-23,No
+RC-VST-0606,RC-155,One-on-One Peer Coaching,2026-06-12,No
+RC-VST-0607,RC-155,New Member Orientation,2025-12-24,Yes
+RC-VST-0608,RC-155,Community Meal,2026-08-27,No
+RC-VST-0609,RC-155,Community Meal,2026-03-19,No

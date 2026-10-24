@@ -1,0 +1,17 @@
+{
+  "label": "MSDAC",
+  "short_label": "MSDAC",
+  "source_system": "MSDAC",
+  "optional": true,
+  "client_file": "msdac_clients.csv",
+  "columns": {
+    "client_id": "reg_number",
+    "first_name": "first",
+    "last_name": "last",
+    "dob": "birthday",
+    "ssn": "ssn4",
+    "encounter_date": null
+  },
+  "ssn_type": "last4",
+  "special": null
+}

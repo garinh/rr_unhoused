@@ -1,0 +1,156 @@
+client_id,first_name,last_name,ssn_last_4,date_of_birth,gender_identity,primary_shelter_site,veteran_status,intake_date
+RR-001,Linda,Johnson,,2002-05-08,Female,Navigation Center,No,2025-08-02
+RR-002,Kenneth,Johnson,,1990-04-23,Female,Navigation Center,Yes,2025-05-16
+RR-003,Margaret,Perez,,1972-03-07,Female,Heartside Center,No,2025-02-09
+RR-004,Sandra,Wright,5803,1962-03-07,Male,Urban Campground,Unknown,2025-06-07
+RR-005,Charles,Garcia,5554,1969-13-02,Non-Binary,Kelly Shelter,Unknown,2025-07-14
+RR-006,Bob,Hill,5010,1995-03-18,Refused,Urban Campground,No,2025-04-04
+RR-007,Joseph,Williams,,1975-07-09,Non-Binary,Heartside Center,No,2025-07-08
+RR-008,Thomas,Rodriguez,9830,1970-18-12,Refused,Urban Campground,Yes,2025-08-07
+RR-009,Ashley,Garcia,,2003-01-28,Non-Binary,Hope Village,No,2025-12-12
+RR-010,Thomas,Scott,2876,1955-24-11,Female,Hope Village,No,2025-03-09
+RR-011,Thomas,Allen,2743,2003-17-03,Female,Urban Campground,Unknown,2025-12-27
+RR-012,Kimberly,Smith,1319,1993-16-06,Refused,Kelly Shelter,No,2025-09-10
+RR-013,Ashley,Jones,3060,2003-09-25,Female,Navigation Center,Unknown,2025-01-03
+RR-014,Susan,Wright,4295,2003-23-12,Non-Binary,Navigation Center,Unknown,2025-08-27
+RR-015,Robert,Perez,4770,1956-10-18,Refused,Kelly Shelter,Unknown,2025-03-26
+RR-016,Bob,Allen,8953,1970-05-22,Refused,Kelly Shelter,Yes,2025-03-10
+RR-017,Michael,Miller,7939,1997-12-07,Male,Hope Village,Unknown,2025-09-23
+RR-018,Jessica,Gonzalez,3296,1967-09-15,Refused,Hope Village,Yes,2025-05-22
+RR-019,Emily,Miller,1241,1958-11-18,Male,Heartside Center,Yes,2025-05-15
+RR-020,David,Harris,8454,1955-09-07,Male,Navigation Center,No,2025-04-04
+RR-021,Steven,Brown,1821,2002-02-06,Female,Hope Village,Yes,2025-11-13
+RR-022,Jessica,Sanchez,1651,1962-10-08,Refused,Navigation Center,Yes,2025-06-08
+RR-023,Jessica,Taylor,5915,1980-03-22,Refused,Kelly Shelter,Unknown,2025-10-18
+RR-024,Steven,Wilson,6718,1987-05-05,Male,Kelly Shelter,No,2025-06-22
+RR-025,Kimberly,Smith,2697,1997-10-09,Refused,Urban Campground,Unknown,2025-01-24
+RR-026,Susan,Perez,5325,1968-21-11,Male,Kelly Shelter,Yes,2025-11-04
+RR-027,Nancy,Rodriguez,8239,1995-06-05,Male,Heartside Center,Yes,2025-08-28
+RR-028,John,White,,1992-09-05,Non-Binary,Navigation Center,Unknown,2025-11-18
+RR-029,Michael,Thompson,3532,1990-20-07,Refused,Navigation Center,Unknown,2025-06-10
+RR-030,Anthony,Thomas,,1972-03-26,Non-Binary,Kelly Shelter,No,2025-04-15
+RR-031,Joseph,Anderson,7528,1956-11-07,Male,Kelly Shelter,Yes,2025-10-11
+RR-032,Steven,Perez,3925,1956-02-09,Refused,Urban Campground,Unknown,2025-01-09
+RR-033,Paul,Davis,,1979-10-07,Female,Hope Village,No,2025-10-27
+RR-034,Nancy,Flores,3041,1975-28-11,Refused,Urban Campground,Unknown,2025-05-25
+RR-035,Anthony,Harris,,1998-12-06,Female,Urban Campground,Unknown,2025-11-02
+RR-036,Chris,Robinson,4501,1983-08-22,Non-Binary,Navigation Center,Unknown,2025-02-23
+RR-037,Jessica,Martin,1400,1969-05-04,Refused,Heartside Center,Unknown,2025-12-03
+RR-038,Matthew,Young,1090,1980-05-04,Refused,Hope Village,No,2025-01-08
+RR-039,Emily,Thomas,8612,1962-05-08,Male,Kelly Shelter,Unknown,2025-04-21
+RR-040,Mark,Lewis,5543,1971-27-04,Female,Urban Campground,Yes,2025-01-07
+RR-041,Nancy,Lee,3471,1989-02-05,Female,Hope Village,Unknown,2025-09-01
+RR-042,Patricia,Wilson,1320,1981-25-07,Female,Navigation Center,Unknown,2025-08-05
+RR-043,Anthony,Wright,4613,2002-18-12,Male,Urban Campground,Unknown,2025-10-23
+RR-044,Betty,Hernandez,9751,1984-03-20,Male,Heartside Center,No,2025-03-23
+RR-045,Matthew,Lee,6529,1968-11-08,Non-Binary,Navigation Center,Yes,2025-02-10
+RR-046,Patty,Thompson,1659,1969-11-03,Female,Urban Campground,Unknown,2025-09-13
+RR-047,Linda,Torres,5198,1968-23-08,Non-Binary,Hope Village,Yes,2025-05-13
+RR-048,Donna,Johnson,7149,1974-10-22,Refused,Kelly Shelter,Yes,2025-07-05
+RR-049,Kenneth,Davis,,1991-01-12,Refused,Urban Campground,No,2025-04-09
+RR-050,Margaret,White,3506,1995-08-23,Female,Heartside Center,Yes,2025-04-10
+RR-051,Kimberly,Taylor,7050,1957-07-05,Refused,Navigation Center,No,2025-01-15
+RR-052,Karen,Garcia,1732,1966-11-01,Refused,Hope Village,No,2025-01-08
+RR-053,James,Harris,4052,1963-08-13,Refused,Urban Campground,No,2025-06-27
+RR-054,Susan,Hill,9459,1973-07-05,Refused,Heartside Center,Yes,2025-07-28
+RR-055,Kimberly,Williams,1175,1958-09-04,Refused,Heartside Center,No,2025-11-12
+RR-056,Michelle,Jackson,3235,1963-06-16,Refused,Hope Village,No,2025-02-20
+RR-057,Mark,Miller,6664,1989-01-22,Refused,Kelly Shelter,Yes,2025-09-26
+RR-058,Joseph,Wright,3833,1987-07-24,Male,Heartside Center,Unknown,2025-10-04
+RR-059,James,Hernandez,5706,1971-12-06,Female,Navigation Center,Unknown,2025-12-23
+RR-060,Jennifer,Gonzalez,8803,1963-01-18,Male,Navigation Center,Yes,2025-08-16
+RR-061,Karen,Lopez,8880,1963-03-06,Male,Kelly Shelter,No,2025-02-19
+RR-062,Thomas,Lopez,1613,1997-01-01,Female,Heartside Center,Yes,2025-11-06
+RR-063,Anthony,Thomas,,1995-04-11,Non-Binary,Heartside Center,Unknown,2025-07-11
+RR-064,Joseph,Torres,7918,1974-05-10,Female,Kelly Shelter,Unknown,2025-01-13
+RR-065,Michael,King,9084,1982-03-09,Female,Kelly Shelter,Yes,2025-02-14
+RR-066,Betty,Smith,,1974-03-20,Refused,Hope Village,Unknown,2025-10-12
+RR-067,Michelle,Garcia,6042,1998-03-07,Male,Kelly Shelter,Yes,2025-07-12
+RR-068,Paul,Gonzalez,3464,1996-12-17,Female,Heartside Center,Yes,2025-01-16
+RR-069,Sandra,Thomas,,1974-08-11,Refused,Heartside Center,Unknown,2025-01-23
+RR-070,Daniel,Young,6362,1957-02-12,Male,Hope Village,Yes,2025-08-13
+RR-071,Karen,Anderson,4319,1972-04-06,Female,Navigation Center,Unknown,2025-05-09
+RR-072,Donna,Miller,1456,2000-03-12,Female,Navigation Center,No,2025-11-11
+RR-073,Kenneth,Jackson,7815,1978-10-11,Female,Urban Campground,Yes,2025-01-10
+RR-074,Lisa,Gonzalez,6065,1970-06-26,Male,Heartside Center,Unknown,2025-05-05
+RR-075,Daniel,Johnson,9660,2001-04-08,Male,Heartside Center,Unknown,2025-10-13
+RR-076,Jennifer,Robinson,7270,1976-02-13,Refused,Heartside Center,Unknown,2025-07-03
+RR-077,Andrew,Miller,2212,1971-05-18,Refused,Kelly Shelter,Yes,2025-01-08
+RR-078,Ashley,Hernandez,9615,1962-02-17,Non-Binary,Kelly Shelter,Unknown,2025-07-27
+RR-079,Sandra,Jones,3578,1965-05-11,Male,Kelly Shelter,Unknown,2025-11-20
+RR-080,Sarah,Williams,1913,2001-12-06,Refused,Hope Village,Unknown,2025-03-14
+RR-081,Kimberly,Williams,2390,1989-04-05,Refused,Kelly Shelter,No,2025-03-13
+RR-082,Kimberly,Flores,,1976-09-28,Male,Navigation Center,Yes,2025-07-05
+RR-083,Steven,Robinson,5167,1997-11-22,Refused,Hope Village,Yes,2025-02-22
+RR-084,Donald,Lopez,,1967-12-08,Male,Kelly Shelter,No,2025-04-11
+RR-085,Jessica,Walker,5072,1960-02-02,Refused,Navigation Center,No,2025-02-27
+RR-086,Lisa,Jones,8286,1970-06-10,Female,Heartside Center,Unknown,2025-02-26
+RR-087,James,Williams,,1962-12-03,Female,Navigation Center,No,2025-05-21
+RR-088,Patricia,Brown,9135,2000-03-21,Refused,Heartside Center,Yes,2025-08-11
+RR-089,Elizabeth,Perez,4894,1983-10-20,Non-Binary,Navigation Center,Yes,2025-03-21
+RR-090,Donald,Ramirez,,2002-05-22,Female,Kelly Shelter,Yes,2025-03-15
+RR-091,Mark,Lee,,1990-09-10,Refused,Heartside Center,No,2025-05-09
+RR-092,Anthony,Thomas,6550,1981-06-07,Male,Navigation Center,Yes,2025-06-08
+RR-093,Michael,Clark,9217,2003-10-17,Refused,Kelly Shelter,Unknown,2025-06-09
+RR-094,Jessica,King,4568,1957-01-27,Refused,Navigation Center,Unknown,2025-02-09
+RR-095,Barbara,Robinson,,1955-12-09,Refused,Navigation Center,Unknown,2025-05-18
+RR-096,Robert,Scott,,1961-05-23,Male,Kelly Shelter,No,2025-02-08
+RR-097,Mary,White,9070,1971-05-26,Male,Kelly Shelter,No,2025-08-21
+RR-098,Anthony,Martinez,7688,1967-05-18,Non-Binary,Kelly Shelter,No,2025-08-22
+RR-099,Linda,Thomas,2538,1978-07-17,Male,Heartside Center,No,2025-08-11
+RR-100,Lisa,Hill,6252,1992-08-23,Female,Navigation Center,Yes,2025-05-05
+RR-101,Nicholas,Ferguson,,1973-12-26,Female,Heartside Center,No,2024-09-10
+RR-102,Kimberly,Ramos,9484,1989-12-03,Male,Safe Parking Lot B,No,2025-07-05
+RR-103,Michelle,Cook,4907,1990-02-16,Female,Heartside Center,No,2025-10-31
+RR-104,Jesse,Taylor,,1990-10-01,Non-binary,Family Resource Campus,No,2026-01-20
+RR-105,Travis,Cooper,,1970-05-25,Male,Navigation Center,No,2025-04-12
+RR-106,Nicholas,Morgan,,1998-05-18,Male,Navigation Center,No,2025-08-29
+RR-107,Brandon,Miller,8923,1959-11-30,Female,Bear Creek Shelter,No,2025-05-05
+RR-108,Mary,Hall,,1991-04-01,Female,Heartside Center,No,2026-04-01
+RR-109,Charles,Robinson,,2005-06-30,Male,Safe Parking Lot B,No,2025-05-01
+RR-110,George,Burke,,1975-09-21,Male,Safe Parking Lot B,No,2026-06-25
+RR-111,Adam,Hanson,7601,1958-09-20,Non-binary,Family Resource Campus,No,2024-12-08
+RR-112,Adam,Green,,1975-08-22,Non-binary,Heartside Center,No,2025-02-25
+RR-113,Laurie,Hanson,,1966-02-20,Female,Safe Parking Lot B,No,2026-01-15
+RR-114,Samuel,Martinez,,1956-12-23,Non-binary,Navigation Center,No,2025-06-08
+RR-115,Raymond,Morgan,REFUSED,1999-05-07,Non-binary,Navigation Center,No,2026-04-27
+RR-116,Kimberly,Perez,3181,1961-11-22,Non-binary,Bear Creek Shelter,No,2025-08-22
+RR-117,Kenny,Morgan,,1977-05-26,Female,Family Resource Campus,No,2026-05-03
+RR-118,Gary,Lee,,2003-10-20,Male,Heartside Center,No,2026-03-30
+RR-119,Mark,Harris,,1986-01-01,Female,Family Resource Campus,No,2026-03-15
+RR-120,Aaron,Edwards,,1975-09-28,Male,Navigation Center,No,2025-10-04
+RR-121,Sarah,Sanchez,,1956-07-04,Male,Family Resource Campus,No,2025-12-24
+RR-122,Becca,Ortiz,,1996-08-28,Male,Navigation Center,No,2025-08-31
+RR-123,Eric,Thompson,,1980-10-23,Non-binary,Family Resource Campus,No,2025-09-24
+RR-124,Dot,Taylor,,1975-12-18,Male,Safe Parking Lot B,No,2024-10-19
+RR-125,Jerry,Ikng,,1959-04-19,Male,Family Resource Campus,No,2024-11-29
+RR-126,Tommy,Ramos,,2005-10-21,Female,Bear Creek Shelter,No,2025-02-23
+RR-127,Anthony,Webb,,1967-12-13,Male,Heartside Center,No,2026-03-07
+RR-128,Amy,Scott,,1986-08-06,Male,Navigation Center,No,2026-01-27
+RR-129,Kathleen,Hall,,1998-10-25,Male,Navigation Center,No,2024-12-16
+RR-130,Nicholas,Scott,,2006-09-25,Female,Safe Parking Lot B,No,2026-04-24
+RR-131,Thomas,Ferguson,8909,1985-06-05,Female,Bear Creek Shelter,No,2025-10-30
+RR-132,Crystal,Cox,6192,1987-11-28,Female,Heartside Center,No,2025-01-10
+RR-133,Joey,Parker,,1967-06-16,Female,Bear Creek Shelter,No,2026-03-21
+RR-134,Rob,Tylor,,1957-09-09,Female,Navigation Center,No,2024-09-10
+RR-135,Brandy,Reed,,1975-02-09,Male,Bear Creek Shelter,No,2025-09-25
+RR-136,Bren,Bailey,,1960-05-27,Male,Safe Parking Lot B,No,2025-02-15
+RR-137,Joe,Evans,,1961-07-10,Female,Navigation Center,No,2025-12-21
+RR-138,Ronald,Rodriguez,2592,1958-10-04,Male,Bear Creek Shelter,No,2024-10-06
+RR-139,Frank,Carter,,1992-09-25,Female,Heartside Center,No,2025-04-03
+RR-140,Larry,Brown,,2009-05-13,Female,Bear Creek Shelter,No,2024-12-06
+RR-141,Jon,Harris,8133,1981-03-27,Non-binary,Bear Creek Shelter,No,2026-02-05
+RR-142,Jacob,Edwards,5974,1962-02-03,Female,Navigation Center,No,2025-01-16
+RR-143,Sam,Thomas,,1967-05-25,Male,Heartside Center,No,2025-06-19
+RR-144,Dave,Perez,,1979-06-12,Female,Navigation Center,No,2025-06-10
+RR-145,Tyler,Johnson,4504,1975-02-15,Female,Family Resource Campus,No,2026-04-26
+RR-146,Frank,Burke,,2006-08-08,Female,Safe Parking Lot B,No,2024-11-15
+RR-147,Pamela,Cooper,7519,1975-01-21,Non-binary,Heartside Center,No,2025-10-03
+RR-148,Larry,Anderson,,1990-04-30,Male,Safe Parking Lot B,No,2025-02-16
+RR-149,Tommy,Smith,,1970-04-19,Male,Heartside Center,No,2025-05-28
+RR-150,Edward,Reed,,1982-04-05,Non-binary,Family Resource Campus,No,2025-06-15
+RR-151,Aaron,Diaz,,2007-03-18,Female,Bear Creek Shelter,No,2026-01-09
+RR-152,Dan,Baker,116,1978-08-12,Male,Heartside Center,No,2025-07-07
+RR-153,Eric,Bailye,899,1956-01-01,Male,Safe Parking Lot B,No,2025-12-10
+RR-154,Shirley,Nelson,,2008-09-21,Female,Navigation Center,No,2025-07-06
+RR-155,Betty,King,,1992-06-27,Female,Heartside Center,No,2026-02-11

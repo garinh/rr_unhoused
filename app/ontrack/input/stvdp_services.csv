@@ -1,0 +1,565 @@
+visit_id,client_id,service_date,service_type,service_category,household_served,lbs_food_provided,meals_provided,location,volunteer_name
+STVDP-VST-00001,STVDP-0001,2025-10-19,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00002,STVDP-0001,2026-09-30,Baby & Family Pantry,Food Pantry,1,50,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00003,STVDP-0001,2026-07-09,SNAP Supplemental Bag,Food Pantry,1,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00004,STVDP-0001,2026-09-21,Food Pantry Distribution,Food Pantry,1,44,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00005,STVDP-0002,2026-01-06,Community Dinner,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00006,STVDP-0002,2026-02-27,Community Dinner,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00007,STVDP-0002,2026-08-30,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00008,STVDP-0002,2026-01-13,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00009,STVDP-0002,2026-08-13,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00010,STVDP-0002,2026-02-10,SNAP Supplemental Bag,Food Pantry,6,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00011,STVDP-0002,2026-07-08,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00012,STVDP-0003,2026-01-30,Produce Market Day,Food Pantry,1,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00013,STVDP-0003,2026-03-30,Produce Market Day,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00014,STVDP-0003,2026-05-26,Emergency Food Box,Food Pantry,1,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00015,STVDP-0003,2025-10-08,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00016,STVDP-0003,2026-07-12,Emergency Food Box,Food Pantry,1,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00017,STVDP-0003,2026-08-15,Baby & Family Pantry,Food Pantry,1,26,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00018,STVDP-0004,2026-07-14,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00019,STVDP-0004,2026-03-22,Produce Market Day,Food Pantry,2,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00020,STVDP-0004,2026-09-01,Baby & Family Pantry,Food Pantry,2,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00021,STVDP-0005,2026-03-26,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00022,STVDP-0005,2026-07-18,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00023,STVDP-0006,2026-05-31,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00024,STVDP-0006,2026-03-15,Baby & Family Pantry,Food Pantry,1,26,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00025,STVDP-0006,2025-11-29,Produce Market Day,Food Pantry,1,23,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00026,STVDP-0006,2025-11-15,Emergency Food Box,Food Pantry,1,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00027,STVDP-0006,2026-05-03,Baby & Family Pantry,Food Pantry,1,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00028,STVDP-0006,2026-04-01,Produce Market Day,Food Pantry,1,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00029,STVDP-0006,2026-02-07,Baby & Family Pantry,Food Pantry,1,30,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00030,STVDP-0006,2026-02-03,Emergency Food Box,Food Pantry,1,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00031,STVDP-0007,2025-10-06,Produce Market Day,Food Pantry,3,16,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00032,STVDP-0007,2026-10-01,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00033,STVDP-0007,2025-11-19,Shelf-Stable Pantry Visit,Food Pantry,3,30,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00034,STVDP-0007,2026-08-07,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00035,STVDP-0008,2025-11-27,SNAP Supplemental Bag,Food Pantry,6,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00036,STVDP-0008,2026-08-10,Community Dinner,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00037,STVDP-0008,2025-12-15,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00038,STVDP-0008,2025-10-11,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00039,STVDP-0008,2026-03-01,Shelf-Stable Pantry Visit,Food Pantry,6,24,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00040,STVDP-0008,2026-08-17,Baby & Family Pantry,Food Pantry,6,15,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00041,STVDP-0008,2025-12-02,Shelf-Stable Pantry Visit,Food Pantry,6,21,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00042,STVDP-0009,2026-05-16,Food Pantry Distribution,Food Pantry,5,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00043,STVDP-0009,2026-05-13,Senior Meal Delivery,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00044,STVDP-0009,2026-02-06,Senior Meal Delivery,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00045,STVDP-0009,2026-04-29,Shelf-Stable Pantry Visit,Food Pantry,5,45,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00046,STVDP-0009,2025-12-26,Food Pantry Distribution,Food Pantry,5,21,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00047,STVDP-0009,2026-01-13,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00048,STVDP-0009,2026-09-30,Senior Meal Delivery,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00049,STVDP-0009,2026-09-20,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00050,STVDP-0010,2026-01-26,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00051,STVDP-0010,2026-08-04,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00052,STVDP-0010,2026-07-02,Baby & Family Pantry,Food Pantry,1,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00053,STVDP-0011,2026-03-05,Produce Market Day,Food Pantry,1,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00054,STVDP-0011,2026-09-21,Emergency Food Box,Food Pantry,1,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00055,STVDP-0011,2026-02-02,SNAP Supplemental Bag,Food Pantry,1,26,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00056,STVDP-0011,2025-10-20,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00057,STVDP-0011,2025-12-26,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00058,STVDP-0011,2026-07-25,Baby & Family Pantry,Food Pantry,1,23,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00059,STVDP-0012,2026-06-12,Baby & Family Pantry,Food Pantry,5,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00060,STVDP-0012,2026-03-07,Shelf-Stable Pantry Visit,Food Pantry,5,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00061,STVDP-0012,2026-07-15,Food Pantry Distribution,Food Pantry,5,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00062,STVDP-0012,2026-09-19,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00063,STVDP-0012,2026-02-24,Produce Market Day,Food Pantry,5,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00064,STVDP-0013,2026-04-18,Food Pantry Distribution,Food Pantry,3,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00065,STVDP-0013,2026-05-04,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00066,STVDP-0013,2026-04-17,Emergency Food Box,Food Pantry,3,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00067,STVDP-0013,2026-07-14,Weekend Breakfast,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00068,STVDP-0014,2025-11-24,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00069,STVDP-0014,2025-12-29,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00070,STVDP-0014,2026-04-20,Shelf-Stable Pantry Visit,Food Pantry,5,45,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00071,STVDP-0014,2026-06-20,Emergency Food Box,Food Pantry,5,27,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00072,STVDP-0015,2025-11-13,Produce Market Day,Food Pantry,5,21,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00073,STVDP-0015,2026-04-22,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00074,STVDP-0016,2026-03-27,Shelf-Stable Pantry Visit,Food Pantry,2,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00075,STVDP-0016,2025-11-20,Baby & Family Pantry,Food Pantry,2,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00076,STVDP-0016,2026-03-09,Food Pantry Distribution,Food Pantry,2,15,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00077,STVDP-0016,2026-03-24,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00078,STVDP-0016,2026-08-18,SNAP Supplemental Bag,Food Pantry,2,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00079,STVDP-0017,2026-01-06,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00080,STVDP-0017,2026-03-24,SNAP Supplemental Bag,Food Pantry,1,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00081,STVDP-0017,2025-11-14,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00082,STVDP-0017,2025-12-16,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00083,STVDP-0017,2025-11-20,SNAP Supplemental Bag,Food Pantry,1,50,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00084,STVDP-0017,2025-11-16,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00085,STVDP-0017,2026-05-26,Baby & Family Pantry,Food Pantry,1,42,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00086,STVDP-0018,2025-11-01,SNAP Supplemental Bag,Food Pantry,1,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00087,STVDP-0018,2025-11-20,Food Pantry Distribution,Food Pantry,1,18,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00088,STVDP-0018,2026-05-08,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00089,STVDP-0018,2026-09-30,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00090,STVDP-0018,2026-02-05,Produce Market Day,Food Pantry,1,42,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00091,STVDP-0019,2025-10-06,Holiday Meal Service,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00092,STVDP-0019,2026-08-07,Shelf-Stable Pantry Visit,Food Pantry,4,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00093,STVDP-0019,2025-11-22,Emergency Food Box,Food Pantry,4,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00094,STVDP-0019,2025-11-08,Food Pantry Distribution,Food Pantry,4,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00095,STVDP-0020,2026-02-13,Shelf-Stable Pantry Visit,Food Pantry,5,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00096,STVDP-0020,2026-07-24,Shelf-Stable Pantry Visit,Food Pantry,5,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00097,STVDP-0020,2026-06-26,Shelf-Stable Pantry Visit,Food Pantry,5,26,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00098,STVDP-0020,2026-02-07,Emergency Food Box,Food Pantry,5,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00099,STVDP-0020,2026-02-06,Shelf-Stable Pantry Visit,Food Pantry,5,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00100,STVDP-0020,2026-04-30,Senior Meal Delivery,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00101,STVDP-0021,2026-05-15,Shelf-Stable Pantry Visit,Food Pantry,1,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00102,STVDP-0021,2026-03-08,Produce Market Day,Food Pantry,1,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00103,STVDP-0021,2026-08-07,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00104,STVDP-0022,2026-08-04,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00105,STVDP-0022,2026-08-23,Food Pantry Distribution,Food Pantry,1,22,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00106,STVDP-0023,2026-05-06,Baby & Family Pantry,Food Pantry,3,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00107,STVDP-0023,2026-04-11,Shelf-Stable Pantry Visit,Food Pantry,3,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00108,STVDP-0023,2026-05-09,Food Pantry Distribution,Food Pantry,3,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00109,STVDP-0023,2026-03-16,Shelf-Stable Pantry Visit,Food Pantry,3,51,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00110,STVDP-0023,2025-10-08,Food Pantry Distribution,Food Pantry,3,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00111,STVDP-0024,2026-02-06,Food Pantry Distribution,Food Pantry,3,45,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00112,STVDP-0024,2026-04-30,Food Pantry Distribution,Food Pantry,3,44,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00113,STVDP-0024,2025-10-12,Shelf-Stable Pantry Visit,Food Pantry,3,60,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00114,STVDP-0024,2026-07-06,Produce Market Day,Food Pantry,3,18,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00115,STVDP-0024,2026-05-10,Food Pantry Distribution,Food Pantry,3,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00116,STVDP-0024,2026-09-29,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00117,STVDP-0024,2026-01-14,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00118,STVDP-0025,2026-01-26,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00119,STVDP-0025,2026-09-28,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00120,STVDP-0026,2026-07-04,Shelf-Stable Pantry Visit,Food Pantry,4,44,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00121,STVDP-0026,2026-08-10,Baby & Family Pantry,Food Pantry,4,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00122,STVDP-0026,2026-08-13,Baby & Family Pantry,Food Pantry,4,18,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00123,STVDP-0026,2025-11-25,Holiday Meal Service,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00124,STVDP-0026,2025-11-29,Weekend Breakfast,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00125,STVDP-0026,2025-11-06,Hot Lunch Program,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00126,STVDP-0026,2025-12-10,Community Dinner,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00127,STVDP-0026,2025-10-13,Produce Market Day,Food Pantry,4,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00128,STVDP-0027,2026-09-12,Produce Market Day,Food Pantry,6,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00129,STVDP-0027,2026-05-01,Community Dinner,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00130,STVDP-0027,2026-02-14,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00131,STVDP-0027,2026-08-07,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00132,STVDP-0028,2025-11-05,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00133,STVDP-0028,2026-04-30,Shelf-Stable Pantry Visit,Food Pantry,1,45,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00134,STVDP-0028,2026-08-22,Baby & Family Pantry,Food Pantry,1,24,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00135,STVDP-0028,2025-11-18,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00136,STVDP-0028,2026-01-07,Emergency Food Box,Food Pantry,1,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00137,STVDP-0028,2026-08-15,Produce Market Day,Food Pantry,1,24,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00138,STVDP-0028,2025-12-21,Food Pantry Distribution,Food Pantry,1,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00139,STVDP-0029,2026-01-07,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00140,STVDP-0029,2025-11-09,Emergency Food Box,Food Pantry,1,38,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00141,STVDP-0030,2026-04-06,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00142,STVDP-0030,2026-07-10,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00143,STVDP-0031,2026-02-09,Food Pantry Distribution,Food Pantry,1,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00144,STVDP-0031,2026-07-15,Produce Market Day,Food Pantry,1,22,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00145,STVDP-0031,2026-09-19,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00146,STVDP-0032,2026-03-28,Produce Market Day,Food Pantry,1,23,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00147,STVDP-0032,2026-01-08,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00148,STVDP-0032,2026-09-15,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00149,STVDP-0032,2026-02-06,Emergency Food Box,Food Pantry,1,52,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00150,STVDP-0032,2026-01-06,Food Pantry Distribution,Food Pantry,1,27,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00151,STVDP-0033,2025-11-03,SNAP Supplemental Bag,Food Pantry,1,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00152,STVDP-0033,2026-02-24,Shelf-Stable Pantry Visit,Food Pantry,1,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00153,STVDP-0033,2026-03-26,Produce Market Day,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00154,STVDP-0033,2026-08-22,SNAP Supplemental Bag,Food Pantry,1,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00155,STVDP-0034,2026-05-21,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00156,STVDP-0034,2026-01-15,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00157,STVDP-0034,2026-02-10,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00158,STVDP-0035,2026-03-11,SNAP Supplemental Bag,Food Pantry,2,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00159,STVDP-0035,2026-09-25,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00160,STVDP-0036,2026-05-11,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00161,STVDP-0036,2026-08-31,Weekend Breakfast,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00162,STVDP-0037,2025-10-16,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00163,STVDP-0037,2025-10-15,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00164,STVDP-0037,2026-02-07,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00165,STVDP-0037,2026-04-29,Produce Market Day,Food Pantry,1,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00166,STVDP-0037,2026-08-12,Produce Market Day,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00167,STVDP-0037,2026-09-12,Food Pantry Distribution,Food Pantry,1,51,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00168,STVDP-0038,2026-09-19,SNAP Supplemental Bag,Food Pantry,5,42,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00169,STVDP-0038,2026-08-30,Baby & Family Pantry,Food Pantry,5,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00170,STVDP-0038,2026-07-05,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00171,STVDP-0038,2026-08-21,Produce Market Day,Food Pantry,5,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00172,STVDP-0038,2026-07-03,Emergency Food Box,Food Pantry,5,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00173,STVDP-0038,2026-05-27,Emergency Food Box,Food Pantry,5,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00174,STVDP-0038,2026-08-03,Baby & Family Pantry,Food Pantry,5,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00175,STVDP-0039,2026-05-31,Baby & Family Pantry,Food Pantry,1,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00176,STVDP-0039,2026-04-01,Baby & Family Pantry,Food Pantry,1,22,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00177,STVDP-0039,2026-02-02,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00178,STVDP-0040,2026-01-15,Baby & Family Pantry,Food Pantry,1,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00179,STVDP-0040,2026-09-16,SNAP Supplemental Bag,Food Pantry,1,15,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00180,STVDP-0040,2026-06-28,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00181,STVDP-0041,2026-04-20,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00182,STVDP-0041,2026-09-25,Weekend Breakfast,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00183,STVDP-0041,2026-03-07,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00184,STVDP-0041,2026-05-05,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00185,STVDP-0042,2026-01-11,Emergency Food Box,Food Pantry,6,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00186,STVDP-0042,2026-04-07,Emergency Food Box,Food Pantry,6,28,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00187,STVDP-0042,2026-07-21,Shelf-Stable Pantry Visit,Food Pantry,6,60,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00188,STVDP-0042,2026-03-12,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00189,STVDP-0042,2026-07-09,Food Pantry Distribution,Food Pantry,6,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00190,STVDP-0042,2026-01-04,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00191,STVDP-0043,2026-01-21,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00192,STVDP-0043,2026-08-15,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00193,STVDP-0043,2026-05-21,SNAP Supplemental Bag,Food Pantry,3,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00194,STVDP-0043,2026-09-21,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00195,STVDP-0043,2025-10-24,Baby & Family Pantry,Food Pantry,3,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00196,STVDP-0044,2026-04-17,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00197,STVDP-0044,2026-05-09,Produce Market Day,Food Pantry,2,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00198,STVDP-0044,2025-12-01,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00199,STVDP-0044,2026-09-27,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00200,STVDP-0045,2026-02-04,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00201,STVDP-0045,2026-03-12,Shelf-Stable Pantry Visit,Food Pantry,2,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00202,STVDP-0045,2026-09-10,Shelf-Stable Pantry Visit,Food Pantry,2,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00203,STVDP-0045,2026-02-23,Baby & Family Pantry,Food Pantry,2,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00204,STVDP-0045,2026-02-20,SNAP Supplemental Bag,Food Pantry,2,44,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00205,STVDP-0045,2026-07-09,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00206,STVDP-0046,2026-04-22,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00207,STVDP-0046,2026-04-19,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00208,STVDP-0046,2026-04-08,Shelf-Stable Pantry Visit,Food Pantry,1,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00209,STVDP-0046,2026-07-14,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00210,STVDP-0047,2025-10-09,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00211,STVDP-0047,2026-03-10,Baby & Family Pantry,Food Pantry,3,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00212,STVDP-0048,2026-06-08,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00213,STVDP-0048,2026-07-31,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00214,STVDP-0049,2026-01-10,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00215,STVDP-0049,2026-01-11,SNAP Supplemental Bag,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00216,STVDP-0049,2026-05-20,Food Pantry Distribution,Food Pantry,1,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00217,STVDP-0049,2026-03-09,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00218,STVDP-0049,2026-06-02,Produce Market Day,Food Pantry,1,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00219,STVDP-0050,2026-05-04,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00220,STVDP-0050,2025-11-23,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00221,STVDP-0050,2026-01-31,Emergency Food Box,Food Pantry,6,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00222,STVDP-0050,2025-10-03,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00223,STVDP-0050,2026-02-03,Community Dinner,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00224,STVDP-0050,2025-10-20,Weekend Breakfast,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00225,STVDP-0050,2025-10-03,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00226,STVDP-0051,2026-03-08,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00227,STVDP-0051,2026-01-09,Emergency Food Box,Food Pantry,5,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00228,STVDP-0052,2025-11-20,SNAP Supplemental Bag,Food Pantry,4,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00229,STVDP-0052,2026-07-30,Holiday Meal Service,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00230,STVDP-0052,2025-11-11,Community Dinner,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00231,STVDP-0052,2026-05-14,Emergency Food Box,Food Pantry,4,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00232,STVDP-0052,2025-12-16,Hot Lunch Program,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00233,STVDP-0053,2026-03-23,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00234,STVDP-0053,2025-12-28,Shelf-Stable Pantry Visit,Food Pantry,5,52,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00235,STVDP-0053,2026-08-01,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00236,STVDP-0053,2026-01-06,Hot Lunch Program,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00237,STVDP-0053,2025-11-01,SNAP Supplemental Bag,Food Pantry,5,23,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00238,STVDP-0054,2026-06-20,Hot Lunch Program,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00239,STVDP-0054,2026-04-07,Hot Lunch Program,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00240,STVDP-0054,2025-12-09,Hot Lunch Program,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00241,STVDP-0054,2026-06-08,Senior Meal Delivery,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00242,STVDP-0054,2026-04-25,Baby & Family Pantry,Food Pantry,4,45,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00243,STVDP-0054,2026-02-11,Food Pantry Distribution,Food Pantry,4,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00244,STVDP-0054,2026-05-05,Community Dinner,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00245,STVDP-0055,2025-11-19,Food Pantry Distribution,Food Pantry,1,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00246,STVDP-0055,2026-06-23,Emergency Food Box,Food Pantry,1,24,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00247,STVDP-0055,2026-05-26,Shelf-Stable Pantry Visit,Food Pantry,1,27,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00248,STVDP-0056,2025-12-10,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00249,STVDP-0056,2026-05-22,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00250,STVDP-0056,2026-02-13,Emergency Food Box,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00251,STVDP-0056,2025-12-17,Emergency Food Box,Food Pantry,1,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00252,STVDP-0056,2025-10-13,Shelf-Stable Pantry Visit,Food Pantry,1,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00253,STVDP-0056,2026-06-28,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00254,STVDP-0057,2025-12-19,Senior Meal Delivery,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00255,STVDP-0057,2026-02-28,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00256,STVDP-0057,2025-12-23,Emergency Food Box,Food Pantry,2,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00257,STVDP-0057,2026-09-20,SNAP Supplemental Bag,Food Pantry,2,16,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00258,STVDP-0057,2026-04-14,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00259,STVDP-0057,2025-12-01,Baby & Family Pantry,Food Pantry,2,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00260,STVDP-0057,2026-09-09,Shelf-Stable Pantry Visit,Food Pantry,2,50,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00261,STVDP-0058,2025-12-02,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00262,STVDP-0058,2026-05-25,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00263,STVDP-0059,2026-01-28,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00264,STVDP-0059,2025-12-13,Baby & Family Pantry,Food Pantry,3,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00265,STVDP-0060,2026-04-05,Shelf-Stable Pantry Visit,Food Pantry,1,42,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00266,STVDP-0060,2026-05-29,Baby & Family Pantry,Food Pantry,1,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00267,STVDP-0060,2026-04-21,SNAP Supplemental Bag,Food Pantry,1,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00268,STVDP-0060,2026-06-19,Baby & Family Pantry,Food Pantry,1,23,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00269,STVDP-0060,2026-04-25,Shelf-Stable Pantry Visit,Food Pantry,1,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00270,STVDP-0061,2026-01-06,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00271,STVDP-0061,2026-04-24,Food Pantry Distribution,Food Pantry,3,18,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00272,STVDP-0061,2025-10-11,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00273,STVDP-0062,2026-07-06,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00274,STVDP-0062,2026-04-20,Shelf-Stable Pantry Visit,Food Pantry,5,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00275,STVDP-0062,2026-02-11,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00276,STVDP-0063,2026-03-01,SNAP Supplemental Bag,Food Pantry,5,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00277,STVDP-0063,2025-10-18,Food Pantry Distribution,Food Pantry,5,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00278,STVDP-0063,2025-12-01,Food Pantry Distribution,Food Pantry,5,18,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00279,STVDP-0064,2026-06-06,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00280,STVDP-0064,2025-11-07,SNAP Supplemental Bag,Food Pantry,2,56,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00281,STVDP-0064,2026-02-16,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00282,STVDP-0064,2026-08-19,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00283,STVDP-0064,2026-05-02,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00284,STVDP-0065,2025-10-19,Food Pantry Distribution,Food Pantry,1,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00285,STVDP-0065,2026-04-27,Baby & Family Pantry,Food Pantry,1,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00286,STVDP-0065,2026-03-16,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00287,STVDP-0065,2025-11-25,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00288,STVDP-0065,2025-10-22,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00289,STVDP-0065,2025-10-13,Baby & Family Pantry,Food Pantry,1,24,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00290,STVDP-0066,2025-12-20,Community Dinner,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00291,STVDP-0066,2025-12-21,Food Pantry Distribution,Food Pantry,5,15,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00292,STVDP-0066,2025-11-13,Hot Lunch Program,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00293,STVDP-0066,2025-12-10,Produce Market Day,Food Pantry,5,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00294,STVDP-0067,2026-06-19,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00295,STVDP-0067,2025-11-29,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00296,STVDP-0067,2025-12-08,Produce Market Day,Food Pantry,1,28,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00297,STVDP-0067,2026-08-22,Emergency Food Box,Food Pantry,1,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00298,STVDP-0067,2025-12-07,Food Pantry Distribution,Food Pantry,1,22,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00299,STVDP-0067,2025-12-29,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00300,STVDP-0067,2026-09-06,Produce Market Day,Food Pantry,1,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00301,STVDP-0067,2026-06-08,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00302,STVDP-0068,2026-04-21,SNAP Supplemental Bag,Food Pantry,3,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00303,STVDP-0068,2026-04-03,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00304,STVDP-0068,2026-02-24,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00305,STVDP-0068,2026-09-18,Produce Market Day,Food Pantry,3,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00306,STVDP-0068,2025-12-17,Baby & Family Pantry,Food Pantry,3,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00307,STVDP-0069,2026-05-09,SNAP Supplemental Bag,Food Pantry,1,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00308,STVDP-0069,2026-09-27,Baby & Family Pantry,Food Pantry,1,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00309,STVDP-0069,2026-02-08,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00310,STVDP-0069,2026-04-24,Emergency Food Box,Food Pantry,1,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00311,STVDP-0069,2025-11-15,SNAP Supplemental Bag,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00312,STVDP-0069,2025-10-27,Emergency Food Box,Food Pantry,1,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00313,STVDP-0069,2025-10-11,Food Pantry Distribution,Food Pantry,1,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00314,STVDP-0069,2026-05-21,Food Pantry Distribution,Food Pantry,1,15,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00315,STVDP-0070,2026-05-07,Food Pantry Distribution,Food Pantry,6,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00316,STVDP-0070,2026-01-13,Weekend Breakfast,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00317,STVDP-0071,2026-08-05,Baby & Family Pantry,Food Pantry,3,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00318,STVDP-0071,2026-06-05,Produce Market Day,Food Pantry,3,44,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00319,STVDP-0071,2026-08-16,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00320,STVDP-0071,2026-02-08,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00321,STVDP-0071,2026-08-03,Emergency Food Box,Food Pantry,3,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00322,STVDP-0072,2025-12-31,SNAP Supplemental Bag,Food Pantry,5,16,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00323,STVDP-0072,2026-07-04,Emergency Food Box,Food Pantry,5,30,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00324,STVDP-0072,2026-04-18,Emergency Food Box,Food Pantry,5,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00325,STVDP-0073,2026-04-18,Food Pantry Distribution,Food Pantry,2,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00326,STVDP-0073,2025-11-10,Food Pantry Distribution,Food Pantry,2,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00327,STVDP-0073,2025-10-30,Produce Market Day,Food Pantry,2,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00328,STVDP-0073,2025-12-29,Produce Market Day,Food Pantry,2,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00329,STVDP-0073,2026-05-09,Shelf-Stable Pantry Visit,Food Pantry,2,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00330,STVDP-0074,2026-08-17,Shelf-Stable Pantry Visit,Food Pantry,3,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00331,STVDP-0074,2026-07-21,Emergency Food Box,Food Pantry,3,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00332,STVDP-0075,2026-06-12,Shelf-Stable Pantry Visit,Food Pantry,3,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00333,STVDP-0075,2025-10-14,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00334,STVDP-0075,2026-06-13,Shelf-Stable Pantry Visit,Food Pantry,3,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00335,STVDP-0075,2025-12-30,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00336,STVDP-0075,2025-12-25,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00337,STVDP-0075,2025-10-09,SNAP Supplemental Bag,Food Pantry,3,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00338,STVDP-0075,2025-12-14,Shelf-Stable Pantry Visit,Food Pantry,3,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00339,STVDP-0076,2026-01-04,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00340,STVDP-0076,2025-12-13,Produce Market Day,Food Pantry,1,18,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00341,STVDP-0076,2026-02-19,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00342,STVDP-0076,2025-11-02,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00343,STVDP-0077,2026-02-17,SNAP Supplemental Bag,Food Pantry,2,42,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00344,STVDP-0077,2026-01-16,Senior Meal Delivery,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00345,STVDP-0077,2026-01-15,Baby & Family Pantry,Food Pantry,2,22,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00346,STVDP-0077,2026-05-14,SNAP Supplemental Bag,Food Pantry,2,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00347,STVDP-0077,2026-02-24,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00348,STVDP-0077,2026-01-19,Food Pantry Distribution,Food Pantry,2,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00349,STVDP-0077,2026-08-25,SNAP Supplemental Bag,Food Pantry,2,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00350,STVDP-0077,2025-12-08,SNAP Supplemental Bag,Food Pantry,2,56,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00351,STVDP-0078,2025-11-02,Holiday Meal Service,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00352,STVDP-0078,2026-07-22,Shelf-Stable Pantry Visit,Food Pantry,5,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00353,STVDP-0078,2025-12-26,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00354,STVDP-0078,2026-05-10,Holiday Meal Service,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00355,STVDP-0078,2026-05-02,Produce Market Day,Food Pantry,5,52,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00356,STVDP-0078,2026-05-27,Holiday Meal Service,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00357,STVDP-0078,2026-06-27,Weekend Breakfast,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00358,STVDP-0078,2025-12-28,Hot Lunch Program,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00359,STVDP-0079,2025-11-16,SNAP Supplemental Bag,Food Pantry,1,38,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00360,STVDP-0079,2025-12-05,Baby & Family Pantry,Food Pantry,1,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00361,STVDP-0079,2026-08-12,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00362,STVDP-0079,2026-06-09,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00363,STVDP-0079,2026-03-22,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00364,STVDP-0079,2026-06-11,Food Pantry Distribution,Food Pantry,1,51,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00365,STVDP-0079,2026-05-29,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00366,STVDP-0080,2026-01-20,Emergency Food Box,Food Pantry,1,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00367,STVDP-0080,2026-05-09,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00368,STVDP-0080,2026-02-10,Emergency Food Box,Food Pantry,1,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00369,STVDP-0080,2025-11-09,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00370,STVDP-0080,2026-08-10,Food Pantry Distribution,Food Pantry,1,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00371,STVDP-0081,2026-05-09,Shelf-Stable Pantry Visit,Food Pantry,2,38,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00372,STVDP-0081,2026-03-18,Senior Meal Delivery,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00373,STVDP-0082,2026-08-20,SNAP Supplemental Bag,Food Pantry,4,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00374,STVDP-0082,2025-11-29,Food Pantry Distribution,Food Pantry,4,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00375,STVDP-0083,2025-11-27,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00376,STVDP-0083,2025-11-02,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00377,STVDP-0084,2026-02-10,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00378,STVDP-0084,2026-09-30,Produce Market Day,Food Pantry,1,27,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00379,STVDP-0084,2025-11-06,Produce Market Day,Food Pantry,1,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00380,STVDP-0084,2026-09-25,Baby & Family Pantry,Food Pantry,1,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00381,STVDP-0084,2025-10-08,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00382,STVDP-0085,2026-07-22,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00383,STVDP-0085,2026-02-12,Senior Meal Delivery,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00384,STVDP-0086,2026-04-06,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00385,STVDP-0086,2026-06-07,Food Pantry Distribution,Food Pantry,1,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00386,STVDP-0086,2026-08-20,Shelf-Stable Pantry Visit,Food Pantry,1,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00387,STVDP-0086,2025-10-26,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00388,STVDP-0086,2026-02-26,Food Pantry Distribution,Food Pantry,1,51,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00389,STVDP-0087,2026-08-09,Baby & Family Pantry,Food Pantry,6,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00390,STVDP-0087,2026-08-25,Produce Market Day,Food Pantry,6,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00391,STVDP-0087,2026-07-27,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00392,STVDP-0087,2025-11-08,Weekend Breakfast,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00393,STVDP-0087,2026-01-22,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00394,STVDP-0087,2026-01-26,Baby & Family Pantry,Food Pantry,6,28,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00395,STVDP-0087,2026-07-17,Baby & Family Pantry,Food Pantry,6,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00396,STVDP-0087,2026-05-02,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00397,STVDP-0088,2025-12-12,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00398,STVDP-0088,2026-03-05,SNAP Supplemental Bag,Food Pantry,3,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00399,STVDP-0088,2026-03-20,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00400,STVDP-0088,2026-06-14,Shelf-Stable Pantry Visit,Food Pantry,3,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00401,STVDP-0089,2026-06-25,Food Pantry Distribution,Food Pantry,5,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00402,STVDP-0089,2026-03-17,Holiday Meal Service,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00403,STVDP-0089,2026-02-17,Produce Market Day,Food Pantry,5,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00404,STVDP-0089,2026-06-24,Hot Lunch Program,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00405,STVDP-0090,2026-02-11,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00406,STVDP-0090,2026-03-26,Baby & Family Pantry,Food Pantry,2,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00407,STVDP-0090,2026-04-09,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00408,STVDP-0090,2025-10-12,Food Pantry Distribution,Food Pantry,2,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00409,STVDP-0090,2026-05-01,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00410,STVDP-0090,2026-08-15,Baby & Family Pantry,Food Pantry,2,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00411,STVDP-0090,2026-03-07,Baby & Family Pantry,Food Pantry,2,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00412,STVDP-0091,2026-05-27,Hot Lunch Program,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00413,STVDP-0091,2026-01-22,Senior Meal Delivery,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00414,STVDP-0091,2026-02-18,SNAP Supplemental Bag,Food Pantry,4,44,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00415,STVDP-0092,2026-01-08,Emergency Food Box,Food Pantry,2,58,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00416,STVDP-0092,2026-08-26,Produce Market Day,Food Pantry,2,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00417,STVDP-0092,2025-10-06,Produce Market Day,Food Pantry,2,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00418,STVDP-0092,2026-06-24,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00419,STVDP-0092,2026-01-27,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00420,STVDP-0093,2026-08-11,Emergency Food Box,Food Pantry,2,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00421,STVDP-0093,2026-01-25,Emergency Food Box,Food Pantry,2,21,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00422,STVDP-0094,2026-09-17,Shelf-Stable Pantry Visit,Food Pantry,1,38,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00423,STVDP-0094,2025-11-26,Emergency Food Box,Food Pantry,1,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00424,STVDP-0094,2026-03-29,SNAP Supplemental Bag,Food Pantry,1,39,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00425,STVDP-0095,2026-06-11,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00426,STVDP-0095,2026-09-23,Senior Meal Delivery,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00427,STVDP-0095,2026-03-01,Emergency Food Box,Food Pantry,6,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00428,STVDP-0095,2025-10-07,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00429,STVDP-0095,2026-02-15,Produce Market Day,Food Pantry,6,50,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00430,STVDP-0095,2026-09-08,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00431,STVDP-0096,2025-10-12,Produce Market Day,Food Pantry,5,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00432,STVDP-0096,2026-05-27,Baby & Family Pantry,Food Pantry,5,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00433,STVDP-0096,2025-11-02,Produce Market Day,Food Pantry,5,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00434,STVDP-0096,2026-06-20,Produce Market Day,Food Pantry,5,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00435,STVDP-0096,2026-07-20,Senior Meal Delivery,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00436,STVDP-0096,2025-12-01,Baby & Family Pantry,Food Pantry,5,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00437,STVDP-0096,2026-08-28,Produce Market Day,Food Pantry,5,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00438,STVDP-0096,2026-03-23,SNAP Supplemental Bag,Food Pantry,5,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00439,STVDP-0097,2026-04-03,Food Pantry Distribution,Food Pantry,4,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00440,STVDP-0097,2026-09-06,Weekend Breakfast,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00441,STVDP-0098,2026-07-04,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00442,STVDP-0098,2026-06-15,SNAP Supplemental Bag,Food Pantry,1,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00443,STVDP-0098,2026-04-19,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00444,STVDP-0098,2026-03-05,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00445,STVDP-0098,2025-11-04,SNAP Supplemental Bag,Food Pantry,1,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00446,STVDP-0099,2026-01-11,Produce Market Day,Food Pantry,2,41,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00447,STVDP-0099,2026-01-11,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00448,STVDP-0099,2025-11-06,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00449,STVDP-0099,2025-12-27,SNAP Supplemental Bag,Food Pantry,2,23,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00450,STVDP-0100,2026-05-22,Food Pantry Distribution,Food Pantry,3,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00451,STVDP-0100,2026-06-29,Food Pantry Distribution,Food Pantry,3,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00452,STVDP-0100,2026-05-28,SNAP Supplemental Bag,Food Pantry,3,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00453,STVDP-0101,2026-03-30,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00454,STVDP-0101,2025-11-14,Shelf-Stable Pantry Visit,Food Pantry,1,16,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00455,STVDP-0101,2026-07-26,Emergency Food Box,Food Pantry,1,51,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00456,STVDP-0101,2026-01-18,Shelf-Stable Pantry Visit,Food Pantry,1,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00457,STVDP-0101,2026-05-17,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00458,STVDP-0101,2026-02-21,SNAP Supplemental Bag,Food Pantry,1,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00459,STVDP-0101,2026-01-17,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00460,STVDP-0102,2025-11-30,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00461,STVDP-0102,2026-01-15,Shelf-Stable Pantry Visit,Food Pantry,3,46,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00462,STVDP-0102,2026-01-05,SNAP Supplemental Bag,Food Pantry,3,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00463,STVDP-0102,2026-09-22,SNAP Supplemental Bag,Food Pantry,3,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00464,STVDP-0102,2026-03-07,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00465,STVDP-0102,2025-12-10,Weekend Breakfast,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00466,STVDP-0102,2025-12-24,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00467,STVDP-0102,2025-12-09,Food Pantry Distribution,Food Pantry,3,50,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00468,STVDP-0103,2026-01-24,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00469,STVDP-0103,2026-02-16,SNAP Supplemental Bag,Food Pantry,2,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00470,STVDP-0103,2026-01-23,Senior Meal Delivery,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00471,STVDP-0103,2026-05-01,Shelf-Stable Pantry Visit,Food Pantry,2,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00472,STVDP-0103,2025-12-21,Produce Market Day,Food Pantry,2,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00473,STVDP-0104,2026-03-03,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00474,STVDP-0104,2026-03-22,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00475,STVDP-0104,2026-01-14,Produce Market Day,Food Pantry,2,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00476,STVDP-0104,2026-02-26,Baby & Family Pantry,Food Pantry,2,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00477,STVDP-0104,2026-02-22,SNAP Supplemental Bag,Food Pantry,2,33,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00478,STVDP-0104,2026-07-02,Food Pantry Distribution,Food Pantry,2,39,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00479,STVDP-0104,2026-08-30,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00480,STVDP-0104,2025-12-09,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00481,STVDP-0105,2025-10-13,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00482,STVDP-0105,2025-12-13,Baby & Family Pantry,Food Pantry,2,40,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00483,STVDP-0105,2025-11-10,Hot Lunch Program,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00484,STVDP-0105,2026-04-20,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00485,STVDP-0105,2026-01-29,Produce Market Day,Food Pantry,2,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00486,STVDP-0105,2026-05-30,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00487,STVDP-0105,2026-09-30,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00488,STVDP-0106,2026-04-22,Produce Market Day,Food Pantry,3,37,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00489,STVDP-0106,2025-10-11,Emergency Food Box,Food Pantry,3,35,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00490,STVDP-0106,2026-08-19,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00491,STVDP-0107,2025-10-10,Community Dinner,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00492,STVDP-0107,2025-11-04,SNAP Supplemental Bag,Food Pantry,4,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00493,STVDP-0107,2026-04-05,Food Pantry Distribution,Food Pantry,4,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00494,STVDP-0108,2026-09-25,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00495,STVDP-0108,2026-02-14,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00496,STVDP-0108,2026-06-25,Produce Market Day,Food Pantry,1,29,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00497,STVDP-0108,2025-12-16,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00498,STVDP-0108,2026-02-09,Food Pantry Distribution,Food Pantry,1,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00499,STVDP-0108,2026-07-29,Produce Market Day,Food Pantry,1,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00500,STVDP-0108,2026-01-29,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00501,STVDP-0108,2026-01-15,Senior Meal Delivery,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00502,STVDP-0109,2026-07-31,Food Pantry Distribution,Food Pantry,6,60,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00503,STVDP-0109,2025-11-28,Emergency Food Box,Food Pantry,6,54,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00504,STVDP-0109,2026-05-14,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00505,STVDP-0109,2026-01-28,Food Pantry Distribution,Food Pantry,6,36,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00506,STVDP-0109,2026-01-31,Produce Market Day,Food Pantry,6,31,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00507,STVDP-0109,2026-02-15,SNAP Supplemental Bag,Food Pantry,6,34,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00508,STVDP-0109,2026-08-04,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00509,STVDP-0109,2026-08-14,Food Pantry Distribution,Food Pantry,6,55,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00510,STVDP-0110,2025-12-24,Shelf-Stable Pantry Visit,Food Pantry,1,53,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00511,STVDP-0110,2026-05-26,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00512,STVDP-0110,2026-09-30,Weekend Breakfast,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00513,STVDP-0110,2026-08-20,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00514,STVDP-0110,2026-05-15,Produce Market Day,Food Pantry,1,28,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00515,STVDP-0110,2026-02-04,Baby & Family Pantry,Food Pantry,1,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00516,STVDP-0110,2026-04-30,Holiday Meal Service,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00517,STVDP-0111,2026-06-10,Food Pantry Distribution,Food Pantry,1,48,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00518,STVDP-0111,2026-03-17,Community Dinner,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00519,STVDP-0112,2026-07-11,Baby & Family Pantry,Food Pantry,3,28,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00520,STVDP-0112,2025-11-28,Emergency Food Box,Food Pantry,3,24,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00521,STVDP-0112,2026-07-25,Weekend Breakfast,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00522,STVDP-0112,2026-03-25,Holiday Meal Service,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00523,STVDP-0112,2026-09-19,Food Pantry Distribution,Food Pantry,3,30,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00524,STVDP-0112,2026-05-30,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00525,STVDP-0112,2026-06-14,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00526,STVDP-0113,2026-07-03,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00527,STVDP-0113,2026-05-17,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00528,STVDP-0113,2025-12-07,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00529,STVDP-0113,2026-02-20,Senior Meal Delivery,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00530,STVDP-0113,2026-06-10,Holiday Meal Service,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00531,STVDP-0113,2026-05-04,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00532,STVDP-0114,2026-02-14,Community Dinner,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00533,STVDP-0114,2025-10-24,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00534,STVDP-0114,2026-06-08,Hot Lunch Program,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00535,STVDP-0114,2025-11-15,Emergency Food Box,Food Pantry,6,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00536,STVDP-0114,2026-03-21,Holiday Meal Service,Community Meal,6,,6,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00537,STVDP-0114,2025-12-16,Food Pantry Distribution,Food Pantry,6,19,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00538,STVDP-0114,2026-03-23,Baby & Family Pantry,Food Pantry,6,45,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00539,STVDP-0114,2026-04-02,SNAP Supplemental Bag,Food Pantry,6,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Diane R.
+STVDP-VST-00540,STVDP-0115,2026-04-05,Community Dinner,Community Meal,4,,4,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00541,STVDP-0115,2026-09-30,Baby & Family Pantry,Food Pantry,4,20,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Helen S.
+STVDP-VST-00542,STVDP-0115,2026-03-27,Produce Market Day,Food Pantry,4,49,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00543,STVDP-0115,2026-01-21,Produce Market Day,Food Pantry,4,25,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00544,STVDP-0115,2026-06-01,SNAP Supplemental Bag,Food Pantry,4,17,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00545,STVDP-0116,2026-05-18,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00546,STVDP-0116,2025-10-15,SNAP Supplemental Bag,Food Pantry,1,39,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Sr. Margaret
+STVDP-VST-00547,STVDP-0116,2026-04-21,Hot Lunch Program,Community Meal,1,,1,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00548,STVDP-0117,2026-03-05,Emergency Food Box,Food Pantry,3,32,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Fr. Joseph
+STVDP-VST-00549,STVDP-0117,2026-05-20,Shelf-Stable Pantry Visit,Food Pantry,3,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00550,STVDP-0117,2026-05-09,SNAP Supplemental Bag,Food Pantry,3,47,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.
+STVDP-VST-00551,STVDP-0117,2026-05-21,SNAP Supplemental Bag,Food Pantry,3,60,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00552,STVDP-0117,2026-01-05,Community Dinner,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00553,STVDP-0118,2026-04-18,Weekend Breakfast,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00554,STVDP-0118,2026-05-03,Shelf-Stable Pantry Visit,Food Pantry,2,59,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00555,STVDP-0118,2026-01-01,Community Dinner,Community Meal,2,,2,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00556,STVDP-0119,2026-02-04,Produce Market Day,Food Pantry,3,43,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Carlos M.
+STVDP-VST-00557,STVDP-0119,2026-05-24,Senior Meal Delivery,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00558,STVDP-0119,2026-03-18,Hot Lunch Program,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Ana L.
+STVDP-VST-00559,STVDP-0119,2026-06-01,SNAP Supplemental Bag,Food Pantry,3,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00560,STVDP-0119,2026-08-21,Weekend Breakfast,Community Meal,3,,3,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00561,STVDP-0119,2026-02-22,SNAP Supplemental Bag,Food Pantry,3,57,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00562,STVDP-0119,2026-09-08,Emergency Food Box,Food Pantry,3,39,,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Tom V.
+STVDP-VST-00563,STVDP-0120,2026-02-09,Senior Meal Delivery,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Patricia W.
+STVDP-VST-00564,STVDP-0120,2026-07-14,Hot Lunch Program,Community Meal,5,,5,"St. Vincent de Paul — 1632 Ashland St, Ashland OR 97520",Bob K.

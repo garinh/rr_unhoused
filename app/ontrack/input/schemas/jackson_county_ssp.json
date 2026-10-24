@@ -1,0 +1,31 @@
+{
+  "label": "Jackson County Syringe Exchange",
+  "short_label": "JACKSON COUNTY SSP",
+  "source_system": "JACKSON_COUNTY_SSP",
+  "optional": false,
+  "expected_count": 100,
+  "client_file": "jackson_county_ssp_log.csv",
+  "services_file": "jackson_county_ssp_services.csv",
+  "columns": {
+    "client_id": "participant_code",
+    "first_name": "client_initials",
+    "last_name": null,
+    "dob": "birth_year",
+    "ssn": null,
+    "encounter_date": "encounter_date"
+  },
+  "ssn_type": "none",
+  "special": "initials_and_birth_year",
+  "special_config": {
+    "name_format": "initials",
+    "dob_format": "year_only"
+  },
+  "services_columns": {
+    "encounter_id": "log_id",
+    "client_id": "participant_code",
+    "encounter_date": "encounter_date",
+    "service_category_static": "Harm Reduction Supply Exchange",
+    "location_info_template": "Syringes: {syringes_collected}, Narcan: {narcan_kits}",
+    "location_zip": "zip_code"
+  }
+}

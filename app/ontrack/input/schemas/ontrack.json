@@ -1,0 +1,17 @@
+{
+  "label": "ONTRACK",
+  "short_label": "ONTRACK",
+  "source_system": "ONTRACK",
+  "optional": true,
+  "client_file": "ontrack_clients.csv",
+  "columns": {
+    "client_id": "client_id",
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "dob": "date_of_birth",
+    "ssn": "ssn_last4",
+    "encounter_date": null
+  },
+  "ssn_type": "last4",
+  "special": null
+}

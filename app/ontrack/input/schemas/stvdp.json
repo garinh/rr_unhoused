@@ -1,0 +1,25 @@
+{
+  "label": "St. Vincent de Paul (Ashland)",
+  "short_label": "ST. VINCENT DE PAUL",
+  "source_system": "STVDP",
+  "optional": true,
+  "client_file": "stvdp_clients.csv",
+  "services_file": "stvdp_services.csv",
+  "columns": {
+    "client_id": "client_id",
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "dob": "date_of_birth",
+    "ssn": "ssn_last4",
+    "encounter_date": "intake_date"
+  },
+  "ssn_type": "last4",
+  "special": null,
+  "services_columns": {
+    "encounter_id": "visit_id",
+    "client_id": "client_id",
+    "encounter_date": "service_date",
+    "service_category": "service_category",
+    "location_info": "location"
+  }
+}

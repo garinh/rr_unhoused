@@ -1,0 +1,101 @@
+participant_code,client_initials,birth_year,gender_code,zip_code,supplies_collected,narcan_distributed,encounter_date
+JCSSP-001,X.J.,2002,F,97501,Full Harm Reduction Supply,4,2026-09-19
+JCSSP-002,K.J.,1990,U,97504,Fentanyl Test Strips,6,2026-09-26
+JCSSP-003,M.P.,1972,M,97520,Full Harm Reduction Supply,0,2026-09-20
+JCSSP-004,S.W.,1962,U,97504,Fentanyl Test Strips,4,2026-09-01
+JCSSP-005,C.G.,1969,U,97520,Syringes & Works Kit,2,2026-09-07
+JCSSP-006,R.H.,1995,F,97504,Full Harm Reduction Supply,4,2026-09-26
+JCSSP-007,X.W.,1975,F,97502,Safe Storage & Sharps Container,2,2026-09-26
+JCSSP-008,T.R.,1970,M,97520,Safe Storage & Sharps Container,2,2026-09-26
+JCSSP-009,A.G.,2003,NB,97501,Fentanyl Test Strips,2,2026-09-09
+JCSSP-010,T.S.,1955,F,97501,Narcan / Naloxone Only,6,2026-09-03
+JCSSP-011,T.A.,2003,U,97501,Safe Storage & Sharps Container,2,2026-09-06
+JCSSP-012,K.S.,1993,M,97524,Syringes & Works Kit,0,2026-09-11
+JCSSP-013,X.J.,2003,NB,97504,Syringes & Works Kit,0,2026-09-09
+JCSSP-014,S.W.,2003,M,97501,Safe Storage & Sharps Container,2,2026-09-17
+JCSSP-015,R.P.,1956,F,97524,Syringes & Works Kit,6,2026-09-17
+JCSSP-016,R.A.,1970,F,97502,Syringes & Works Kit,0,2026-09-16
+JCSSP-017,M.M.,1997,F,97502,Fentanyl Test Strips,4,2026-09-17
+JCSSP-018,J.G.,1967,NB,97501,Fentanyl Test Strips,6,2026-09-14
+JCSSP-019,X.M.,1958,NB,97524,Fentanyl Test Strips,0,2026-09-07
+JCSSP-020,D.H.,1955,F,97520,Full Harm Reduction Supply,6,2026-09-18
+JCSSP-021,S.B.,2002,NB,97504,Narcan / Naloxone Only,4,2026-09-27
+JCSSP-022,J.S.,1962,NB,97504,Safe Storage & Sharps Container,6,2026-09-26
+JCSSP-023,J.T.,1980,M,97502,Safe Storage & Sharps Container,2,2026-09-11
+JCSSP-024,S.W.,1987,NB,97502,Narcan / Naloxone Only,4,2026-09-09
+JCSSP-025,K.S.,1997,M,97504,Syringes & Works Kit,0,2026-09-27
+JCSSP-026,S.P.,1968,NB,97502,Syringes & Works Kit,6,2026-09-13
+JCSSP-027,N.R.,1995,F,97501,Safe Storage & Sharps Container,2,2026-09-09
+JCSSP-028,J.W.,1992,F,97524,Safe Storage & Sharps Container,0,2026-09-06
+JCSSP-029,M.T.,1990,U,97520,Full Harm Reduction Supply,4,2026-09-24
+JCSSP-030,A.T.,1972,U,97520,Full Harm Reduction Supply,2,2026-09-25
+JCSSP-031,J.A.,1956,U,97501,Syringes & Works Kit,0,2026-09-08
+JCSSP-032,S.P.,1956,NB,97524,Full Harm Reduction Supply,2,2026-09-15
+JCSSP-033,P.D.,1979,M,97524,Safe Storage & Sharps Container,4,2026-09-05
+JCSSP-034,N.F.,1975,U,97524,Full Harm Reduction Supply,2,2026-09-28
+JCSSP-035,A.H.,1998,F,97501,Syringes & Works Kit,6,2026-09-06
+JCSSP-036,X.R.,1983,M,97524,Safe Storage & Sharps Container,6,2026-09-11
+JCSSP-037,X.M.,1969,M,97501,Safe Storage & Sharps Container,6,2026-09-05
+JCSSP-038,X.Y.,1980,U,97520,Syringes & Works Kit,4,2026-09-08
+JCSSP-039,E.T.,1962,U,97520,Syringes & Works Kit,0,2026-09-03
+JCSSP-040,M.L.,1971,M,97520,Narcan / Naloxone Only,0,2026-09-26
+JCSSP-041,N.L.,1989,F,97504,Syringes & Works Kit,0,2026-09-09
+JCSSP-042,P.W.,1981,NB,97524,Full Harm Reduction Supply,6,2026-09-26
+JCSSP-043,A.W.,2002,F,97520,Fentanyl Test Strips,6,2026-09-25
+JCSSP-044,B.H.,1984,F,97524,Fentanyl Test Strips,4,2026-09-20
+JCSSP-045,M.L.,1968,NB,97520,Safe Storage & Sharps Container,6,2026-09-06
+JCSSP-046,P.T.,1969,NB,97520,Fentanyl Test Strips,4,2026-09-02
+JCSSP-047,L.T.,1968,NB,97502,Full Harm Reduction Supply,6,2026-09-21
+JCSSP-048,X.J.,1974,U,97501,Fentanyl Test Strips,2,2026-09-28
+JCSSP-049,K.D.,1991,F,97501,Safe Storage & Sharps Container,6,2026-09-26
+JCSSP-050,X.W.,1995,U,97504,Safe Storage & Sharps Container,0,2026-09-24
+JCSSP-051,R.L.,1993,M,97504,Safe Storage & Sharps Container,2,2026-09-25
+JCSSP-052,C.S.,1961,U,97502,Full Harm Reduction Supply,0,2026-09-10
+JCSSP-053,B.T.,1984,F,97501,Safe Storage & Sharps Container,6,2026-09-02
+JCSSP-054,S.T.,1973,NB,97504,Syringes & Works Kit,0,2026-09-28
+JCSSP-055,Anon,1995,U,97524,Syringes & Works Kit,0,2026-09-19
+JCSSP-056,R.D.,1955,U,97520,Safe Storage & Sharps Container,0,2026-09-03
+JCSSP-057,M.W.,1982,F,97524,Full Harm Reduction Supply,2,2026-09-09
+JCSSP-058,J.P.,1968,U,97502,Full Harm Reduction Supply,2,2026-09-24
+JCSSP-059,N.T.,1956,U,97504,Syringes & Works Kit,4,2026-09-12
+JCSSP-060,M.K.,1971,M,97520,Fentanyl Test Strips,0,2026-09-03
+JCSSP-061,E.N.,1960,F,97502,Safe Storage & Sharps Container,6,2026-09-19
+JCSSP-062,S.A.,1986,NB,97502,Fentanyl Test Strips,0,2026-09-24
+JCSSP-063,D.T.,1997,M,97520,Safe Storage & Sharps Container,0,2026-09-26
+JCSSP-064,L.M.,1961,M,97524,Syringes & Works Kit,2,2026-09-11
+JCSSP-065,Anon,1995,M,97524,Full Harm Reduction Supply,4,2026-09-24
+JCSSP-066,W.J.,1988,U,97504,Fentanyl Test Strips,6,2026-09-19
+JCSSP-067,L.H.,1999,F,97501,Full Harm Reduction Supply,6,2026-09-24
+JCSSP-068,M.G.,1966,F,97524,Syringes & Works Kit,0,2026-09-14
+JCSSP-069,P.L.,1990,NB,97502,Narcan / Naloxone Only,4,2026-09-11
+JCSSP-070,J.K.,1974,M,97502,Syringes & Works Kit,0,2026-09-08
+JCSSP-071,J.T.,1995,NB,97524,Syringes & Works Kit,4,2026-09-06
+JCSSP-072,J.L.,1983,NB,97502,Narcan / Naloxone Only,0,2026-09-21
+JCSSP-073,L.L.,1972,NB,97504,Full Harm Reduction Supply,6,2026-09-12
+JCSSP-074,Anon,2000,NB,97524,Narcan / Naloxone Only,6,2026-09-27
+JCSSP-075,Anon,1974,F,97502,Narcan / Naloxone Only,6,2026-09-07
+JCSSP-076,J.M.,1970,U,97504,Narcan / Naloxone Only,4,2026-09-08
+JCSSP-077,S.D.,1993,F,97504,Narcan / Naloxone Only,6,2026-09-06
+JCSSP-078,A.L.,1988,F,97520,Narcan / Naloxone Only,4,2026-09-11
+JCSSP-079,M.T.,1986,F,97504,Safe Storage & Sharps Container,0,2026-09-27
+JCSSP-080,J.W.,1999,NB,97504,Narcan / Naloxone Only,2,2026-09-26
+JCSSP-081,C.Y.,1975,U,97504,Safe Storage & Sharps Container,4,2026-09-04
+JCSSP-082,J.T.,1972,M,97502,Fentanyl Test Strips,6,2026-09-20
+JCSSP-083,C.M.,1978,F,97504,Fentanyl Test Strips,2,2026-09-04
+JCSSP-084,T.W.,1979,NB,97502,Safe Storage & Sharps Container,4,2026-09-03
+JCSSP-085,M.R.,1958,F,97501,Narcan / Naloxone Only,6,2026-09-04
+JCSSP-086,J.T.,1969,M,97504,Narcan / Naloxone Only,0,2026-09-20
+JCSSP-087,S.H.,2002,U,97502,Narcan / Naloxone Only,2,2026-09-04
+JCSSP-088,J.T.,1979,M,97520,Narcan / Naloxone Only,0,2026-09-20
+JCSSP-089,L.S.,1976,F,97502,Fentanyl Test Strips,0,2026-09-16
+JCSSP-090,W.J.,1963,M,97502,Narcan / Naloxone Only,4,2026-09-27
+JCSSP-091,J.W.,1966,NB,97502,Full Harm Reduction Supply,4,2026-09-05
+JCSSP-092,A.S.,1987,M,97524,Safe Storage & Sharps Container,6,2026-09-15
+JCSSP-093,A.N.,1986,NB,97524,Full Harm Reduction Supply,6,2026-09-24
+JCSSP-094,B.T.,1992,F,97502,Fentanyl Test Strips,2,2026-09-03
+JCSSP-095,P.W.,1969,M,97502,Narcan / Naloxone Only,0,2026-09-02
+JCSSP-096,Anon,1958,U,97524,Syringes & Works Kit,2,2026-09-22
+JCSSP-097,M.L.,1965,F,97524,Fentanyl Test Strips,4,2026-09-08
+JCSSP-098,R.T.,1975,U,97502,Safe Storage & Sharps Container,2,2026-09-13
+JCSSP-099,P.W.,1988,NB,97504,Fentanyl Test Strips,0,2026-09-28
+JCSSP-100,D.R.,1970,U,97502,Syringes & Works Kit,2,2026-09-25

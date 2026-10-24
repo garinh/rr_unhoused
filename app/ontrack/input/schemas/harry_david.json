@@ -1,0 +1,17 @@
+{
+  "label": "HARRY_DAVID",
+  "short_label": "HARRY_DAVID",
+  "source_system": "HARRY_DAVID",
+  "optional": true,
+  "client_file": "harry_david_clients.csv",
+  "columns": {
+    "client_id": "hd_id",
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "dob": "birthday",
+    "ssn": "last_ssn",
+    "encounter_date": "enrollment_date"
+  },
+  "ssn_type": "last4",
+  "special": null
+}

@@ -1,0 +1,241 @@
+client_id,first_name,last_name,date_of_birth,ssn_last4,phone,gender,program_type,intake_date,primary_language,court_mandated,case_manager
+OT-000001,Mary,Baker,2007-08-23,4488,541-555-9082,F,Day Treatment,2024-05-16,English,N,E. Sandoval
+OT-000002,Elizabeth,Cox,07/23/1986,,cell: 541-555-3989,,Day Treatment,2025-03-13,English,N,I. Patel
+OT-000003,BRANDON,MORALES,05/16/1957,201,541-555-2843,M,Residential - Mountain View Recovery Center,2025-03-20,English,N,
+OT-000004,RAYMOND,MARTIN,2/17/73,967,(541) 555-7752,M,Residential - Dad's Program,2025-10-19,English,Y,H. Delgado
+OT-000005,George,Jones,1990-01-19,8279,(541) 555-7225,M,MIP Education,2024-04-17,English,Y,C. Okonkwo
+OT-000006,emily,jones,1/13/07,,(541) 555-4962,F,Outpatient SUD,2024-11-18,English,Y,D. Whitfield
+OT-000007,Susan,Cooper,2000-04-27,958,(541) 555-1475,F,Intensive Outpatient (IOP),2026-04-26,English,N,E. Sandoval
+OT-000008,Charles,Allen,1984-04-23,6815,(541) 555-8922,M,Intensive Outpatient (IOP),2024-05-10,English,N,D. Whitfield
+OT-000009,Daniel,Moore,2005-02-24,1480,,M,Residential - Mountain View Recovery Center,2025-11-15,English,N,E. Sandoval
+OT-000010,MICHAEL,YOUNG,7/21/76,609,5415556089,M,Outpatient SUD,2025-05-09,English,N,G. Harmon
+OT-000011,Eric,Thompson,1980-10-23,8979,(541) 555-4819,M,Day Treatment,2024-04-03,English,N,H. Delgado
+OT-000012,cynthia s.,bailey,12/08/2005,,541-555-7348,F,Bilingual SUD (Spanish),2024-11-03,Spanish,N,
+OT-000013,joshua,webb,2001-01-23,7338,541-555-6041,M,Intensive Outpatient (IOP),2025-06-16,English,N,I. Patel
+OT-000014,Aaron,Edwards,1975-09-28,6030,541-555-1543,M,DUII Education,2025-01-26,English,Y,I. Patel
+OT-000015,gary,lee,2003-10-20,1559,(541) 555-3091,M,Bilingual SUD (Spanish),2025-07-28,Spanish,N,M. Oduya
+OT-000016,Nicholas,Morgan,1998-05-18,865,,M,Transitional Housing,2025-12-18,English,N,K. Vasquez
+OT-000017,jacob,diaz,12/17/68,,(541) 555-1246,M,Residential - Dad's Program,2024-05-27,English,Y,E. Sandoval
+OT-000018,mark,harris,1986-01-01,,,M,Day Treatment,2026-03-19,English,N,K. Vasquez
+OT-000019,Stephen,Stewart,1981-04-13,4872,(541) 555-8745,M,DUII Education,2026-05-19,English,Y,J. Crowley
+OT-000020,Saraah,Williams,1985-03-15,,541-555-1705,F,Mental Health Outpatient,2025-11-29,English,N,F. Nguyen
+OT-000021,Kimberly,Perez,1961-11-22,3181,541-555-5666,F,Mental Health Outpatient,2026-01-26,English,N,G. Harmon
+OT-000022,robert,knight,2/24/59,7290,(541) 555-5457,M,Residential - Mountain View Recovery Center,2025-11-02,English,N,I. Patel
+OT-000023,Rebecca,Davis,2006-09-27,9203,(541) 555-1400,F,Outpatient SUD,2024-11-09,English,N,E. Sandoval
+OT-000024,Kimberly,Diaz,1/5/09,7906,541-555-3997,F,Bilingual SUD (Spanish),2026-03-26,Spanish,N,M. Oduya
+OT-000025,Matthew,Perez,07/22/1986,,,M,Outpatient SUD,2025-02-20,English,N,E. Sandoval
+OT-000026,Ronald,Adams,,105,,M,Intensive Outpatient (IOP),2025-10-07,English,N,
+OT-000027,tiffany,clark,03/10/1989,,(541) 555-5745,F,Mental Health Outpatient,2026-04-25,English,N,E. Sandoval
+OT-000028,Samantha,Hunt,1959-01-01,693,,F,MIP Education,2025-11-01,English,Y,
+OT-000029,Shirley,Carter,1988-01-30,,,F,Intensive Outpatient (IOP),2025-07-19,English,N,H. Delgado
+OT-000030,BEN,HARRIS,,413,,M,DUII Education,2025-04-04,English,Y,K. Vasquez
+OT-000031,Jonathan,Whitte,2010-02-19,9823,541-555-3238,M,Residential - Mountain View Recovery Center,2024-05-26,English,N,H. Delgado
+OT-000032,frank,williams,2000-10-15,8887,541-555-4572,M,Transitional Housing,2025-09-07,English,N,L. Strom
+OT-000033,Barbara,White,2004-06-13,6699,541-555-1961,F,Outpatient SUD,2024-11-18,English,N,B. Tanaka
+OT-000034,jesse,taylor,1990-10-01,5891,(541) 555-8089,M,Intensive Outpatient (IOP),2025-05-01,English,N,G. Harmon
+OT-000035,Patrick,Williams,12/1/67,469,,M,Residential - HOME Program,2026-02-03,English,N,A. Reeves
+OT-000036,Donna,Hernandez,UNKNOWN,1371,,,Residential - HOME Program,2024-06-15,English,N,
+OT-000037,Crystal,Cox,1987-11-28,6192,(541) 555-4210,F,DUII Education,2025-12-01,English,Y,C. Okonkwo
+OT-000038,george,moore,1986-05-17,7030,(541) 555-2683,M,DUII Education,2024-06-01,English,Y,E. Sandoval
+OT-000039,Kenneth,Evans,01/22/1991,9711,541-555-9445,M,MIP Education,2026-03-07,Spanish,Y,M. Oduya
+OT-000040,jeffrey,collins,UNKNOWN,,,M,Outpatient SUD,2024-02-23,English,N,G. Harmon
+OT-000041,sarah,sanchez,1956-07-04,2908,541-555-4998,F,Transitional Housing,2025-10-23,English,N,B. Tanaka
+OT-000042,Nicholas,Scott,2006-09-25,2696,541-555-9938,M,Day Treatment,2024-07-17,English,N,I. Patel
+OT-000043,Linda,Lopez,11/14/08,2307,5415552063,F,Outpatient SUD,2026-04-15,English,N,A. Reeves
+OT-000044,JERRY,IKNG,1959-04-19,9521,5415556294,,Outpatient SUD,2026-03-01,English,N,G. Harmon
+OT-000045,Amy,Scott,1986-08-06,7512,541-555-9264,F,Transitional Housing,2025-02-11,English,Y,K. Vasquez
+OT-000046,KEVIN,PARKER,1969-12-06,,5415555003,M,Mental Health Outpatient,2025-05-27,English,N,L. Strom
+OT-000047,Nicholas,Simpson,01/30/1969,,,M,Outpatient SUD,2025-12-23,English,N,E. Sandoval
+OT-000048,Stephanie,Thompson,7/28/57,8696,5415555647,F,Intensive Outpatient (IOP),2024-07-16,English,N,G. Harmon
+OT-000049,scott,cox,1974-04-02,2564,(541) 555-5938,M,Outpatient SUD,2025-09-24,English,Y,F. Nguyen
+OT-000050,Heather,Smih,1991-08-09,4522,541-555-2337,F,MIP Education,2024-09-12,English,Y,K. Vasquez
+OT-000051,Betty,King,1992-06-27,1529,5415554628,F,Mental Health Outpatient,2024-01-13,English,N,E. Sandoval
+OT-000052,edward,hill,11/14/1977,7270,541-555-7279,M,Intensive Outpatient (IOP),2025-07-29,English,N,C. Okonkwo
+OT-000053,Samuel,Martinez,1956-12-23,,(541) 555-8354,M,MIP Education,2026-01-26,English,Y,E. Sandoval
+OT-000054,Thomas,Ferguson,1985-06-05,8909,(541) 555-7467,M,Transitional Housing,2025-12-11,English,N,K. Vasquez
+OT-000055,DAN,GUTIERREZ,1982-08-10,,,M,Outpatient SUD,2026-04-17,English,N,L. Strom
+OT-000056,Nicholas,Walker,1/18/03,235,,M,Day Treatment,2025-04-21,English,Y,J. Crowley
+OT-000057,Patrick,Martin,1991-06-07,3330,541-555-7650,M,Transitional Housing,2024-03-20,English,N,D. Whitfield
+OT-000058,RAYMOND,REYES,2000-02-18,2399,(541) 555-5822,M,Transitional Housing,2025-03-17,English,Y,I. Patel
+OT-000059,Jack,Edwards,1956-06-24,9200,541-555-6123,M,Transitional Housing,2025-08-20,English,N,K. Vasquez
+OT-000060,Thomas,Smith,1970-04-19,,,M,Intensive Outpatient (IOP),2025-04-30,English,N,A. Reeves
+OT-000061,Ryan,Hunt,04/11/1959,,5415552082,M,DUII Education,2025-04-17,English,Y,K. Vasquez
+OT-000062,Kimberly,Ramos,1989-12-03,9484,(541) 555-4623,F,Mental Health Outpatient,2025-08-29,English,N,A. Reeves
+OT-000063,Linda,Rodriguez,08/18/1987,7125,,F,Residential - HOME Program,2025-03-25,English,N,L. Strom
+OT-000064,susan,cook,UNKNOWN,REFUSED,5415552991,,Bilingual SUD (Spanish),2024-03-28,Spanish,N,M. Oduya
+OT-000065,Linda,Davis,1991-04-07,6528,cell: 541-555-5730,,Bilingual SUD (Spanish),2025-04-07,Spanish,N,
+OT-000066,Janet,Garcia,1979-11-23,,(541) 555-2544,F,Day Treatment,2025-02-22,English,Y,J. Crowley
+OT-000067,BRANDY,JONES,1987-03-28,,,F,Day Treatment,2025-05-04,English,N,D. Whitfield
+OT-000068,anthony,webb,1967-12-13,8365,541-555-4645,M,DUII Education,2026-01-30,English,Y,I. Patel
+OT-000069,RYAN,PHILLIPS,10/11/91,4416,5415559288,M,DUII Education,2025-05-18,English,Y,F. Nguyen
+OT-000070,THOMAS,RAMOS,2005-10-21,3302,541-555-1720,M,Outpatient SUD,2024-11-19,English,N,H. Delgado
+OT-000071,pamela,cooper,1975-01-21,7519,(541) 555-4184,F,Intensive Outpatient (IOP),2025-06-04,English,Y,I. Patel
+OT-000072,Kenny,Knight,UNKNOWN,945,,M,Outpatient SUD,2024-04-11,English,N,
+OT-000073,NICHOLAS,FERGUSON,1973-12-26,,541-555-6821,M,Mental Health Outpatient,2025-06-12,English,N,C. Okonkwo
+OT-000074,Sharon,Gonzalez,2006-04-14,2969,541-555-6825,F,Outpatient SUD,2024-10-15,English,N,A. Reeves
+OT-000075,Mick,Wilson,1983-09-25,REFUSED,541-555-1125,M,Day Treatment,2026-05-03,English,N,B. Tanaka
+OT-000076,WILLY,PEREZ,,,cell: 541-555-9289,M,Residential - Mountain View Recovery Center,2025-11-09,English,N,L. Strom
+OT-000077,Dottie,Webb,1987-01-04,REFUSED,5415553647,F,Day Treatment,2024-10-22,English,N,
+OT-000078,Charles,Robinson,2005-06-30,7195,(541) 555-4997,M,Day Treatment,2025-12-31,English,N,C. Okonkwo
+OT-000079,thomas,brooks,6/14/97,2523,5415551120,M,DUII Education,2025-06-11,English,Y,H. Delgado
+OT-000080,Emily,Ramos,10/24/72,8903,541-555-5332,F,Residential - Mountain View Recovery Center,2025-08-09,English,N,A. Reeves
+OT-000081,laura,williams,12/12/77,,,,MIP Education,2025-03-17,English,Y,A. Reeves
+OT-000082,kenneth,morgan,1977-05-26,1092,541-555-4418,M,Intensive Outpatient (IOP),2025-05-26,English,N,G. Harmon
+OT-000083,JACOB,EDWARDS,1962-02-03,5974,,M,DUII Education,2025-08-30,English,Y,F. Nguyen
+OT-000084,raymond,garcia,08/14/1993,200,(541) 555-1767,M,Residential - HOME Program,2025-11-13,English,Y,H. Delgado
+OT-000085,Jack,Sanchez,1988-12-26,9050,541-555-8217,M,Residential - Dad's Program,2026-04-09,English,N,F. Nguyen
+OT-000086,Tyler,Ramirez,12/23/1970,4395,,M,Intensive Outpatient (IOP),2025-07-10,English,N,E. Sandoval
+OT-000087,Deb,Turnre,1970-06-18,209,,F,Transitional Housing,2025-07-14,English,N,G. Harmon
+OT-000088,JOSEPH,COOK,2003-07-25,7085,541-555-3672,M,DUII Education,2025-04-16,English,Y,L. Strom
+OT-000089,Lisa,Scott,1995-04-19,2192,(541) 555-8494,F,Outpatient SUD,2024-04-11,English,N,H. Delgado
+OT-000090,KIMBERLY,RIVERA,9/18/99,,(541) 555-2362,F,Outpatient SUD,2024-06-14,English,N,C. Okonkwo
+OT-000091,Mark,Ward,2006-02-22,7331,541-555-4762,M,MIP Education,2024-01-22,English,Y,H. Delgado
+OT-000092,Jeffrey,Ferguson,4/18/10,4372,541-555-6632,M,Day Treatment,2024-11-28,English,N,A. Reeves
+OT-000093,Sarah,Rivera,06/12/1981,,541-555-5367,F,Intensive Outpatient (IOP),2025-07-10,English,N,C. Okonkwo
+OT-000094,brenda,bailey,1960-05-27,4236,(541) 555-6651,F,Mental Health Outpatient,2026-02-25,Spanish,N,M. Oduya
+OT-000095,MARY,HALL,1991-04-01,,(541) 555-5249,F,Day Treatment,2026-05-28,English,N,E. Sandoval
+OT-000096,Gary,Kelly,2010-10-19,9573,(541) 555-8872,M,Day Treatment,2025-07-06,Spanish,N,M. Oduya
+OT-000097,Aaron,Diaz,2007-03-18,7387,541-555-7582,M,Outpatient SUD,2025-10-02,English,Y,G. Harmon
+OT-000098,Kenneth,Brooks,1982-06-10,9998,(541) 555-5812,M,DUII Education,2024-01-27,English,Y,D. Whitfield
+OT-000099,BARBARA,MORALES,1960-10-26,9493,541-555-3492,F,DUII Education,2026-03-17,English,Y,C. Okonkwo
+OT-000100,DANIEL,SANCHEZ,1963-02-17,5078,(541) 555-3103,M,Residential - Dad's Program,2024-03-08,English,N,D. Whitfield
+OT-000101,Larry,Perez,04/13/1991,4658,5415552638,M,Bilingual SUD (Spanish),2025-02-08,Spanish,N,M. Oduya
+OT-000102,BRANDON,NELSON,2008-11-24,3391,541-555-3342,M,Residential - Mountain View Recovery Center,2024-07-27,English,N,B. Tanaka
+OT-000103,Stephen,Knight,1989-01-22,3638,(541) 555-4126,M,Outpatient SUD,2024-04-02,English,Y,D. Whitfield
+OT-000104,Joseph,Evans,1961-07-10,8695,541-555-2491,M,Day Treatment,2024-11-25,English,N,A. Reeves
+OT-000105,Lisa,Jackson,4/24/69,382,5415558798,F,DUII Education,2025-11-11,Spanish,Y,M. Oduya
+OT-000106,sam,lewis,2006-07-18,4804,(541) 555-1712,M,DUII Education,2025-04-06,English,Y,E. Sandoval
+OT-000107,Benjamin N.,Flores,7/5/79,REFUSED,,M,Residential - Dad's Program,2025-02-10,English,N,
+OT-000108,daniel,green,1980-09-10,4517,(541) 555-4796,M,DUII Education,2025-10-11,English,Y,L. Strom
+OT-000109,aDvid,Martinez,1988-05-14,6253,(541) 555-7910,M,Day Treatment,2025-01-12,English,Y,J. Crowley
+OT-000110,Maria,Adamms,01/09/1991,,,F,Intensive Outpatient (IOP),2024-11-11,English,N,
+OT-000111,NICOLE,WHITE,2000-03-29,567,541-555-3349,,DUII Education,2024-01-09,English,Y,J. Crowley
+OT-000112,gregory,flores,04/09/2001,393,541-555-8308,M,Residential - Mountain View Recovery Center,2025-07-19,English,N,L. Strom
+OT-000113,Sandy,Crruz,UNKNOWN,,,F,Intensive Outpatient (IOP),2025-08-25,English,N,B. Tanaka
+OT-000114,debbie,martin,,,5415552838,F,Day Treatment,2024-12-27,Spanish,N,
+OT-000115,Nicholas,Evans,05/12/1976,689,,,DUII Education,2024-01-09,English,Y,B. Tanaka
+OT-000116,BRANDON,DIAZ,2006-05-24,8090,541-555-7008,M,DUII Education,2024-05-10,English,Y,G. Harmon
+OT-000117,crystal,lewis,8/24/73,1656,5415553336,F,Outpatient SUD,2025-04-26,English,N,H. Delgado
+OT-000118,Aaron,Martinez,1993-09-16,2829,5415559401,M,Day Treatment,2024-09-19,English,N,A. Reeves
+OT-000119,Elizabeth,Ramos,6/8/77,8439,5415551741,F,DUII Education,2025-11-30,English,Y,A. Reeves
+OT-000120,paul,morgan,1978-02-02,4602,541-555-7559,M,DUII Education,2025-02-25,Spanish,Y,M. Oduya
+OT-000121,KENNY,FIELDS,06/12/1957,,cell: 541-555-3904,M,Residential - Mountain View Recovery Center,2025-04-07,Spanish,N,M. Oduya
+OT-000122,MATTHEW B.,MORALES,2009-11-08,893,,M,Residential - Mountain View Recovery Center,2025-09-20,English,N,A. Reeves
+OT-000123,Benjamin E.,Turner,UNKNOWN,4720,541-555-1408,M,MIP Education,2026-02-18,English,Y,C. Okonkwo
+OT-000124,Laura,Hall,1995-09-19,,(541) 555-2423,F,Intensive Outpatient (IOP),2025-11-14,English,N,F. Nguyen
+OT-000125,Katherine,Garcia,1978-07-29,720,,F,Bilingual SUD (Spanish),2025-10-29,Spanish,Y,M. Oduya
+OT-000126,Aaron,Cooper,12/30/1989,4094,(541) 555-1207,M,Mental Health Outpatient,2025-09-25,Spanish,N,M. Oduya
+OT-000127,Michelle,Keelly,UNKNOWN,,,,Residential - Dad's Program,2025-02-13,English,N,G. Harmon
+OT-000128,michelle,reyes,3/17/92,9291,541-555-5747,F,Day Treatment,2025-10-27,English,N,I. Patel
+OT-000129,steve,flores,UNKNOWN,,5415558097,M,Outpatient SUD,2025-11-10,English,N,
+OT-000130,tyler,rivera,4/7/86,3258,5415557908,M,DUII Education,2024-01-18,English,Y,H. Delgado
+OT-000131,Brandy,Ramirez,UNKNOWN,,,F,Day Treatment,2024-03-08,English,N,
+OT-000132,Eric,Bailye,1956-01-01,899,,M,DUII Education,2024-09-09,English,Y,L. Strom
+OT-000133,Frank,Simpson,10/08/1974,,,M,Intensive Outpatient (IOP),2026-04-21,English,Y,D. Whitfield
+OT-000134,Rboert,Brown,1965-08-19,846,5415553409,,DUII Education,2025-04-01,English,Y,L. Strom
+OT-000135,TOM,WARD,11/10/71,8008,541-555-4408,M,Transitional Housing,2025-11-15,English,N,I. Patel
+OT-000136,Sharon,Cook,6/1/05,942,(541) 555-5552,F,Residential - Mountain View Recovery Center,2025-04-14,English,N,F. Nguyen
+OT-000137,Stephanie,Morales,1962-05-09,6828,541-555-4178,F,Outpatient SUD,2026-03-31,English,N,H. Delgado
+OT-000138,Ben,Moore,1995-01-06,2975,(541) 555-6529,M,Outpatient SUD,2024-09-26,English,N,L. Strom
+OT-000139,william,lee,1957-04-20,9773,541-555-1017,M,Outpatient SUD,2025-03-04,English,N,J. Crowley
+OT-000140,AARON,LOPEZ,2/9/60,271,,M,Day Treatment,2024-03-08,English,N,G. Harmon
+OT-000141,Kathleen,Hall,1998-10-25,9538,(541) 555-9809,F,Transitional Housing,2026-03-02,English,N,F. Nguyen
+OT-000142,brandy,reed,1975-02-09,1427,541-555-7000,F,Transitional Housing,2024-05-25,Spanish,N,M. Oduya
+OT-000143,Gregory,Turner,2001-06-19,1441,(541) 555-5183,M,Day Treatment,2024-03-25,English,N,H. Delgado
+OT-000144,Amy,Johnson,7/20/62,769,cell: 541-555-8089,F,Residential - Dad's Program,2026-05-02,English,N,
+OT-000145,Deborah,Jones,1970-04-18,9280,5415556432,F,DUII Education,2025-12-28,English,Y,E. Sandoval
+OT-000146,JOSHUA P.,MORALES,02/27/1990,REFUSED,5415555767,,MIP Education,2024-06-17,Spanish,Y,
+OT-000147,steven,evans,07/05/1983,,541-555-1355,M,DUII Education,2025-08-29,English,Y,F. Nguyen
+OT-000148,STEPHANIE,REYES,2008-11-08,929,,F,Outpatient SUD,2024-07-01,Spanish,N,M. Oduya
+OT-000149,ronald,rodriguez,1958-10-04,2592,541-555-5159,M,Transitional Housing,2024-05-11,English,N,C. Okonkwo
+OT-000150,SUSAN,REED,1980-11-15,REFUSED,,F,Transitional Housing,2025-07-30,English,N,G. Harmon
+OT-000151,Andrew,Jones,2007-10-04,7859,541-555-7109,M,Residential - Mountain View Recovery Center,2026-02-24,English,N,E. Sandoval
+OT-000152,lisa,jones,1978-09-01,8631,(541) 555-6579,F,Outpatient SUD,2025-08-13,English,N,E. Sandoval
+OT-000153,FRANK,CARTER,1992-09-25,5094,(541) 555-6388,M,Intensive Outpatient (IOP),2025-07-13,English,N,L. Strom
+OT-000154,Samuel,Anderson,2010-04-25,827,,M,Intensive Outpatient (IOP),2025-02-11,English,N,G. Harmon
+OT-000155,Michelle,Cook,1990-02-16,4907,(541) 555-1506,F,Day Treatment,2025-05-25,Spanish,N,M. Oduya
+OT-000156,joey,parker,1967-06-16,4897,5415555317,M,Intensive Outpatient (IOP),2025-07-27,English,N,I. Patel
+OT-000157,tricia,lewis,2007-01-17,REFUSED,,F,Residential - Mountain View Recovery Center,2025-01-04,English,N,K. Vasquez
+OT-000158,kathleen,kelly,,,,,Bilingual SUD (Spanish),2024-10-21,Spanish,N,M. Oduya
+OT-000159,CHRISTINE,FERGUSON,1993-11-13,4861,(541) 555-9439,F,Outpatient SUD,2026-01-21,English,N,C. Okonkwo
+OT-000160,jeffrey,king,1975-03-11,6042,(541) 555-7148,M,Day Treatment,2025-06-08,English,N,A. Reeves
+OT-000161,Ryan,White,1985-06-26,1995,(541) 555-6445,M,Transitional Housing,2025-10-03,English,N,K. Vasquez
+OT-000162,Aaron,Ortiz,8/28/57,1863,5415559243,M,Bilingual SUD (Spanish),2026-02-20,Spanish,N,M. Oduya
+OT-000163,robert,tylor,1957-09-09,6518,,M,Day Treatment,2025-08-26,English,N,
+OT-000164,kimberly,phillips,1999-10-09,177,(541) 555-4274,F,Outpatient SUD,2026-03-19,English,N,J. Crowley
+OT-000165,heather,rivera,1975-03-13,1124,541-555-9933,F,Mental Health Outpatient,2025-09-08,English,N,E. Sandoval
+OT-000166,Ronald,Rogers,,,541-555-2166,M,Residential - Dad's Program,2025-05-05,English,N,D. Whitfield
+OT-000167,Larry,Kim,10/15/1980,3884,541-555-8136,M,Outpatient SUD,2025-03-17,English,N,G. Harmon
+OT-000168,ANDREW,PARKER,10/24/1994,239,,M,Transitional Housing,2026-05-21,English,N,E. Sandoval
+OT-000169,Jose,Parker,1980-09-25,6235,(541) 555-7976,M,DUII Education,2025-08-05,English,Y,G. Harmon
+OT-000170,SAMUEL,ROGERS,1/31/72,354,5415554286,M,Mental Health Outpatient,2025-10-28,English,N,H. Delgado
+OT-000171,Stephen,Hall,1995-06-26,2610,541-555-7131,M,Intensive Outpatient (IOP),2025-11-23,English,N,G. Harmon
+OT-000172,Jonathan,Moore,1978-10-01,2561,(541) 555-7376,M,Mental Health Outpatient,2024-05-01,English,N,B. Tanaka
+OT-000173,donna,taylor,1987-02-06,9178,(541) 555-7194,F,Intensive Outpatient (IOP),2024-09-21,English,Y,I. Patel
+OT-000174,Laura,Hanson,1966-02-20,7547,541-555-9472,F,Residential - Dad's Program,2024-01-09,Spanish,N,M. Oduya
+OT-000175,Jonathan,Cruz,04/16/1968,1789,5415557186,M,DUII Education,2025-01-23,English,Y,
+OT-000176,amy,smith,1997-06-21,3192,541-555-5376,F,Bilingual SUD (Spanish),2024-01-25,Spanish,N,M. Oduya
+OT-000177,frank,burke,2006-08-08,,(541) 555-7903,M,Intensive Outpatient (IOP),2024-10-05,Spanish,N,M. Oduya
+OT-000178,Adam,Roberts,1977-11-26,2112,(541) 555-2543,M,Residential - HOME Program,2024-07-08,Spanish,N,M. Oduya
+OT-000179,benjamin,jones,1959-10-17,1406,(541) 555-1360,M,Outpatient SUD,2024-04-15,English,N,B. Tanaka
+OT-000180,kevin,morales,11/06/1984,,,,Residential - Dad's Program,2024-07-07,English,N,J. Crowley
+OT-000181,BRANDY,KELLY,1995-04-20,6823,(541) 555-4949,F,DUII Education,2025-01-11,English,Y,B. Tanaka
+OT-000182,tyler,johnson,1975-02-15,4504,(541) 555-8351,M,Residential - Mountain View Recovery Center,2026-01-20,English,N,A. Reeves
+OT-000183,JANET,SMITH,07/18/1992,2948,,F,DUII Education,2024-12-15,English,Y,C. Okonkwo
+OT-000184,Maria,Garcia,1992-06-30,9342,(541) 555-7236,M,DUII Education,2025-12-13,English,Y,F. Nguyen
+OT-000185,SHARON,RAMOS,1996-10-21,6490,541-555-4573,F,Intensive Outpatient (IOP),2026-02-03,English,N,B. Tanaka
+OT-000186,Christine,Lee,1975-10-12,2449,5415551240,F,Outpatient SUD,2026-01-15,English,N,I. Patel
+OT-000187,REBECCA,ORTIZ,1996-08-28,7159,541-555-3702,F,Residential - Mountain View Recovery Center,2025-10-29,English,N,E. Sandoval
+OT-000188,Dorothy,Morales,1968-08-04,1973,541-555-9903,F,Day Treatment,2024-08-05,English,N,C. Okonkwo
+OT-000189,James,Johnson,11/02/1978,5783,(541) 555-5882,F,DUII Education,2025-07-23,English,Y,F. Nguyen
+OT-000190,Dorothy,Taylor,1975-12-18,4215,(541) 555-6386,F,Mental Health Outpatient,2025-03-17,English,N,I. Patel
+OT-000191,George,Morris,1959-10-24,1892,(541) 555-2825,M,Outpatient SUD,2025-12-12,English,N,G. Harmon
+OT-000192,david,perez,1979-06-12,6352,541-555-8090,M,Intensive Outpatient (IOP),2024-08-15,English,N,J. Crowley
+OT-000193,Brandon,Miller,1959-11-30,8923,(541) 555-6108,M,Intensive Outpatient (IOP),2024-01-09,English,Y,I. Patel
+OT-000194,ADAM,HANSON,1958-09-20,7601,541-555-6901,M,Transitional Housing,2025-05-11,English,N,K. Vasquez
+OT-000195,samantha,thomas,1967-05-25,409,(541) 555-7175,F,Residential - Mountain View Recovery Center,2025-10-11,English,Y,G. Harmon
+OT-000196,rachel b.,morales,UNKNOWN,494,,,MIP Education,2024-07-10,English,Y,
+OT-000197,Susan,Martin,1973-04-08,5231,541-555-7624,F,Outpatient SUD,2024-12-03,English,N,H. Delgado
+OT-000198,Maria,Kim,1960-01-20,7879,(541) 555-5576,F,DUII Education,2025-10-14,Spanish,Y,M. Oduya
+OT-000199,ashley,williams,12/11/1987,,,F,Mental Health Outpatient,2024-02-05,English,N,A. Reeves
+OT-000200,Michelle,Hall,1959-01-14,4238,(541) 555-1212,F,Outpatient SUD,2024-08-03,English,N,D. Whitfield
+OT-000201,jessica,thomas,1962-01-01,,cell: 541-555-9563,F,Mental Health Outpatient,2025-02-25,English,N,B. Tanaka
+OT-000202,Mark,Collins,11/28/1960,,541-555-7417,M,Residential - HOME Program,2024-02-21,English,N,L. Strom
+OT-000203,Gregory,Evans,1962-08-07,9865,541-555-1857,M,Transitional Housing,2025-09-29,English,N,K. Vasquez
+OT-000204,Julie,Morales,2001-11-20,3075,(541) 555-9429,F,Residential - HOME Program,2024-06-23,English,Y,J. Crowley
+OT-000205,Brenda,Simpson,3/15/07,763,,F,Intensive Outpatient (IOP),2024-04-09,English,N,I. Patel
+OT-000206,LARRY,ANDERSON,1990-04-30,9913,541-555-5517,M,MIP Education,2025-12-03,English,Y,D. Whitfield
+OT-000207,Jose,Howard,1978-11-16,9890,(541) 555-3708,M,Intensive Outpatient (IOP),2024-03-13,English,N,F. Nguyen
+OT-000208,Paul,Walker,UNKNOWN,,,M,Intensive Outpatient (IOP),2025-01-19,English,N,A. Reeves
+OT-000209,CAROL,BAILEY,3/24/79,,541-555-5685,F,MIP Education,2024-02-24,Spanish,Y,M. Oduya
+OT-000210,dan,baker,1978-08-12,116,541-555-6553,M,DUII Education,2024-01-19,English,Y,C. Okonkwo
+OT-000211,CATHERINE J.,CRUZ,,,,F,Outpatient SUD,2025-01-20,English,N,K. Vasquez
+OT-000212,ADAM,GREEN,1975-08-22,939,,M,Residential - Mountain View Recovery Center,2025-05-22,English,N,H. Delgado
+OT-000213,George,Taylor,1982-12-06,6951,541-555-6753,M,Residential - Dad's Program,2024-12-25,English,N,K. Vasquez
+OT-000214,BENJAMIN,HALL,8/27/73,,541-555-3282,M,Mental Health Outpatient,2024-09-06,English,N,F. Nguyen
+OT-000215,LAURA,ROBERTS,1981-02-07,7455,(541) 555-3862,F,Day Treatment,2026-02-16,Spanish,N,M. Oduya
+OT-000216,GEORGE,BURKE,1975-09-21,9199,(541) 555-1152,M,Residential - Dad's Program,2025-02-08,English,N,C. Okonkwo
+OT-000217,EDWARD,REED,1982-04-05,7500,(541) 555-9033,M,Residential - HOME Program,2026-05-02,English,Y,B. Tanaka
+OT-000218,Mel,Gonzalez,05/09/1990,,5415557452,F,Bilingual SUD (Spanish),2024-09-18,Spanish,N,M. Oduya
+OT-000219,CATHERINE,SMITH,1987-07-03,9109,541-555-4273,F,Residential - HOME Program,2024-09-15,English,N,E. Sandoval
+OT-000220,Travis,Cooper,1970-05-25,7415,541-555-6036,M,Bilingual SUD (Spanish),2026-04-30,Spanish,N,M. Oduya
+OT-000221,JENNIFER,SMITH,1993-07-10,2087,(541) 555-6354,F,Mental Health Outpatient,2025-05-13,English,N,J. Crowley
+OT-000222,DANIEL,HILL,1990-12-07,6839,(541) 555-9996,M,Residential - Mountain View Recovery Center,2024-11-20,English,Y,I. Patel
+OT-000223,raymond,morgan,1999-05-07,REFUSED,,M,Transitional Housing,2026-01-10,English,N,E. Sandoval
+OT-000224,shirley,nelson,2008-09-21,5410,(541) 555-5842,F,Intensive Outpatient (IOP),2024-12-08,English,N,B. Tanaka
+OT-000225,GARY,DIAZ,1995-09-12,4002,541-555-5930,M,Transitional Housing,2025-12-20,English,N,B. Tanaka
+OT-000226,aKren,Jones,12/01/1975,,,M,Outpatient SUD,2024-12-15,English,N,F. Nguyen
+OT-000227,SHARON,SIMPSON,4/17/92,3605,5415559366,F,DUII Education,2024-03-14,English,Y,E. Sandoval
+OT-000228,jonathan,harris,1981-03-27,8133,(541) 555-3585,M,DUII Education,2024-08-14,English,Y,H. Delgado
+OT-000229,Larry,Brown,2009-05-13,2641,5415552777,M,Intensive Outpatient (IOP),2024-09-16,English,N,I. Patel
+OT-000230,KATHLEEN,YOUNG,1992-02-26,3295,(541) 555-3401,F,Outpatient SUD,2026-02-27,English,N,C. Okonkwo
+OT-000231,Nicholas,Calrk,07/06/2005,,cell: 541-555-6237,,Outpatient SUD,2024-08-12,English,N,A. Reeves
+OT-000232,jennifer,evans,6/15/80,4222,,F,Bilingual SUD (Spanish),2024-09-05,Spanish,N,M. Oduya
+OT-000233,ELIZABETH,THOMPSON,05/29/1977,157,5415552389,F,DUII Education,2025-03-08,English,Y,G. Harmon
+OT-000234,Laura,Stewart,1992-03-20,5475,(541) 555-3383,F,Residential - Dad's Program,2025-07-29,English,N,K. Vasquez
+OT-000235,Robert,Garcia,5/31/07,,(541) 555-3782,M,Day Treatment,2025-02-06,English,N,L. Strom
+OT-000236,Melissa,Wright,8/10/72,4969,541-555-1491,F,Residential - HOME Program,2024-02-04,English,N,A. Reeves
+OT-000237,WILLIAM,MORGAN,5/24/63,249,541-555-1053,M,Day Treatment,2024-01-27,English,N,J. Crowley
+OT-000238,William,Sanchez,11/15/76,8177,(541) 555-3248,M,Outpatient SUD,2024-03-02,English,N,D. Whitfield
+OT-000239,Jerry,Hanson,02/05/1963,,,M,Residential - Mountain View Recovery Center,2025-08-07,English,N,
+OT-000240,MANDY,MARTIN,2000-02-22,7248,541-555-7963,F,DUII Education,2025-08-18,English,Y,G. Harmon
