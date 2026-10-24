@@ -1,0 +1,47 @@
+HUD PIC Guidelines Note
+
+Beginning January 1, 2027, HUD requires full HOTMA Sections 102 and 104 compliance for applicable PHAs through the Inventory Management System/PIH Information Center (IMS/PIC).
+
+Key IMS/PIC and HOTMA Guidelines
+
+• Enforcement & Preparation: Per Notice PIH 2026-15, transactions effective January 1, 2027 onward must follow HOTMA rules, with income collection under new policies starting in September 2026 for reexaminations 120 days prior.
+• Form HUD-50058: Systems are updating to the 2024 Form HUD-50058, with fallback reporting instructions available using the 2020 form if software isn't ready. Standard submission timelines remain within 60 days of the effective action date.
+• Certifications & Compliance: FFY 2026 Capital Fund inventory certifications run through August with a June 30 reporting date, and citizenship verification via the EIV-SAVE report requires a 30-day turnaround.
+Would you like more details on HOTMA income calculation changes, Form HUD-50058 alternative reporting instructions, or IMS/PIC error message overrides?
+• 
+U.S. Department of Housing and Urban Development (HUD) (.gov)
+Notice PIH 2026-15 - HUD
+Starting on January 1, 2027, HUD will enforce compliance with all provisions of sections 102 and 104 of HOTMA for all PHAs except ...
+• 
+Nan McKay
+Processing 50058s in Accordance with Notice PIH 2026 15
+HUD is currently updating IMS/PIC to allow submission of the 2024 version of Form HUD-50058. PHAs unable to convert their software...
+• 
+U.S. Department of Housing and Urban Development (HUD) (.gov)
+Capital Fund Processing Information - HUD
+the annual PIC Certification process will run from July 7 through August 29, 2025. The “reporting date” for this round of certific...
+Show all
+
+what information is available online with regard to meeting PIC guidelines and the reasons the guidelines are commonly not met?
+
+Meeting HUD’s IMS/PIC (PIH Information Center) guidelines is essential for Public Housing Agencies (PHAs). Guidance from HUD Exchange and industry analysis reveals the structure for maintaining compliance and why agencies commonly fall short.
+
+Meeting PIC Guidelines: How Compliance Works
+
+To successfully meet guidelines, PHAs must transmit accurate, electronic Form HUD-50058 records into the IMS/PIC database. Compliance relies on meeting strict operational triggers:
+• The 60-Day Submission Rule: Every major tenant event (initial intake, annual reexaminations, portability moves, or interims) must be successfully uploaded within 60 calendar days of the action’s effective date.
+• Chronological Order Requirements: PIC requires strict transactional sequencing. A PHA cannot submit a historical or corrective record if a separate action with a later effective date has already been accepted for that household.
+• Active Monitoring via Dashboards: Compliant agencies use weekly IMS/PIC Fatal Error Dashboards to monitor data rejects and spot overdue annual reexaminations before they impact scores.
+
+Common Reasons Guidelines Are Not Met
+
+When PHAs fail to meet PIC guidelines, it generally stems from critical administrative errors or technical gridlocks within Form 50058 processing:
+
+Reason for Non-Compliance	Operational Impact & Common Error Trigger
+"Fatal Errors" in Data	Inaccurate data causes HUD’s system to reject the entire record. Common examples include Error 4174 (mismatched tenant names), Error 4182 (a tenant mistakenly active at two PHAs simultaneously), or basic invalid formatting like broken ZIP codes.
+Out-of-Sequence Updates	Trying to fix an older file after a newer certification has already been uploaded triggers Error 4080 (record with a later effective date). This creates a technical bottleneck that blocks future submissions.
+The New eVMS Funding Link	Under HUD's transition to the Electronic Voucher Management System (eVMS), late or errored PIC submissions now directly limit an agency's Housing Assistance Payments (HAP) funding. Deficits force agencies to pull from limited administrative reserves.
+Identity Verification Lag	Social Security Numbers (SSNs) or Alternate IDs fail validation checks against Social Security Administration (SSA) databases, stopping tenant data from registering in the system.
+Software Misalignments	Disconnects between the PHA's local system of record and the federal IMS/PIC platform frequently result in corrupted files during the transmission process.
+
+Would you like assistance troubleshooting a specific PIC error code (like 4174 or 4080), or would you like to review strategies for navigating eVMS funding impacts?
