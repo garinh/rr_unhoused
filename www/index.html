@@ -3,97 +3,194 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RUC - Rogue Unhoused Count</title>
-    <!-- Tailwind CSS for styling to replicate the clean, modern look -->
+    <title>Presentation</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Google Fonts: Inter to mimic clean sans-serif Streamlit typography -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
+        /* Hide scrollbars to maintain clean presentation look */
         body {
-            font-family: 'Inter', sans-serif;
-            /* Streamlit default background color */
-            background-color: #f0f2f6;
-            /* Streamlit default text color */
-            color: #31333F;
+            overflow: hidden;
+            background-color: #f0f8ff; /* Light blue (AliceBlue) */
         }
-        /* Custom accent color (Streamlit Red) */
-        .text-streamlit-red {
-            color: #FF4B4B;
+        .slide-container {
+            width: 500vw; /* 5 slides */
+            display: flex;
+            transition: transform 0.5s ease-in-out;
         }
-        .bg-streamlit-red {
-            background-color: #FF4B4B;
+        .slide {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 4rem 10rem;
+            text-align: center;
+            box-sizing: border-box;
         }
-        .hover-text-streamlit-red:hover {
-            color: #ff3333;
+        .nav-btn {
+            position: fixed;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(255, 255, 255, 0.7);
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: background 0.3s, opacity 0.3s;
+            z-index: 50;
         }
+        .nav-btn:hover {
+            background: rgba(255, 255, 255, 1);
+        }
+        .nav-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+        #prev-btn { left: 20px; }
+        #next-btn { right: 20px; }
     </style>
 </head>
-<body class="min-h-screen flex flex-col antialiased">
+<body class="text-slate-800 font-sans antialiased bg-blue-50">
 
-    <!-- Top Navigation / Header (Optional but helps with the app feel) -->
-    <header class="bg-white shadow-sm border-b border-gray-200">
-        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-            <div class="flex items-center gap-2">
-                <div class="w-4 h-4 rounded-full bg-streamlit-red"></div>
-                <span class="font-semibold text-lg tracking-tight">RUC Project</span>
-            </div>
-        </div>
-    </header>
+    <!-- Navigation Arrows -->
+    <button id="prev-btn" class="nav-btn text-blue-600 hover:text-blue-800" onclick="prevSlide()" disabled>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-8 h-8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+        </svg>
+    </button>
+    <button id="next-btn" class="nav-btn text-blue-600 hover:text-blue-800" onclick="nextSlide()">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-8 h-8">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+        </svg>
+    </button>
 
-    <!-- Main Content Area -->
-    <main class="flex-grow max-w-5xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-10">
+    <!-- Corner Branding (Hidden on Slide 1) -->
+    <div id="corner-branding" class="fixed bottom-8 right-8 flex flex-col items-end opacity-0 pointer-events-none transition-opacity duration-500 z-40">
+        <a href="http://hibyte.com/unhoused" target="_blank" class="text-lg text-blue-700 font-semibold mb-2 hover:underline">
+            hibyte.com/unhoused
+        </a>
+        <img src="landing_qrCode.png" alt="QR Code" class="w-24 h-24 rounded-lg shadow-md border-2 border-white bg-white">
+    </div>
 
-        <!-- Page Title -->
-        <div class="mb-8">
-            <h1 class="text-4xl sm:text-5xl font-bold tracking-tight text-gray-900 mb-2">
-                Rogue Unhoused Count
+    <!-- Slides Container -->
+    <div id="slider" class="slide-container">
+
+        <!-- Slide 1: Landing Page -->
+        <div class="slide">
+            <h1 class="text-4xl md:text-5xl font-bold mb-8 text-blue-900 max-w-4xl">
+                Landing page with links to all the materials in this presentation:
             </h1>
+            <a href="http://hibyte.com/unhoused" target="_blank" class="text-4xl text-blue-600 hover:text-blue-800 font-bold mb-10 hover:underline">
+                hibyte.com/unhoused
+            </a>
+            <div class="p-4 bg-white rounded-2xl shadow-xl">
+                <img src="landing_qrCode.png" alt="QR Code" class="w-64 h-64 object-contain">
+            </div>
         </div>
 
-        <!-- Description Panel (Placeholder for your text) -->
-        <section class="bg-white rounded-xl shadow-sm border border-gray-200 p-6 sm:p-8 mb-8">
-            <div class="flex items-center mb-4">
-                <svg class="w-6 h-6 text-gray-400 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                </svg>
-                <h2 class="text-2xl font-semibold text-gray-800">Project Overview</h2>
-            </div>
-
-            <!-- INSERT YOUR DESCRIPTION HERE -->
-            <div class="prose max-w-none text-gray-600 leading-relaxed">
-                <p>
-                    What's being seen in the field?  Let's have some analysis...
-                </p>
-            </div>
-        </section>
-
-        <!-- Link to Cascadia Site Panel -->
-        <section class="bg-white rounded-xl shadow-sm border border-gray-200 p-6 sm:p-8">
-            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Related Resources</h2>
-            <p class="text-gray-600 mb-6">
-                For additional context, regional data, and related initiatives, please visit the Cascadia project dashboard.
+        <!-- Slide 2: The Inspiration -->
+        <div class="slide">
+            <h2 class="text-5xl md:text-6xl font-extrabold mb-8 text-blue-900">
+                The inspiration &mdash; a "BS Index"
+            </h2>
+            <p class="text-3xl md:text-4xl text-slate-700 leading-relaxed max-w-4xl">
+                How do we know if the official statistics match reality at all?
             </p>
+        </div>
 
-            <a href="https://rr-unhoused.streamlit.app/" target="_blank" rel="noopener noreferrer"
-               class="inline-flex items-center px-5 py-2.5 bg-white border border-gray-300 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 transition-colors shadow-sm group">
-                <svg class="w-5 h-5 mr-2 text-streamlit-red" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path>
-                </svg>
-                Visit the Cascadia Site
-                <svg class="w-4 h-4 ml-2 text-gray-400 group-hover:text-gray-600 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
-                </svg>
-            </a>
-        </section>
+        <!-- Slide 3: Collecting Data -->
+        <div class="slide">
+            <h2 class="text-4xl md:text-5xl font-bold mb-8 text-blue-900 max-w-5xl">
+                It starts with collecting disparate services data.
+            </h2>
+            <p class="text-3xl md:text-4xl text-slate-700 leading-relaxed max-w-4xl">
+                And then you have to correlate the data and draw sensible conclusions.
+            </p>
+        </div>
 
-    </main>
+        <!-- Slide 4: Cascadia -->
+        <div class="slide">
+            <h2 class="text-4xl md:text-5xl font-bold mb-8 text-blue-900 max-w-5xl leading-tight">
+                Introducing Gene's work on <a href="https://rr-unhoused.streamlit.app/" target="_blank" class="text-blue-600 hover:text-blue-800 underline decoration-4 underline-offset-4">Cascadia</a> &mdash; <br>"A Continuum of Care"
+            </h2>
+            <p class="text-2xl md:text-3xl text-slate-700 leading-relaxed max-w-4xl">
+                On Friday it was a set of files on one laptop and a shared USB stick,<br>
+                and now it's visible publically on the web.
+            </p>
+        </div>
 
-    <!-- Footer -->
-    <footer class="mt-auto py-6 text-center">
-        <p class="text-sm text-gray-400">
-            &copy; 2026
-        </p>
-    </footer>
+        <!-- Slide 5: Conclusion -->
+        <div class="slide">
+            <p class="text-3xl md:text-4xl text-slate-800 leading-relaxed max-w-5xl font-medium">
+                Using modern AI-assisted coding techniques and a tool such as this, it should be possible to correlate collected data across a region and reach sensible conclusions over time about the population being served.
+            </p>
+        </div>
 
+    </div>
+
+    <!-- Application Logic -->
+    <script>
+        let currentSlide = 0;
+        const totalSlides = 5;
+        const slider = document.getElementById('slider');
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const cornerBranding = document.getElementById('corner-branding');
+
+        function updatePresentation() {
+            // Move slider
+            slider.style.transform = `translateX(-${currentSlide * 100}vw)`;
+
+            // Update button states
+            prevBtn.disabled = currentSlide === 0;
+            nextBtn.disabled = currentSlide === totalSlides - 1;
+
+            // Toggle corner branding visibility
+            if (currentSlide === 0) {
+                cornerBranding.classList.add('opacity-0', 'pointer-events-none');
+                cornerBranding.classList.remove('opacity-100', 'pointer-events-auto');
+            } else {
+                cornerBranding.classList.remove('opacity-0', 'pointer-events-none');
+                cornerBranding.classList.add('opacity-100', 'pointer-events-auto');
+            }
+        }
+
+        function nextSlide() {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                updatePresentation();
+            }
+        }
+
+        function prevSlide() {
+            if (currentSlide > 0) {
+                currentSlide--;
+                updatePresentation();
+            }
+        }
+
+        // Keyboard Event Listeners
+        document.addEventListener('keydown', (e) => {
+            // "n" key or Spacebar for next
+            if (e.key === 'n' || e.key === 'N' || e.key === ' ') {
+                if (e.key === ' ') {
+                    e.preventDefault(); // Prevent default page scrolling on spacebar
+                }
+                nextSlide();
+            }
+            // "p" key for previous
+            else if (e.key === 'p' || e.key === 'P') {
+                prevSlide();
+            }
+        });
+
+        // Initialize state on load
+        updatePresentation();
+    </script>
 </body>
 </html>
